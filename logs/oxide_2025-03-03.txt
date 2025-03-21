@@ -1,0 +1,194 @@
+12:02 [Info] Loading Oxide Core v2.0.4121...
+12:02 [Info] Loading extensions...
+12:02 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+12:02 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+12:02 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+12:02 [Info] Unity version: 2022.3.41f1
+12:02 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+12:02 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+12:02 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+12:02 [Info] [CSharp] Oxide.Compiler.exe is up to date
+12:02 [Info] Using Covalence provider for game 'Rust'
+12:02 [Info] Loading plugins...
+12:02 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+12:02 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+12:02 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:02 [Info] CultistTrader and WelcomeMessage were compiled successfully in 0ms
+12:02 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:02 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+12:03 [Info] Shutting down compiler because idle shutdown
+12:03 [Info] Compiler shutdown completed
+12:06 [Info] IP address from external API: 185.9.187.153
+12:11 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:11 [Info] CultistTrader was compiled successfully in 1255ms
+12:11 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+12:11 [Error] Unable to find main plugin class: CultistTrader
+12:11 [Info] No previous version to rollback plugin: CultistTrader
+12:11 [Error] Unable to find main plugin class: CultistTrader
+12:11 [Info] No previous version to rollback plugin: CultistTrader
+12:12 [Info] Shutting down compiler because idle shutdown
+12:12 [Info] Compiler shutdown completed
+12:13 [Info] Listing 2 plugins:
+  01 "WelcomeMessage" (1.0.0) by Твой Ник (0.00s / 0 B) - WelcomeMessage.cs
+  02 CultistTrader - Unloaded
+12:13 [Info] Loading Oxide Core v2.0.4121...
+12:13 [Info] Loading extensions...
+12:13 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+12:13 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+12:13 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+12:13 [Info] Unity version: 2022.3.41f1
+12:13 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+12:13 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+12:13 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+12:13 [Info] [CSharp] Oxide.Compiler.exe is up to date
+12:13 [Info] Using Covalence provider for game 'Rust'
+12:13 [Info] Loading plugins...
+12:13 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+12:13 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+12:13 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:13 [Info] CultistTrader and WelcomeMessage were compiled successfully in 0ms
+12:13 [Error] Unable to find main plugin class: CultistTrader
+12:13 [Info] No previous version to rollback plugin: CultistTrader
+12:13 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+12:16 [Info] Shutting down compiler because idle shutdown
+12:16 [Info] Compiler shutdown completed
+12:16 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:17 [Info] Loading Oxide Core v2.0.4121...
+12:17 [Info] Loading extensions...
+12:17 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+12:17 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+12:17 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+12:17 [Info] Unity version: 2022.3.41f1
+12:17 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+12:17 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+12:17 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+12:17 [Info] [CSharp] Oxide.Compiler.exe is up to date
+12:17 [Info] Using Covalence provider for game 'Rust'
+12:17 [Info] Loading plugins...
+12:17 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+12:17 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+12:17 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:17 [Info] CultistTrader and WelcomeMessage were compiled successfully in 0ms
+12:17 [Error] Unable to find main plugin class: CultistTrader
+12:17 [Info] No previous version to rollback plugin: CultistTrader
+12:17 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+12:18 [Info] Shutting down compiler because idle shutdown
+12:18 [Info] Compiler shutdown completed
+12:20 [Info] Loading Oxide Core v2.0.4121...
+12:20 [Info] Loading extensions...
+12:20 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+12:20 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+12:20 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+12:20 [Info] Unity version: 2022.3.41f1
+12:20 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+12:20 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+12:20 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+12:20 [Info] [CSharp] Oxide.Compiler.exe is up to date
+12:20 [Info] Using Covalence provider for game 'Rust'
+12:20 [Info] Loading plugins...
+12:20 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+12:20 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+12:20 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:20 [Info] CultistTrader and WelcomeMessage were compiled successfully in 0ms
+12:20 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:20 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+12:21 [Info] Shutting down compiler because idle shutdown
+12:21 [Info] Compiler shutdown completed
+12:24 [Info] IP address from external API: 185.9.187.153
+12:30 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x00029] in <1a46d3cd9bdd4382a34b2b16fe398fc6>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x00009] in <1a46d3cd9bdd4382a34b2b16fe398fc6>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00140] in <1a46d3cd9bdd4382a34b2b16fe398fc6>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+12:33 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:33 [Error] Error while compiling CultistTrader: Type 'CultistTrader' already defines a member called 'CmdForceSpawn' with the same parameter types | Line: 95, Pos: 22
+12:34 [Info] Shutting down compiler because idle shutdown
+12:34 [Info] Compiler shutdown completed
+12:36 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:37 [Error] Error while compiling CultistTrader: The name 'cultistEntity' does not exist in the current context | Line: 108, Pos: 13
+12:38 [Info] Shutting down compiler because idle shutdown
+12:38 [Info] Compiler shutdown completed
+12:38 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:38 [Error] Error while compiling CultistTrader: The name 'cultistEntity' does not exist in the current context | Line: 108, Pos: 13
+12:39 [Info] Shutting down compiler because idle shutdown
+12:39 [Info] Compiler shutdown completed
+12:40 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:40 [Info] CultistTrader was compiled successfully in 1374ms
+12:40 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+12:40 [Warning] CultistTrader has replaced the 'cultist_spawn' chat command previously registered by CultistTrader
+12:40 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:41 [Info] Shutting down compiler because idle shutdown
+12:41 [Info] Compiler shutdown completed
+12:47 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:48 [Info] CultistTrader was compiled successfully in 1374ms
+12:48 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+12:48 [Warning] CultistTrader has replaced the 'cultist_spawn' chat command previously registered by CultistTrader
+12:48 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:49 [Info] Shutting down compiler because idle shutdown
+12:49 [Info] Compiler shutdown completed
+12:49 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:49 [Info] CultistTrader was compiled successfully in 1478ms
+12:49 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+12:49 [Warning] CultistTrader has replaced the 'cultist_spawn' chat command previously registered by CultistTrader
+12:49 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:49 [Info] CultistTrader was compiled successfully in 536ms
+12:49 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+12:49 [Warning] CultistTrader has replaced the 'cultist_spawn' chat command previously registered by CultistTrader
+12:49 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:49 [Info] CultistTrader was compiled successfully in 417ms
+12:49 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+12:49 [Warning] CultistTrader has replaced the 'cultist_spawn' chat command previously registered by CultistTrader
+12:49 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:50 [Info] CultistTrader was compiled successfully in 1118ms
+12:50 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+12:50 [Warning] CultistTrader has replaced the 'cultist_spawn' chat command previously registered by CultistTrader
+12:50 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:50 [Info] CultistTrader was compiled successfully in 871ms
+12:50 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+12:50 [Warning] CultistTrader has replaced the 'cultist_spawn' chat command previously registered by CultistTrader
+12:50 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:50 [Info] CultistTrader was compiled successfully in 240ms
+12:50 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+12:50 [Warning] CultistTrader has replaced the 'cultist_spawn' chat command previously registered by CultistTrader
+12:50 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:52 [Info] Shutting down compiler because idle shutdown
+12:52 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:52 [Info] Compiler shutdown completed
+12:52 [Info] CultistTrader was compiled successfully in 1306ms
+12:52 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+12:52 [Warning] CultistTrader has replaced the 'cultist_spawn' chat command previously registered by CultistTrader
+12:52 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+12:53 [Info] Shutting down compiler because idle shutdown
+12:53 [Info] Compiler shutdown completed
+14:05 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:05 [Info] CultistTrader was compiled successfully in 1374ms
+14:05 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+14:05 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+14:05 [Info] Listing 2 plugins:
+  01 "CultistTrader" (1.2.0) by Твой Ник (0.00s / 0 B) - CultistTrader.cs
+  02 "WelcomeMessage" (1.0.0) by Твой Ник (0.00s / 12 KB) - WelcomeMessage.cs
+14:06 [Info] Shutting down compiler because idle shutdown
+14:06 [Info] Compiler shutdown completed
+14:10 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:10 [Info] CultistTrader was compiled successfully in 1339ms
+14:10 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+14:10 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+14:11 [Info] Shutting down compiler because idle shutdown
+14:11 [Info] Compiler shutdown completed
+14:12 [Error] [CultistTrader] ❌ Ошибка: Не удалось создать существо по пути: assets/bundled/prefabs/autospawn/animals/bear.prefab
+14:17 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:17 [Info] CultistTrader was compiled successfully in 1392ms
+14:17 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+14:17 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+14:18 [Error] [CultistTrader] ❌ Ошибка: Не удалось создать НПС по пути: assets/prefabs/npc/murderer/murderer.prefab
+14:18 [Info] Shutting down compiler because idle shutdown
+14:18 [Info] Compiler shutdown completed
+14:20 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:20 [Info] CultistTrader was compiled successfully in 1374ms
+14:20 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+14:20 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+14:20 [Error] [CultistTrader] ❌ Ошибка: Префаб не найден по пути: assets/prefabs/npc/murderer/murderer.prefab
+14:21 [Info] Shutting down compiler because idle shutdown
+14:21 [Info] Compiler shutdown completed

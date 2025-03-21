@@ -1,0 +1,153 @@
+11:52 [Info] Loading Oxide Core v2.0.4121...
+11:52 [Info] Loading extensions...
+11:52 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+11:52 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+11:52 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+11:52 [Info] Unity version: 2022.3.41f1
+11:52 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+11:52 [Info] Loaded extension Rust v2.0.6408 by Oxide Team and Contributors
+11:52 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+11:52 [Info] [CSharp] Oxide.Compiler.exe is up to date
+11:52 [Info] Using Covalence provider for game 'Rust'
+11:52 [Info] Loading plugins...
+11:52 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+11:52 [Info] Loaded plugin Rust v2.0.6408 by Oxide Team and Contributors
+11:52 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+11:52 [Info] CultistTrader, NpcSpawn, PluginManager and WelcomeMessage were compiled successfully in 0ms
+11:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+11:52 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+11:52 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+11:52 [Info] Loaded plugin PluginManager v2.0.0 by Quake
+11:52 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+11:52 [Warning] [CultistTrader] NpcSpawn loaded! Starting spawn timer.
+11:53 [Info] Shutting down compiler because idle shutdown
+11:53 [Info] Compiler shutdown completed
+11:56 [Info] IP address from external API: 185.9.187.153
+11:56 [Info] [NpcSpawn] Loading custom navigation mesh files...
+11:56 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+11:56 [Info] [NpcSpawn] List of biome positions: Arid = 1345, Temperate = 1747, Tundra = 688, Arctic = 698
+11:56 [Info] [NpcSpawn] List of road positions: ExtraWide = 1028, Standard = 2363, ExtraNarrow = 1529
+11:56 [Info] [NpcSpawn] 2599 railway positions found
+11:56 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 139ms
+12:01 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:01 [Error] Error while compiling PluginManager: The name 'AddText' does not exist in the current context | Line: 47, Pos: 13
+12:02 [Info] Shutting down compiler because idle shutdown
+12:02 [Info] Compiler shutdown completed
+12:02 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:02 [Error] Error while compiling PluginManager: The modifier 'private' is not valid for this item | Line: 47, Pos: 13
+12:03 [Info] Shutting down compiler because idle shutdown
+12:03 [Info] Compiler shutdown completed
+12:04 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:04 [Info] PluginManager was compiled successfully in 1356ms
+12:04 [Info] Unloaded plugin PluginManager v2.0.0 by Quake
+12:04 [Info] Loaded plugin PluginManager v2.1.0 by Quake
+12:05 [Info] Shutting down compiler because idle shutdown
+12:05 [Info] Compiler shutdown completed
+12:10 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:10 [Info] PluginManager was compiled successfully in 1300ms
+12:10 [Info] Unloaded plugin PluginManager v2.1.0 by Quake
+12:10 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+12:11 [Info] Shutting down compiler because idle shutdown
+12:11 [Info] Compiler shutdown completed
+12:14 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:14 [Info] PluginManager was compiled successfully in 1375ms
+12:14 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+12:14 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+12:15 [Info] Shutting down compiler because idle shutdown
+12:15 [Info] Compiler shutdown completed
+12:18 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:18 [Info] PluginManager was compiled successfully in 1371ms
+12:18 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+12:18 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+12:19 [Info] Shutting down compiler because idle shutdown
+12:19 [Info] Compiler shutdown completed
+14:52 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.23, 56.38, -22.33)). Пробуем другую точку...
+14:52 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.56, 56.41, -20.46)). Пробуем другую точку...
+14:52 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.02, 57.37, -19.64)). Пробуем другую точку...
+14:52 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.18, 56.57, -19.42)). Пробуем другую точку...
+14:52 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.30, 56.48, -18.82)). Пробуем другую точку...
+14:52 [Warning] [CultistTrader] Spawning Cultist near Substation (Координаты: (0.30, 56.48, -17.82))
+15:56 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:56 [Error] Error while compiling PluginManager: Cannot convert method group 'IsEnabled' to non-delegate type 'bool'. Did you intend to invoke the method? | Line: 114, Pos: 41
+15:56 [Error] Error while compiling PluginManager: Cannot convert method group 'IsEnabled' to non-delegate type 'bool'. Did you intend to invoke the method? | Line: 114, Pos: 41
+15:56 [Error] Error while compiling PluginManager: ; expected | Line: 114, Pos: 32
+15:56 [Error] Error while compiling PluginManager: Cannot convert method group 'IsEnabled' to non-delegate type 'bool'. Did you intend to invoke the method? | Line: 114, Pos: 41
+15:57 [Error] Error while compiling PluginManager: 'Plugin' does not contain a definition for 'IsEnabled' and the best extension method overload 'ComponentEx.IsEnabled(Component)' requires a receiver of type 'UnityEngine.Component' | Line: 114, Pos: 34
+15:57 [Error] Error while compiling PluginManager: Operator '!' cannot be applied to operand of type 'method group' | Line: 174, Pos: 17
+15:58 [Info] Shutting down compiler because idle shutdown
+15:58 [Info] Compiler shutdown completed
+16:00 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:00 [Error] Error while compiling PluginManager: Operator '!' cannot be applied to operand of type 'method group' | Line: 174, Pos: 17
+16:01 [Error] Error while compiling PluginManager: 'Plugins' does not contain a definition for 'Unload' and no accessible extension method 'Unload' accepting a first argument of type 'Plugins' could be found (are you missing a using directive or an assembly reference?) | Line: 181, Pos: 21
+16:02 [Info] PluginManager was compiled successfully in 702ms
+16:02 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:02 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:03 [Info] Shutting down compiler because idle shutdown
+16:03 [Info] Compiler shutdown completed
+16:09 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:09 [Info] PluginManager was compiled successfully in 1421ms
+16:09 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:09 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:10 [Info] PluginManager was compiled successfully in 269ms
+16:10 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:10 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:10 [Info] PluginManager was compiled successfully in 1135ms
+16:10 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:10 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:10 [Info] PluginManager was compiled successfully in 805ms
+16:10 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:10 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:10 [Info] PluginManager was compiled successfully in 184ms
+16:10 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:10 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:11 [Info] Shutting down compiler because idle shutdown
+16:11 [Info] Compiler shutdown completed
+16:15 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:15 [Info] PluginManager was compiled successfully in 1374ms
+16:15 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:15 [Info] Loaded plugin PluginManager v2.3.0 by Quake
+16:16 [Info] Shutting down compiler because idle shutdown
+16:16 [Info] Compiler shutdown completed
+16:16 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:16 [Info] PluginManager was compiled successfully in 1372ms
+16:16 [Info] Unloaded plugin PluginManager v2.3.0 by Quake
+16:16 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:17 [Info] Shutting down compiler because idle shutdown
+16:17 [Info] Compiler shutdown completed
+16:18 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:18 [Info] PluginManager was compiled successfully in 1375ms
+16:18 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:18 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:19 [Info] Shutting down compiler because idle shutdown
+16:19 [Info] Compiler shutdown completed
+16:20 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:20 [Info] PluginManager was compiled successfully in 1393ms
+16:20 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:20 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:20 [Info] PluginManager was compiled successfully in 302ms
+16:20 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:20 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:21 [Info] Shutting down compiler because idle shutdown
+16:21 [Info] Compiler shutdown completed
+16:23 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:23 [Info] PluginManager was compiled successfully in 1409ms
+16:23 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:23 [Info] Loaded plugin PluginManager v2.2.0 by Quake
+16:24 [Info] Shutting down compiler because idle shutdown
+16:24 [Info] Compiler shutdown completed
+16:26 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:26 [Info] PluginManager was compiled successfully in 1418ms
+16:26 [Info] Unloaded plugin PluginManager v2.2.0 by Quake
+16:26 [Info] Loaded plugin PluginManager v2.2.1 by Quake
+16:27 [Info] Shutting down compiler because idle shutdown
+16:27 [Info] Compiler shutdown completed
+16:30 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:30 [Info] PluginManager was compiled successfully in 1439ms
+16:30 [Info] Unloaded plugin PluginManager v2.2.1 by Quake
+16:30 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+16:31 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+16:31 [Info] Unloaded plugin NpcSpawn v2.8.0 by rustmods.ru
+16:31 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+16:31 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Твой Ник
+16:31 [Info] Shutting down compiler because idle shutdown
+16:31 [Info] Compiler shutdown completed

@@ -1,0 +1,481 @@
+11:10 [Info] Loading Oxide Core v2.0.4121...
+11:10 [Info] Loading extensions...
+11:10 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+11:10 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+11:10 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+11:10 [Info] Unity version: 2022.3.41f1
+11:10 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+11:10 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+11:10 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+11:10 [Info] [CSharp] Oxide.Compiler.exe is up to date
+11:10 [Info] Using Covalence provider for game 'Rust'
+11:10 [Info] Loading plugins...
+11:10 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+11:10 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+11:10 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+11:10 [Info] CultistTrader, NpcSpawn and WelcomeMessage were compiled successfully in 0ms
+11:10 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+11:10 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+11:10 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+11:10 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+11:10 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+11:11 [Info] Shutting down compiler because idle shutdown
+11:11 [Info] Compiler shutdown completed
+11:16 [Info] IP address from external API: 185.9.187.153
+11:16 [Info] [NpcSpawn] Loading custom navigation mesh files...
+11:16 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+11:16 [Info] [NpcSpawn] List of biome positions: Arid = 1351, Temperate = 1726, Tundra = 654, Arctic = 741
+11:16 [Info] [NpcSpawn] List of road positions: ExtraWide = 1333, Standard = 1890, ExtraNarrow = 1522
+11:16 [Info] [NpcSpawn] 2595 railway positions found
+11:16 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 120ms
+11:33 [Info] Loading Oxide Core v2.0.4121...
+11:33 [Info] Loading extensions...
+11:33 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+11:33 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+11:33 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+11:33 [Info] Unity version: 2022.3.41f1
+11:33 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+11:33 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+11:33 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+11:33 [Info] [CSharp] Oxide.Compiler.exe is up to date
+11:33 [Info] Using Covalence provider for game 'Rust'
+11:33 [Info] Loading plugins...
+11:33 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+11:33 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+11:33 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+11:33 [Info] CultistTrader, NpcSpawn and WelcomeMessage were compiled successfully in 0ms
+11:33 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+11:33 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+11:33 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+11:33 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+11:33 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+11:34 [Info] Shutting down compiler because idle shutdown
+11:34 [Info] Compiler shutdown completed
+11:38 [Info] IP address from external API: 185.9.187.153
+11:38 [Info] [NpcSpawn] Loading custom navigation mesh files...
+11:38 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+11:38 [Info] [NpcSpawn] List of biome positions: Arid = 1381, Temperate = 1769, Tundra = 648, Arctic = 737
+11:38 [Info] [NpcSpawn] List of road positions: ExtraWide = 1333, Standard = 1890, ExtraNarrow = 1522
+11:38 [Info] [NpcSpawn] 2595 railway positions found
+11:38 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 126ms
+11:41 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+11:42 [Info] CultistTrader was compiled successfully in 1353ms
+11:42 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+11:42 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+11:42 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+11:42 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+11:43 [Info] Shutting down compiler because idle shutdown
+11:43 [Info] Compiler shutdown completed
+11:57 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (57.44, 2.62, -1511.05))
+11:58 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (463.59, 48.95, -654.92))
+11:58 [Warning] [CultistTrader] 📍 Спавним Культиста у Спутниковой станции (Координаты: (-50.53, 49.99, -36.81))
+14:42 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (1569.18, 26.03, -1546.60))
+16:37 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:37 [Error] Error while compiling CultistTrader: The modifier 'private' is not valid for this item | Line: 276, Pos: 9
+16:38 [Info] Shutting down compiler because idle shutdown
+16:38 [Info] Compiler shutdown completed
+17:01 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:02 [Error] Error while compiling CultistTrader: 'CultistTrader.GetMonumentName(MonumentInfo)': not all code paths return a value | Line: 260, Pos: 24
+17:02 [Info] CultistTrader was compiled successfully in 617ms
+17:02 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+17:02 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+17:02 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+17:02 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+17:02 [Warning] [CultistTrader] 📍 Спавним Культиста у Рыбацкой деревни (Координаты: (-1790.38, -2.55, 713.73))
+17:02 [Warning] Calling 'CmdForceSpawn' on 'CultistTrader v2.5.0' took 174ms
+17:02 [Warning] Calling 'OnPlayerInput' on 'CultistTrader v2.5.0' took 155ms
+17:03 [Info] Shutting down compiler because idle shutdown
+17:03 [Info] Compiler shutdown completed
+18:12 [Warning] Calling 'OnEntityKill' on 'NpcSpawn v2.8.0' took 108ms
+18:57 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:57 [Error] Error while compiling CultistTrader: Type 'CultistTrader' already defines a member called 'IsBadSpawnLocation' with the same parameter types | Line: 280, Pos: 22
+18:58 [Info] Shutting down compiler because idle shutdown
+18:58 [Info] Compiler shutdown completed
+19:12 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+19:12 [Error] Error while compiling CultistTrader: Invalid token 'if' in class, record, struct, or interface member declaration | Line: 281, Pos: 13
+19:13 [Info] Shutting down compiler because idle shutdown
+19:13 [Info] Compiler shutdown completed
+19:17 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+19:17 [Error] Error while compiling CultistTrader: Invalid token 'if' in class, record, struct, or interface member declaration | Line: 280, Pos: 13
+19:17 [Error] Error while compiling CultistTrader: Invalid token 'if' in class, record, struct, or interface member declaration | Line: 280, Pos: 13
+19:18 [Info] Shutting down compiler because idle shutdown
+19:18 [Info] Compiler shutdown completed
+19:18 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+19:18 [Error] Error while compiling CultistTrader: Invalid token 'if' in class, record, struct, or interface member declaration | Line: 281, Pos: 13
+19:19 [Info] Shutting down compiler because idle shutdown
+19:19 [Info] Compiler shutdown completed
+19:33 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+19:33 [Error] Error while compiling CultistTrader: Invalid token 'if' in class, record, struct, or interface member declaration | Line: 280, Pos: 13
+19:34 [Error] Error while compiling CultistTrader: Invalid token 'if' in class, record, struct, or interface member declaration | Line: 278, Pos: 13
+19:35 [Info] CultistTrader was compiled successfully in 1059ms
+19:35 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+19:35 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+19:35 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+19:35 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+19:35 [Warning] [CultistTrader] 📍 Спавним Культиста у Assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab (Координаты: (1757.21, 36.71, 887.72))
+19:36 [Info] Shutting down compiler because idle shutdown
+19:36 [Info] Compiler shutdown completed
+19:37 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+19:37 [Info] CultistTrader was compiled successfully in 1439ms
+19:37 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+19:37 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+19:37 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+19:38 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+19:38 [Info] CultistTrader was compiled successfully in 1186ms
+19:38 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+19:38 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+19:38 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+19:38 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+19:38 [Error] [CultistTrader] ❌ Не удалось найти подходящее место для спавна!
+19:39 [Info] Shutting down compiler because idle shutdown
+19:39 [Info] Compiler shutdown completed
+19:40 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+19:40 [Info] CultistTrader was compiled successfully in 1373ms
+19:40 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+19:40 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+19:40 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+19:40 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+19:40 [Error] [CultistTrader] ❌ Не удалось найти подходящее место для спавна!
+19:41 [Error] Error while compiling CultistTrader: Invalid token 'if' in class, record, struct, or interface member declaration | Line: 278, Pos: 13
+19:41 [Error] Error while compiling CultistTrader: Invalid token 'if' in class, record, struct, or interface member declaration | Line: 278, Pos: 1
+19:41 [Info] CultistTrader was compiled successfully in 66ms
+19:41 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+19:41 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+19:41 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+19:41 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+19:41 [Warning] [CultistTrader] 📍 Спавним Культиста у Assets/bundled/prefabs/autospawn/monument/cave/cave_large_sewers_hard.prefab (Координаты: (-1308.25, 21.32, -1572.24))
+19:42 [Info] Shutting down compiler because idle shutdown
+19:42 [Info] Compiler shutdown completed
+19:42 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+19:43 [Info] CultistTrader was compiled successfully in 1441ms
+19:43 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+19:43 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+19:43 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+19:43 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+19:43 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (1074.44, 13.31, -1280.73))
+19:44 [Info] Shutting down compiler because idle shutdown
+19:44 [Info] Compiler shutdown completed
+20:34 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:34 [Info] CultistTrader was compiled successfully in 1383ms
+20:34 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+20:34 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:34 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+20:34 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:35 [Info] Shutting down compiler because idle shutdown
+20:35 [Info] Compiler shutdown completed
+20:38 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (886.39, 47.73, -609.51))
+20:39 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:39 [Info] CultistTrader was compiled successfully in 1441ms
+20:39 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+20:39 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:39 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+20:39 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:39 [Error] [CultistTrader] ⚠️ Ошибка: место спавна не определено! Используем запасное значение.
+20:39 [Warning] [CultistTrader] 📍 Спавним Культиста у таинственного монумента (Координаты: (-1549.86, 9.80, 1717.37))
+20:40 [Error] [CultistTrader] ⚠️ Ошибка: место спавна не определено! Используем запасное значение.
+20:40 [Warning] [CultistTrader] 📍 Спавним Культиста у таинственного монумента (Координаты: (1512.63, 33.75, -355.83))
+20:40 [Info] Shutting down compiler because idle shutdown
+20:40 [Info] Compiler shutdown completed
+20:41 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:41 [Info] CultistTrader was compiled successfully in 1422ms
+20:41 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+20:41 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:41 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+20:41 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:41 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/fishing_village/fishing_village_a.prefab
+20:41 [Warning] [CultistTrader] 📍 Спавним Культиста у Рыбацкой деревни (Координаты: (956.55, -10.69, -1956.17))
+20:41 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:41 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+20:41 [Error] [CultistTrader] ⚠️ Ошибка: место спавна не определено! Используем запасное значение.
+20:41 [Warning] [CultistTrader] 📍 Спавним Культиста у таинственного монумента (Координаты: (-1385.10, 2.90, 872.01))
+20:41 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/cave/cave_small_hard.prefab
+20:41 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/cave/cave_small_hard.prefab, возвращаем 'неизвестного места'
+20:41 [Error] [CultistTrader] ⚠️ Ошибка: место спавна не определено! Используем запасное значение.
+20:41 [Warning] [CultistTrader] 📍 Спавним Культиста у таинственного монумента (Координаты: (365.53, 19.89, -1716.90))
+20:42 [Info] Shutting down compiler because idle shutdown
+20:42 [Info] Compiler shutdown completed
+20:43 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:43 [Info] CultistTrader was compiled successfully in 1438ms
+20:43 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+20:43 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:43 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+20:43 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:43 [Info] CultistTrader was compiled successfully in 438ms
+20:43 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+20:43 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:43 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+20:43 [Info] CultistTrader was compiled successfully in 551ms
+20:43 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+20:43 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:43 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+20:43 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:43 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/fishing_village/fishing_village_c.prefab
+20:43 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/fishing_village/fishing_village_c.prefab
+20:43 [Warning] [CultistTrader] ✅ Найдено место для спавна: Рыбацкой деревни
+20:43 [Warning] [CultistTrader] 📍 Спавним Культиста у Рыбацкой деревни (Координаты: (-1788.52, -2.10, 711.93))
+20:43 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab
+20:43 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab
+20:43 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab, возвращаем 'неизвестного места'
+20:43 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab' не распознан! Пропускаем.
+20:43 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab
+20:43 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab
+20:43 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab, возвращаем 'неизвестного места'
+20:43 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab' не распознан! Пропускаем.
+20:43 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/large/excavator_1.prefab
+20:43 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/large/excavator_1.prefab
+20:43 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/large/excavator_1.prefab, возвращаем 'неизвестного места'
+20:43 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/large/excavator_1.prefab' не распознан! Пропускаем.
+20:43 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/large/powerplant_1.prefab
+20:43 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/large/powerplant_1.prefab
+20:43 [Warning] [CultistTrader] ✅ Найдено место для спавна: Электростанции
+20:43 [Warning] [CultistTrader] 📍 Спавним Культиста у Электростанции (Координаты: (-1084.32, 24.96, -636.39))
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/large/airfield_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/large/airfield_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/large/powerplant_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/large/powerplant_1.prefab
+20:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Электростанции
+20:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Электростанции (Координаты: (-1084.87, 24.99, -636.08))
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/xlarge/launch_site_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/xlarge/launch_site_1.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/xlarge/launch_site_1.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/xlarge/launch_site_1.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/cave/cave_medium_medium.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/cave/cave_medium_medium.prefab
+20:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Пещеры
+20:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Пещеры (Координаты: (465.69, 49.56, -655.56))
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/offshore/oilrig_2.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/offshore/oilrig_2.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/offshore/oilrig_2.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/offshore/oilrig_2.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/roadside/gas_station_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/roadside/gas_station_1.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/roadside/gas_station_1.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/roadside/gas_station_1.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/cave/cave_medium_hard.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/cave/cave_medium_hard.prefab
+20:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Пещеры
+20:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Пещеры (Координаты: (-1560.16, 26.74, 1197.21))
+20:44 [Info] Shutting down compiler because idle shutdown
+20:44 [Info] Compiler shutdown completed
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/medium/nuclear_missile_silo.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/medium/nuclear_missile_silo.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/medium/nuclear_missile_silo.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/medium/nuclear_missile_silo.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_d.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_d.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_d.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_d.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/small/mining_quarry_a.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/small/mining_quarry_a.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/small/mining_quarry_a.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/small/mining_quarry_a.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/ice_lakes/ice_lake_4.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/unique_environment/lake/ue_lake_b.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/unique_environment/lake/ue_lake_b.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/unique_environment/lake/ue_lake_b.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/unique_environment/lake/ue_lake_b.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/swamp/swamp_b.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/swamp/swamp_b.prefab
+20:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Болота
+20:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Болота (Координаты: (567.98, 32.81, -996.14))
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/medium/bandit_town.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/medium/bandit_town.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/medium/bandit_town.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/medium/bandit_town.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/harbor/harbor_2.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/harbor/harbor_2.prefab
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+20:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab, возвращаем 'неизвестного места'
+20:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab' не распознан! Пропускаем.
+20:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/large/water_treatment_plant_1.prefab
+20:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/large/water_treatment_plant_1.prefab
+20:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Электростанции
+20:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Электростанции (Координаты: (-587.71, 37.30, 83.56))
+20:50 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:50 [Error] Error while compiling CultistTrader: Invalid expression term 'return' | Line: 315, Pos: 53
+20:50 [Error] Error while compiling CultistTrader: ) expected | Line: 315, Pos: 50
+20:51 [Info] Shutting down compiler because idle shutdown
+20:51 [Info] Compiler shutdown completed
+21:11 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:11 [Error] Error while compiling CultistTrader: ) expected | Line: 315, Pos: 50
+21:12 [Info] Shutting down compiler because idle shutdown
+21:12 [Info] Compiler shutdown completed
+22:43 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/fishing_village/fishing_village_c.prefab
+22:43 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/fishing_village/fishing_village_c.prefab
+22:43 [Warning] [CultistTrader] ✅ Найдено место для спавна: Рыбацкой деревни
+22:43 [Warning] [CultistTrader] 📍 Спавним Культиста у Рыбацкой деревни (Координаты: (-1792.59, -3.26, 717.40))
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_a.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_a.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_a.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_a.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/swamp/swamp_b.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/swamp/swamp_b.prefab
+22:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Болота
+22:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Болота (Координаты: (569.31, 32.65, -998.39))
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/cave/cave_large_medium.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/cave/cave_large_medium.prefab
+22:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Пещеры
+22:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Пещеры (Координаты: (-841.30, 33.64, -531.30))
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_d.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_d.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_d.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/tunnel-entrance/entrance_bunker_d.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/fishing_village/fishing_village_a.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/fishing_village/fishing_village_a.prefab
+22:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Рыбацкой деревни
+22:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Рыбацкой деревни (Координаты: (958.91, -10.77, -1956.44))
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/underwater_lab/underwater_lab_c.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/lighthouse/lighthouse.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/lighthouse/lighthouse.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/monument/lighthouse/lighthouse.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/monument/lighthouse/lighthouse.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/swamp/swamp_a.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/swamp/swamp_a.prefab
+22:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Болота
+22:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Болота (Координаты: (-255.29, 17.26, 390.50))
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/large/trainyard_1.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/large/trainyard_1.prefab
+22:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Ж/д станции
+22:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Ж/д станции (Координаты: (1020.11, 54.93, 442.13))
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab
+22:44 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab, возвращаем 'неизвестного места'
+22:44 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab' не распознан! Пропускаем.
+22:44 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/harbor/harbor_1.prefab
+22:44 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/harbor/harbor_1.prefab
+22:44 [Warning] [CultistTrader] ✅ Найдено место для спавна: Порта
+22:44 [Warning] [CultistTrader] 📍 Спавним Культиста у Порта (Координаты: (-1869.45, -1.37, 139.62))
+22:45 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab
+22:45 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab
+22:45 [Error] [CultistTrader] ⚠️ Неизвестный монумент: assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab, возвращаем 'неизвестного места'
+22:45 [Error] [CultistTrader] ⚠️ Монумент 'assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab' не распознан! Пропускаем.
+22:45 [Warning] [CultistTrader] 🔍 Найден монумент: assets/bundled/prefabs/autospawn/monument/cave/cave_medium_hard.prefab
+22:45 [Warning] [CultistTrader] 🔍 Определяем название для монумента: assets/bundled/prefabs/autospawn/monument/cave/cave_medium_hard.prefab
+22:45 [Warning] [CultistTrader] ✅ Найдено место для спавна: Пещеры
+22:45 [Warning] [CultistTrader] 📍 Спавним Культиста у Пещеры (Координаты: (-1559.40, 26.74, 1199.32))
+22:46 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:46 [Error] Error while compiling CultistTrader: ) expected | Line: 315, Pos: 50
+22:46 [Info] Shutting down compiler because process exited

@@ -1,0 +1,717 @@
+12:57 [Info] Loading Oxide Core v2.0.4121...
+12:57 [Info] Loading extensions...
+12:57 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+12:57 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+12:57 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+12:57 [Info] Unity version: 2022.3.41f1
+12:57 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+12:57 [Info] Loaded extension Rust v2.0.6410 by Oxide Team and Contributors
+12:57 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+12:57 [Info] [CSharp] Oxide.Compiler.exe is up to date
+12:57 [Info] Using Covalence provider for game 'Rust'
+12:57 [Info] Loading plugins...
+12:57 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+12:57 [Info] Loaded plugin Rust v2.0.6410 by Oxide Team and Contributors
+12:57 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:57 [Info] CultistTrader, PluginManager and WelcomeMessage were compiled successfully in 0ms
+12:57 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+12:57 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+12:57 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:58 [Info] Shutting down compiler because idle shutdown
+12:58 [Info] Compiler shutdown completed
+13:03 [Info] IP address from external API: 185.9.187.153
+13:33 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+13:33 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:33 [Info] CultistTrader was compiled successfully in 1466ms
+13:33 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+13:34 [Info] PluginManager was compiled successfully in 444ms
+13:34 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:34 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:34 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+13:34 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+13:34 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+13:34 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+13:35 [Info] Shutting down compiler because idle shutdown
+13:35 [Info] Compiler shutdown completed
+13:35 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+13:35 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:35 [Info] WelcomeMessage was compiled successfully in 1340ms
+13:35 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:36 [Info] Shutting down compiler because idle shutdown
+13:36 [Info] Compiler shutdown completed
+13:39 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:39 [Info] Plugin1, Plugin2, Plugin3, Plugin4, Plugin5, Plugin6, Plugin7 and Plugin8 were compiled successfully in 1293ms
+13:39 [Info] Loaded plugin Plugin1 v1.0.0 by Author
+13:39 [Info] Loaded plugin Plugin2 v1.0.0 by Author
+13:39 [Info] Loaded plugin Plugin3 v1.0.0 by Author
+13:39 [Info] Loaded plugin Plugin4 v1.0.0 by Author
+13:39 [Info] Loaded plugin Plugin5 v1.0.0 by Author
+13:39 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+13:39 [Info] Loaded plugin Plugin7 v1.0.0 by Author
+13:39 [Info] Loaded plugin Plugin8 v1.0.0 by Author
+13:40 [Info] Shutting down compiler because idle shutdown
+13:40 [Info] Compiler shutdown completed
+13:41 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:41 [Error] Error while compiling PluginManager: 'CuiPanel' does not contain a definition for 'ScrollRect' | Line: 141, Pos: 17
+13:42 [Error] Error while compiling PluginManager: 'CuiPanel' does not contain a definition for 'ScrollRect' | Line: 141, Pos: 17
+13:43 [Info] Shutting down compiler because idle shutdown
+13:43 [Info] Compiler shutdown completed
+13:45 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:45 [Info] PluginManager was compiled successfully in 1441ms
+13:45 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:45 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:46 [Error] Error while compiling PluginManager: 'CuiPanel' does not contain a definition for 'ScrollRect' | Line: 142, Pos: 17
+13:46 [Error] Error while compiling PluginManager: 'CuiPanel' does not contain a definition for 'ScrollRect' | Line: 141, Pos: 17
+13:46 [Info] PluginManager was compiled successfully in 323ms
+13:46 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:46 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:47 [Info] Shutting down compiler because idle shutdown
+13:47 [Info] Compiler shutdown completed
+14:02 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:02 [Info] PluginManager was compiled successfully in 1420ms
+14:02 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:02 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:03 [Info] Shutting down compiler because idle shutdown
+14:03 [Info] Compiler shutdown completed
+14:06 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:06 [Info] PluginManager was compiled successfully in 1385ms
+14:06 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:06 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:07 [Info] Shutting down compiler because idle shutdown
+14:07 [Info] Compiler shutdown completed
+14:43 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:43 [Info] PluginManager was compiled successfully in 1421ms
+14:43 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:43 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:44 [Info] Shutting down compiler because idle shutdown
+14:44 [Info] Compiler shutdown completed
+14:45 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:45 [Info] PluginManager was compiled successfully in 1392ms
+14:45 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:45 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:46 [Info] PluginManager was compiled successfully in 573ms
+14:46 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:46 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:47 [Info] PluginManager was compiled successfully in 684ms
+14:47 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:47 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:47 [Info] PluginManager was compiled successfully in 1235ms
+14:47 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:47 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:48 [Info] PluginManager was compiled successfully in 637ms
+14:48 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:48 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:48 [Info] PluginManager was compiled successfully in 569ms
+14:48 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:48 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:48 [Info] PluginManager was compiled successfully in 964ms
+14:48 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:48 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:49 [Info] PluginManager was compiled successfully in 321ms
+14:49 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:49 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:49 [Info] PluginManager was compiled successfully in 677ms
+14:49 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:49 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:50 [Info] Shutting down compiler because idle shutdown
+14:50 [Info] Compiler shutdown completed
+14:51 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:51 [Info] PluginManager was compiled successfully in 1421ms
+14:51 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:51 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:52 [Info] PluginManager was compiled successfully in 213ms
+14:52 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:52 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:52 [Info] PluginManager was compiled successfully in 669ms
+14:52 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:52 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:53 [Info] PluginManager was compiled successfully in 358ms
+14:53 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:53 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:53 [Info] PluginManager was compiled successfully in 924ms
+14:53 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:53 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:53 [Info] PluginManager was compiled successfully in 590ms
+14:53 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:53 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:53 [Info] PluginManager was compiled successfully in 750ms
+14:53 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:53 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:54 [Info] PluginManager was compiled successfully in 1194ms
+14:54 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:54 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:54 [Info] PluginManager was compiled successfully in 938ms
+14:54 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:54 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:55 [Info] PluginManager was compiled successfully in 828ms
+14:55 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:55 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:56 [Info] Shutting down compiler because idle shutdown
+14:56 [Info] Compiler shutdown completed
+14:56 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:56 [Info] PluginManager was compiled successfully in 1407ms
+14:56 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:56 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:57 [Info] PluginManager was compiled successfully in 637ms
+14:57 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:57 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:57 [Info] PluginManager was compiled successfully in 804ms
+14:57 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:57 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:58 [Info] PluginManager was compiled successfully in 938ms
+14:58 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:58 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:58 [Info] PluginManager was compiled successfully in 575ms
+14:58 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:58 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:58 [Info] PluginManager was compiled successfully in 201ms
+14:58 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:58 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:58 [Info] PluginManager was compiled successfully in 1007ms
+14:58 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:58 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:59 [Info] PluginManager was compiled successfully in 896ms
+14:59 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:59 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:59 [Info] PluginManager was compiled successfully in 803ms
+14:59 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:59 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:59 [Info] PluginManager was compiled successfully in 168ms
+14:59 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:59 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:00 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+15:00 [Info] Plugin6 was compiled successfully in 554ms
+15:00 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+15:00 [Info] Unloaded plugin Plugin5 v1.0.0 by Author
+15:00 [Info] Unloaded plugin Plugin4 v1.0.0 by Author
+15:00 [Info] Plugin5 was compiled successfully in 1019ms
+15:00 [Info] Loaded plugin Plugin5 v1.0.0 by Author
+15:00 [Info] Unloaded plugin Plugin3 v1.0.0 by Author
+15:00 [Info] Plugin4 was compiled successfully in 741ms
+15:00 [Info] Loaded plugin Plugin4 v1.0.0 by Author
+15:00 [Info] Unloaded plugin Plugin2 v1.0.0 by Author
+15:00 [Info] Plugin3 was compiled successfully in 672ms
+15:00 [Info] Loaded plugin Plugin3 v1.0.0 by Author
+15:00 [Info] Unloaded plugin Plugin1 v1.0.0 by Author
+15:00 [Info] Plugin2 was compiled successfully in 856ms
+15:00 [Info] Plugin1 was compiled successfully in 188ms
+15:00 [Info] Loaded plugin Plugin2 v1.0.0 by Author
+15:00 [Info] Loaded plugin Plugin1 v1.0.0 by Author
+15:00 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+15:00 [Info] Unloaded plugin Plugin7 v1.0.0 by Author
+15:00 [Info] Unloaded plugin Plugin8 v1.0.0 by Author
+15:01 [Info] Shutting down compiler because idle shutdown
+15:01 [Info] Compiler shutdown completed
+15:02 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:02 [Info] PluginManager was compiled successfully in 1418ms
+15:02 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:02 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:03 [Info] Shutting down compiler because idle shutdown
+15:03 [Info] Compiler shutdown completed
+15:04 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:04 [Info] PluginManager was compiled successfully in 1544ms
+15:04 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:04 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:05 [Info] Shutting down compiler because idle shutdown
+15:05 [Info] Compiler shutdown completed
+15:06 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:06 [Info] PluginManager was compiled successfully in 1462ms
+15:06 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:06 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:07 [Info] PluginManager was compiled successfully in 524ms
+15:07 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:07 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:07 [Info] PluginManager was compiled successfully in 984ms
+15:07 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:07 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:08 [Info] PluginManager was compiled successfully in 234ms
+15:08 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:08 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:09 [Info] PluginManager was compiled successfully in 877ms
+15:09 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:09 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:09 [Info] PluginManager was compiled successfully in 282ms
+15:09 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:09 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:10 [Info] Shutting down compiler because idle shutdown
+15:10 [Info] Compiler shutdown completed
+15:11 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:11 [Info] PluginManager was compiled successfully in 1386ms
+15:11 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:11 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:12 [Info] PluginManager was compiled successfully in 1073ms
+15:12 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:12 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:12 [Info] PluginManager was compiled successfully in 134ms
+15:12 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:12 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:13 [Info] PluginManager was compiled successfully in 813ms
+15:13 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:13 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:13 [Info] PluginManager was compiled successfully in 300ms
+15:13 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:13 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:14 [Info] Shutting down compiler because idle shutdown
+15:14 [Info] Compiler shutdown completed
+15:17 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:17 [Info] PluginManager was compiled successfully in 1419ms
+15:17 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:17 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:17 [Info] PluginManager was compiled successfully in 384ms
+15:17 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:17 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:18 [Info] PluginManager was compiled successfully in 314ms
+15:18 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:18 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:18 [Info] PluginManager was compiled successfully in 1140ms
+15:18 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:18 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:18 [Info] PluginManager was compiled successfully in 1071ms
+15:18 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:18 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:18 [Info] PluginManager was compiled successfully in 438ms
+15:18 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:18 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:18 [Info] PluginManager was compiled successfully in 1061ms
+15:18 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:18 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:19 [Info] PluginManager was compiled successfully in 984ms
+15:19 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:19 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:19 [Info] PluginManager was compiled successfully in 819ms
+15:19 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:19 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:19 [Info] PluginManager was compiled successfully in 515ms
+15:19 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:19 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:19 [Info] PluginManager was compiled successfully in 569ms
+15:19 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:19 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:20 [Info] Unloaded plugin Plugin2 v1.0.0 by Author
+15:20 [Info] Shutting down compiler because idle shutdown
+15:20 [Info] Compiler shutdown completed
+15:21 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:21 [Info] PluginManager was compiled successfully in 1404ms
+15:21 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:21 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:21 [Info] PluginManager was compiled successfully in 550ms
+15:21 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:21 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:21 [Info] PluginManager was compiled successfully in 854ms
+15:21 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:21 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:21 [Info] PluginManager was compiled successfully in 751ms
+15:21 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:21 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:21 [Info] PluginManager was compiled successfully in 134ms
+15:21 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:21 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:22 [Info] PluginManager was compiled successfully in 1061ms
+15:22 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:22 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:22 [Info] PluginManager was compiled successfully in 922ms
+15:22 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:22 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:22 [Info] PluginManager was compiled successfully in 1106ms
+15:22 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:22 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:22 [Info] PluginManager was compiled successfully in 1132ms
+15:22 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:22 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:23 [Info] PluginManager was compiled successfully in 349ms
+15:23 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:23 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:23 [Info] PluginManager was compiled successfully in 759ms
+15:23 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:23 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:23 [Info] PluginManager was compiled successfully in 854ms
+15:23 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:23 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:23 [Info] PluginManager was compiled successfully in 938ms
+15:23 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:23 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:24 [Info] Shutting down compiler because idle shutdown
+15:24 [Info] Compiler shutdown completed
+15:25 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:25 [Info] PluginManager was compiled successfully in 1369ms
+15:25 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:25 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:25 [Info] PluginManager was compiled successfully in 569ms
+15:25 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:25 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:25 [Info] PluginManager was compiled successfully in 687ms
+15:25 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:25 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:25 [Info] PluginManager was compiled successfully in 838ms
+15:25 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:25 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:26 [Info] PluginManager was compiled successfully in 502ms
+15:26 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:26 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:26 [Info] PluginManager was compiled successfully in 1105ms
+15:26 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:26 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:26 [Info] PluginManager was compiled successfully in 436ms
+15:26 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:26 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:26 [Info] PluginManager was compiled successfully in 368ms
+15:26 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:26 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:27 [Info] PluginManager was compiled successfully in 558ms
+15:27 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:27 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:27 [Info] Loaded plugin Plugin2 v1.0.0 by Author
+15:27 [Info] PluginManager was compiled successfully in 569ms
+15:27 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:27 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:27 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+15:27 [Info] Plugin7 was compiled successfully in 369ms
+15:27 [Info] Loaded plugin Plugin7 v1.0.0 by Author
+15:28 [Info] Shutting down compiler because idle shutdown
+15:28 [Info] Compiler shutdown completed
+15:33 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:34 [Info] PluginManager was compiled successfully in 1421ms
+15:34 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:34 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:34 [Info] PluginManager was compiled successfully in 706ms
+15:34 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:34 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:35 [Info] Shutting down compiler because idle shutdown
+15:35 [Info] Compiler shutdown completed
+15:36 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:36 [Error] Error while compiling PluginManager: Type 'PluginManager' already defines a member called 'AddPluginList' with the same parameter types | Line: 171, Pos: 22
+15:37 [Info] Shutting down compiler because idle shutdown
+15:37 [Info] Compiler shutdown completed
+15:37 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:37 [Error] Error while compiling PluginManager: The name 'playerPageIndex' does not exist in the current context | Line: 126, Pos: 18
+15:38 [Info] Shutting down compiler because idle shutdown
+15:38 [Info] Compiler shutdown completed
+15:39 [Error] Timed out waiting for plugin to be compiled: PluginManager
+15:39 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:39 [Error] Error while compiling PluginManager: The name 'playerPageIndex' does not exist in the current context | Line: 126, Pos: 18
+15:40 [Info] Shutting down compiler because idle shutdown
+15:40 [Info] Compiler shutdown completed
+15:42 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:42 [Info] PluginManager was compiled successfully in 1372ms
+15:42 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:42 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:43 [Info] Shutting down compiler because idle shutdown
+15:43 [Info] Compiler shutdown completed
+15:44 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:44 [Error] Error while compiling PluginManager: The name 'playerPageIndex' does not exist in the current context | Line: 126, Pos: 18
+15:44 [Error] Error while compiling PluginManager: The name 'playerPageIndex' does not exist in the current context | Line: 126, Pos: 18
+15:45 [Info] Shutting down compiler because idle shutdown
+15:45 [Info] Compiler shutdown completed
+15:47 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:47 [Info] PluginManager was compiled successfully in 1373ms
+15:47 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:47 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:47 [Info] PluginManager was compiled successfully in 719ms
+15:47 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:47 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:48 [Info] PluginManager was compiled successfully in 536ms
+15:48 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:48 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:48 [Info] PluginManager was compiled successfully in 120ms
+15:48 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:48 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:48 [Info] PluginManager was compiled successfully in 1004ms
+15:48 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:48 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:49 [Info] Shutting down compiler because idle shutdown
+15:49 [Info] Compiler shutdown completed
+15:51 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:51 [Info] PluginManager was compiled successfully in 1458ms
+15:51 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:51 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:52 [Info] Shutting down compiler because idle shutdown
+15:52 [Info] Compiler shutdown completed
+15:54 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:54 [Info] PluginManager was compiled successfully in 1434ms
+15:54 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:54 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:55 [Info] Shutting down compiler because idle shutdown
+15:56 [Info] Compiler shutdown completed
+15:56 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:56 [Info] PluginManager was compiled successfully in 1373ms
+15:56 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:56 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:56 [Info] PluginManager was compiled successfully in 612ms
+15:56 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:56 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:56 [Info] Plugin8 was compiled successfully in 388ms
+15:56 [Info] Loaded plugin Plugin8 v1.0.0 by Author
+15:57 [Info] Shutting down compiler because idle shutdown
+15:57 [Info] Compiler shutdown completed
+16:01 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:01 [Info] PluginManager was compiled successfully in 1450ms
+16:01 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:01 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:01 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'pluginName' of 'PluginManager.UpdatePluginEntry(BasePlayer, string, bool, float)' | Line: 184, Pos: 17
+16:02 [Error] Error while compiling PluginManager: No overload for method 'UpdatePluginEntry' takes 4 arguments | Line: 252, Pos: 17
+16:02 [Error] Error while compiling PluginManager: No overload for method 'UpdatePluginEntry' takes 4 arguments | Line: 252, Pos: 17
+16:03 [Info] Shutting down compiler because idle shutdown
+16:03 [Info] Compiler shutdown completed
+16:03 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:03 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'pluginName' of 'PluginManager.UpdatePluginEntry(BasePlayer, string, bool, float)' | Line: 184, Pos: 17
+16:04 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'page' of 'PluginManager.UpdatePluginList(BasePlayer, int)' | Line: 184, Pos: 17
+16:04 [Info] PluginManager was compiled successfully in 269ms
+16:04 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:04 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:05 [Info] Shutting down compiler because idle shutdown
+16:05 [Info] Compiler shutdown completed
+16:06 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:06 [Info] PluginManager was compiled successfully in 1484ms
+16:06 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:06 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:06 [Info] PluginManager was compiled successfully in 369ms
+16:06 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:06 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:07 [Info] PluginManager was compiled successfully in 456ms
+16:07 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:07 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:07 [Info] Unloaded plugin Plugin7 v1.0.0 by Author
+16:08 [Info] Shutting down compiler because idle shutdown
+16:08 [Info] Compiler shutdown completed
+16:09 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:09 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'page' of 'PluginManager.UpdatePluginList(BasePlayer, int)' | Line: 184, Pos: 17
+16:10 [Info] PluginManager was compiled successfully in 670ms
+16:10 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:10 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:11 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:11 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:11 [Info] Shutting down compiler because idle shutdown
+16:11 [Info] Compiler shutdown completed
+16:16 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:16 [Error] Error while compiling PluginManager: Invalid token '1' in class, record, struct, or interface member declaration | Line: 265, Pos: 11
+16:17 [Info] PluginManager was compiled successfully in 437ms
+16:17 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:17 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:17 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:17 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:18 [Info] Shutting down compiler because idle shutdown
+16:18 [Info] Compiler shutdown completed
+16:18 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:18 [Info] PluginManager was compiled successfully in 1449ms
+16:18 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:18 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:18 [Info] PluginManager was compiled successfully in 201ms
+16:18 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:18 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] PluginManager was compiled successfully in 502ms
+16:19 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:19 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:19 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:20 [Info] Shutting down compiler because idle shutdown
+16:20 [Info] Compiler shutdown completed
+16:22 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:22 [Error] Error while compiling PluginManager: No overload for method 'UpdatePluginList' takes 2 arguments | Line: 185, Pos: 17
+16:22 [Info] PluginManager was compiled successfully in 1071ms
+16:22 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:22 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:23 [Info] Shutting down compiler because idle shutdown
+16:23 [Info] Compiler shutdown completed
+16:27 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:27 [Info] PluginManager was compiled successfully in 1374ms
+16:27 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:27 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:27 [Info] PluginManager was compiled successfully in 122ms
+16:27 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:27 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:27 [Info] PluginManager was compiled successfully in 447ms
+16:27 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:27 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:28 [Info] Shutting down compiler because idle shutdown
+16:28 [Info] Compiler shutdown completed
+16:28 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:28 [Error] Error while compiling PluginManager: The name 'container' does not exist in the current context | Line: 186, Pos: 17
+16:28 [Error] Error while compiling PluginManager: The name 'container' does not exist in the current context | Line: 187, Pos: 13
+16:29 [Info] PluginManager was compiled successfully in 919ms
+16:29 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:29 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:30 [Info] Shutting down compiler because idle shutdown
+16:30 [Info] Compiler shutdown completed
+16:33 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:33 [Info] PluginManager was compiled successfully in 1401ms
+16:33 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:33 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:35 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-1.01, 56.32, -21.10)). Пробуем другую точку...
+16:35 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.35, 56.42, -20.60)). Пробуем другую точку...
+16:35 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.34, 56.43, -20.52)). Пробуем другую точку...
+16:35 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.62, 56.40, -19.36)). Пробуем другую точку...
+16:35 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.28, 58.54, -18.27)). Пробуем другую точку...
+16:35 [Warning] [CultistTrader] Spawning Cultist near Substation (Координаты: (0.28, 58.54, -17.27))
+16:35 [Info] Shutting down compiler because idle shutdown
+16:35 [Info] Compiler shutdown completed
+16:44 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:44 [Error] Error while compiling PluginManager: The name 'AddNavigationButtons' does not exist in the current context | Line: 208, Pos: 13
+16:44 [Info] PluginManager was compiled successfully in 792ms
+16:44 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:44 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:45 [Info] Shutting down compiler because idle shutdown
+16:45 [Info] Compiler shutdown completed
+16:46 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:46 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:46 [Info] Unloaded plugin Plugin6 v1.0.0 by Author
+16:46 [Info] Unloaded plugin Plugin8 v1.0.0 by Author
+16:46 [Info] Unloaded plugin Plugin1 v1.0.0 by Author
+16:46 [Info] Unloaded plugin Plugin5 v1.0.0 by Author
+16:46 [Info] Unloaded plugin Plugin4 v1.0.0 by Author
+16:46 [Info] Unloaded plugin Plugin3 v1.0.0 by Author
+16:46 [Info] Unloaded plugin Plugin2 v1.0.0 by Author
+16:47 [Info] Loaded plugin Plugin1 v1.0.0 by Author
+16:47 [Info] Loaded plugin Plugin2 v1.0.0 by Author
+16:47 [Info] Loaded plugin Plugin3 v1.0.0 by Author
+16:47 [Info] Loaded plugin Plugin4 v1.0.0 by Author
+16:47 [Info] Loaded plugin Plugin5 v1.0.0 by Author
+16:47 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+16:47 [Info] Loaded plugin Plugin7 v1.0.0 by Author
+16:48 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:48 [Error] Error while compiling PluginManager: The name 'pageIndex' does not exist in the current context | Line: 209, Pos: 64
+16:49 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'container' of 'PluginManager.UpdatePluginList(BasePlayer, CuiElementContainer, int)' | Line: 184, Pos: 17
+16:50 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'container' of 'PluginManager.UpdatePluginList(BasePlayer, CuiElementContainer, int)' | Line: 184, Pos: 17
+16:51 [Info] Shutting down compiler because idle shutdown
+16:51 [Info] Compiler shutdown completed
+16:51 [Info] Unloaded plugin Plugin1 v1.0.0 by Author
+16:51 [Info] Loaded plugin Plugin1 v1.0.0 by Author
+16:51 [Error] Timed out waiting for plugin to be compiled: PluginManager
+16:51 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:52 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'container' of 'PluginManager.UpdatePluginList(BasePlayer, CuiElementContainer, int)' | Line: 184, Pos: 17
+16:53 [Info] Shutting down compiler because idle shutdown
+16:53 [Info] Compiler shutdown completed
+16:53 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:53 [Info] PluginManager was compiled successfully in 1373ms
+16:53 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:53 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:54 [Info] Shutting down compiler because idle shutdown
+16:54 [Info] Compiler shutdown completed
+16:58 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:58 [Info] PluginManager was compiled successfully in 1390ms
+16:58 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:58 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:58 [Info] Unloaded plugin Plugin7 v1.0.0 by Author
+16:58 [Info] Loaded plugin Plugin7 v1.0.0 by Author
+16:59 [Info] Shutting down compiler because idle shutdown
+16:59 [Info] Compiler shutdown completed
+18:06 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:06 [Info] PluginManager was compiled successfully in 1439ms
+18:06 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+18:06 [Info] Loaded plugin PluginManager v2.2.4 by Quake
+18:07 [Info] Shutting down compiler because idle shutdown
+18:07 [Info] Compiler shutdown completed
+18:10 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:10 [Info] PluginManager was compiled successfully in 1422ms
+18:10 [Info] Unloaded plugin PluginManager v2.2.4 by Quake
+18:10 [Info] Loaded plugin PluginManager v2.2.5 by Quake
+18:11 [Info] Shutting down compiler because idle shutdown
+18:11 [Info] Compiler shutdown completed
+18:22 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:22 [Info] PluginManager was compiled successfully in 1416ms
+18:22 [Info] Unloaded plugin PluginManager v2.2.5 by Quake
+18:22 [Info] Loaded plugin PluginManager v2.2.6 by Quake
+18:23 [Info] Shutting down compiler because idle shutdown
+18:23 [Info] Compiler shutdown completed
+20:02 [Info] Loading Oxide Core v2.0.4121...
+20:02 [Info] Loading extensions...
+20:02 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+20:02 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+20:02 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+20:02 [Info] Unity version: 2022.3.41f1
+20:02 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+20:02 [Info] Loaded extension Rust v2.0.6410 by Oxide Team and Contributors
+20:02 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+20:02 [Info] [CSharp] Oxide.Compiler.exe is up to date
+20:02 [Info] Using Covalence provider for game 'Rust'
+20:02 [Info] Loading plugins...
+20:02 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+20:02 [Info] Loaded plugin Rust v2.0.6410 by Oxide Team and Contributors
+20:02 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:02 [Info] CultistTrader, Plugin1, Plugin2, Plugin3, Plugin4, Plugin5, Plugin6, Plugin7, Plugin8 and WelcomeMessage were compiled successfully in 0ms
+20:02 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'isActive' of 'PluginManager.AddSideButton(CuiElementContainer, string, string, string, string, BasePlayer, bool)' | Line: 56, Pos: 13
+20:02 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+20:02 [Info] Loaded plugin Plugin1 v1.0.0 by Author
+20:02 [Info] Loaded plugin Plugin2 v1.0.0 by Author
+20:02 [Info] Loaded plugin Plugin3 v1.0.0 by Author
+20:02 [Info] Loaded plugin Plugin4 v1.0.0 by Author
+20:02 [Info] Loaded plugin Plugin5 v1.0.0 by Author
+20:02 [Info] Loaded plugin Plugin6 v1.0.0 by Author
+20:02 [Info] Loaded plugin Plugin7 v1.0.0 by Author
+20:02 [Info] Loaded plugin Plugin8 v1.0.0 by Author
+20:02 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+20:03 [Info] Shutting down compiler because idle shutdown
+20:03 [Info] Compiler shutdown completed
+20:08 [Info] IP address from external API: 185.9.187.153
+20:21 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:21 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'isActive' of 'PluginManager.AddSideButton(CuiElementContainer, string, string, string, string, BasePlayer, bool)' | Line: 56, Pos: 13
+20:22 [Info] Shutting down compiler because idle shutdown
+20:22 [Info] Compiler shutdown completed
+20:31 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:31 [Info] PluginManager was compiled successfully in 1484ms
+20:31 [Info] Loaded plugin PluginManager v2.3.1 by Quake
+20:31 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+20:31 [Info] CultistTrader was compiled successfully in 948ms
+20:31 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+20:32 [Info] PluginManager was compiled successfully in 783ms
+20:32 [Info] Unloaded plugin PluginManager v2.3.1 by Quake
+20:32 [Info] Loaded plugin PluginManager v2.2.6 by Quake
+20:33 [Info] Shutting down compiler because idle shutdown
+20:33 [Info] Compiler shutdown completed

@@ -1,0 +1,224 @@
+13:41 [Info] Loading Oxide Core v2.0.4121...
+13:41 [Info] Loading extensions...
+13:41 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+13:41 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+13:41 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+13:41 [Info] Unity version: 2022.3.41f1
+13:41 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+13:41 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+13:41 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+13:41 [Info] [CSharp] Oxide.Compiler.exe is up to date
+13:41 [Info] Using Covalence provider for game 'Rust'
+13:41 [Info] Loading plugins...
+13:41 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+13:41 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+13:41 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:41 [Info] CultistTrader, NpcSpawn and WelcomeMessage were compiled successfully in 0ms
+13:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+13:41 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+13:41 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+13:41 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+13:41 [Warning] [CultistTrader] NpcSpawn loaded! Starting spawn timer.
+13:42 [Info] Shutting down compiler because idle shutdown
+13:42 [Info] Compiler shutdown completed
+13:45 [Error] Plugin filename CultistTrader — копия.cs must match the main class CultistTrader (should be CultistTrader.cs)
+13:45 [Warning] Ignored unexpected plugin compilation failure: CultistTrader — копия
+13:45 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:45 [Info]  was compiled successfully in 1353ms
+13:45 [Error] Error while compiling CultistTrader — копия: Plugin filename CultistTrader — копия.cs must match the main class CultistTrader (should be CultistTrader.cs)
+13:45 [Error] Plugin filename PluginManager.cs must match the main class CultistTrader (should be CultistTrader.cs)
+13:45 [Warning] Ignored unexpected plugin compilation failure: PluginManager
+13:46 [Info]  was compiled successfully in 718ms
+13:46 [Error] Error while compiling PluginManager: Plugin filename PluginManager.cs must match the main class CultistTrader (should be CultistTrader.cs)
+13:46 [Info] IP address from external API: 185.9.187.153
+13:46 [Info] [NpcSpawn] Loading custom navigation mesh files...
+13:46 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+13:46 [Info] [NpcSpawn] List of biome positions: Arid = 1369, Temperate = 1744, Tundra = 628, Arctic = 713
+13:46 [Info] [NpcSpawn] List of road positions: ExtraWide = 1333, Standard = 1890, ExtraNarrow = 1522
+13:46 [Info] [NpcSpawn] 2595 railway positions found
+13:46 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 121ms
+13:46 [Error] Error while compiling PluginManager: The type or namespace name 'CuiElementContainer' could not be found (are you missing a using directive or an assembly reference?) | Line: 35, Pos: 13
+13:46 [Error] Error while compiling PluginManager: The type or namespace name 'CuiElementContainer' could not be found (are you missing a using directive or an assembly reference?) | Line: 35, Pos: 13
+13:47 [Info] Shutting down compiler because idle shutdown
+13:47 [Info] Compiler shutdown completed
+13:48 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:48 [Info] PluginManager was compiled successfully in 1261ms
+13:48 [Info] Loaded plugin PluginManager v1.0.0 by YourName
+13:48 [Info] PluginManager was compiled successfully in 897ms
+13:48 [Info] Unloaded plugin PluginManager v1.0.0 by YourName
+13:48 [Info] Loaded plugin PluginManager v1.0.0 by Quake
+13:49 [Info] Shutting down compiler because idle shutdown
+13:49 [Info] Compiler shutdown completed
+16:33 [Info] Loading Oxide Core v2.0.4121...
+16:33 [Info] Loading extensions...
+16:33 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+16:33 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+16:33 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+16:33 [Info] Unity version: 2022.3.41f1
+16:33 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+16:33 [Info] Loaded extension Rust v2.0.6408 by Oxide Team and Contributors
+16:33 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+16:33 [Info] [CSharp] Oxide.Compiler.exe is up to date
+16:33 [Info] Using Covalence provider for game 'Rust'
+16:33 [Info] Loading plugins...
+16:33 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+16:33 [Info] Loaded plugin Rust v2.0.6408 by Oxide Team and Contributors
+16:33 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:33 [Info] CultistTrader, NpcSpawn, PluginManager and WelcomeMessage were compiled successfully in 0ms
+16:33 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+16:33 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+16:33 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+16:33 [Info] Loaded plugin PluginManager v1.0.0 by Quake
+16:33 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+16:33 [Warning] [CultistTrader] NpcSpawn loaded! Starting spawn timer.
+16:34 [Info] Shutting down compiler because idle shutdown
+16:34 [Info] Compiler shutdown completed
+16:38 [Info] IP address from external API: 185.9.187.153
+16:38 [Info] [NpcSpawn] Loading custom navigation mesh files...
+16:38 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+16:38 [Info] [NpcSpawn] List of biome positions: Arid = 1374, Temperate = 1745, Tundra = 640, Arctic = 693
+16:38 [Info] [NpcSpawn] List of road positions: ExtraWide = 1028, Standard = 2363, ExtraNarrow = 1529
+16:38 [Info] [NpcSpawn] 2599 railway positions found
+16:38 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 152ms
+16:38 [Info] Oxide.Rust Version: 2.0.6408
+Oxide.Rust Branch: master
+16:39 [Info] Listing 4 plugins:
+  01 "CultistTrader" (2.5.0) by QuakeShot (0.00s / 4 KB) - CultistTrader.cs
+  02 "NpcSpawn" (2.8.0) by rustmods.ru (0.15s / 840 KB) - NpcSpawn.cs
+  03 "PluginManager" (1.0.0) by Quake (0.00s / 0 B) - PluginManager.cs
+  04 "WelcomeMessage" (1.0.0) by Твой Ник (0.00s / 0 B) - WelcomeMessage.cs
+16:43 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:43 [Info] PluginManager was compiled successfully in 1353ms
+16:43 [Info] Unloaded plugin PluginManager v1.0.0 by Quake
+16:43 [Info] Loaded plugin PluginManager v1.0.0 by YourName
+16:44 [Info] Shutting down compiler because idle shutdown
+16:44 [Info] Compiler shutdown completed
+16:46 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:46 [Info] PluginManager was compiled successfully in 1374ms
+16:46 [Info] Unloaded plugin PluginManager v1.0.0 by YourName
+16:46 [Info] Loaded plugin PluginManager v1.0.0 by YourName
+16:46 [Info] Unloaded plugin PluginManager v1.0.0 by YourName
+16:47 [Info] Loaded plugin PluginManager v1.0.0 by YourName
+16:47 [Info] Shutting down compiler because idle shutdown
+16:47 [Info] Compiler shutdown completed
+16:48 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:48 [Info] PluginManager was compiled successfully in 1377ms
+16:48 [Info] Unloaded plugin PluginManager v1.0.0 by YourName
+16:48 [Info] Loaded plugin PluginManager v1.0.0 by YourName
+16:48 [Info] PluginManager was compiled successfully in 356ms
+16:48 [Info] Unloaded plugin PluginManager v1.0.0 by YourName
+16:48 [Info] Loaded plugin PluginManager v1.0.0 by YourName
+16:49 [Info] PluginManager was compiled successfully in 819ms
+16:49 [Info] Unloaded plugin PluginManager v1.0.0 by YourName
+16:49 [Info] Loaded plugin PluginManager v1.0.0 by Quake
+16:50 [Info] PluginManager was compiled successfully in 391ms
+16:50 [Info] Unloaded plugin PluginManager v1.0.0 by Quake
+16:50 [Info] Loaded plugin PluginManager v1.0.0 by Quake
+16:50 [Info] Unloaded plugin PluginManager v1.0.0 by Quake
+16:50 [Info] Loaded plugin PluginManager v1.0.0 by Quake
+16:51 [Info] Shutting down compiler because idle shutdown
+16:51 [Info] Compiler shutdown completed
+16:53 [Info] Listing 4 plugins:
+  01 "CultistTrader" (2.5.0) by QuakeShot (0.16s / 12 KB) - CultistTrader.cs
+  02 "NpcSpawn" (2.8.0) by rustmods.ru (0.25s / 844 KB) - NpcSpawn.cs
+  03 "PluginManager" (1.0.0) by Quake (0.00s / 0 B) - PluginManager.cs
+  04 "WelcomeMessage" (1.0.0) by Твой Ник (0.00s / 20 KB) - WelcomeMessage.cs
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.55, 56.39, -20.85)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.04, 56.44, -20.83)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.88, 57.64, -20.14)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.84, 57.66, -19.88)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.59, 56.39, -19.77)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] Spawning Cultist near Substation (Координаты: (0.59, 56.39, -18.77))
+16:54 [Warning] Calling 'CmdForceSpawn' on 'CultistTrader v2.5.0' took 395ms
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.50, 57.57, -21.75)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.91, 59.21, -20.63)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((1.08, 57.66, -19.84)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((1.88, 58.51, -19.55)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((1.46, 58.54, -17.64)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] Spawning Cultist near Substation (Координаты: (1.46, 58.54, -16.64))
+16:54 [Warning] Calling 'CmdForceSpawn' on 'CultistTrader v2.5.0' took 344ms
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.87, 56.28, -21.90)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.02, 56.26, -21.76)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.56, 57.61, -20.91)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((1.42, 56.21, -19.28)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((1.23, 56.21, -18.17)). Пробуем другую точку...
+16:54 [Warning] [CultistTrader] Spawning Cultist near Satellite Dish (Координаты: (1.23, 56.21, -17.17))
+16:54 [Warning] Calling 'CmdForceSpawn' on 'CultistTrader v2.5.0' took 355ms
+16:55 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:55 [Info] PluginManager was compiled successfully in 1353ms
+16:55 [Info] Unloaded plugin PluginManager v1.0.0 by Quake
+16:55 [Info] Loaded plugin PluginManager v1.0.0 by Quake
+16:56 [Info] Shutting down compiler because idle shutdown
+16:56 [Info] Compiler shutdown completed
+16:57 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:57 [Info] PluginManager was compiled successfully in 1341ms
+16:57 [Info] Unloaded plugin PluginManager v1.0.0 by Quake
+16:57 [Info] Loaded plugin PluginManager v1.0.0 by Quake
+16:58 [Info] Shutting down compiler because idle shutdown
+16:58 [Info] Compiler shutdown completed
+17:07 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:07 [Info] PluginManager was compiled successfully in 1351ms
+17:07 [Info] Unloaded plugin PluginManager v1.0.0 by Quake
+17:07 [Info] Loaded plugin PluginManager v1.1.0 by Quake
+17:08 [Info] Shutting down compiler because idle shutdown
+17:08 [Info] Compiler shutdown completed
+17:12 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:12 [Info] PluginManager was compiled successfully in 1328ms
+17:12 [Info] Unloaded plugin PluginManager v1.1.0 by Quake
+17:12 [Info] Loaded plugin PluginManager v1.2.0 by Quake
+17:13 [Info] Shutting down compiler because idle shutdown
+17:13 [Info] Compiler shutdown completed
+17:17 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:17 [Info] PluginManager was compiled successfully in 1372ms
+17:17 [Info] Unloaded plugin PluginManager v1.2.0 by Quake
+17:17 [Info] Loaded plugin PluginManager v1.2.0 by Quake
+17:18 [Info] Shutting down compiler because idle shutdown
+17:18 [Info] Compiler shutdown completed
+17:32 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:32 [Info] PluginManager was compiled successfully in 1364ms
+17:32 [Info] Unloaded plugin PluginManager v1.2.0 by Quake
+17:32 [Info] Loaded plugin PluginManager v1.3.0 by Quake
+17:32 [Info] PluginManager was compiled successfully in 1037ms
+17:32 [Info] Unloaded plugin PluginManager v1.3.0 by Quake
+17:32 [Info] Loaded plugin PluginManager v1.3.0 by Quake
+17:33 [Info] Shutting down compiler because idle shutdown
+17:33 [Info] Compiler shutdown completed
+17:42 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:42 [Info] PluginManager was compiled successfully in 1320ms
+17:43 [Info] Unloaded plugin PluginManager v1.3.0 by Quake
+17:43 [Info] Loaded plugin PluginManager v2.0.0 by Quake
+17:44 [Info] Shutting down compiler because idle shutdown
+17:44 [Info] Compiler shutdown completed
+17:51 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:51 [Info] PluginManager was compiled successfully in 1328ms
+17:51 [Info] Unloaded plugin PluginManager v2.0.0 by Quake
+17:51 [Info] Loaded plugin PluginManager v2.0.0 by Quake
+17:51 [Info] PluginManager was compiled successfully in 1011ms
+17:51 [Info] Unloaded plugin PluginManager v2.0.0 by Quake
+17:51 [Info] Loaded plugin PluginManager v2.0.0 by Quake
+17:52 [Info] Shutting down compiler because idle shutdown
+17:52 [Info] Compiler shutdown completed
+18:07 [Info] Loading Oxide Core v2.0.4121...
+18:07 [Info] Loading extensions...
+18:07 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+18:07 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+18:07 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:07 [Info] Unity version: 2022.3.41f1
+18:07 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:07 [Info] Loaded extension Rust v2.0.6408 by Oxide Team and Contributors
+18:07 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+18:07 [Info] [CSharp] Oxide.Compiler.exe is up to date
+18:07 [Info] Using Covalence provider for game 'Rust'
+18:07 [Info] Loading plugins...
+18:07 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:07 [Info] Loaded plugin Rust v2.0.6408 by Oxide Team and Contributors
+18:07 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:07 [Info] CultistTrader, NpcSpawn, PluginManager and WelcomeMessage were compiled successfully in 0ms
+18:07 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+18:07 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+18:07 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+18:07 [Info] Loaded plugin PluginManager v2.0.0 by Quake
+18:07 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+18:07 [Warning] [CultistTrader] NpcSpawn loaded! Starting spawn timer.
+18:08 [Info] Shutting down compiler because idle shutdown
+18:08 [Info] Compiler shutdown completed

@@ -1,0 +1,632 @@
+14:38 [Info] Loading Oxide Core v2.0.4121...
+14:38 [Info] Loading extensions...
+14:38 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+14:38 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+14:38 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+14:38 [Info] Unity version: 2022.3.41f1
+14:38 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+14:38 [Info] Loaded extension Rust v2.0.6408 by Oxide Team and Contributors
+14:38 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+14:38 [Info] [CSharp] Oxide.Compiler.exe is up to date
+14:38 [Info] Using Covalence provider for game 'Rust'
+14:38 [Info] Loading plugins...
+14:38 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+14:38 [Info] Loaded plugin Rust v2.0.6408 by Oxide Team and Contributors
+14:38 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:38 [Info] CultistTrader, NpcSpawn, PluginManager and WelcomeMessage were compiled successfully in 0ms
+14:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+14:38 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+14:38 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+14:38 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+14:38 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+14:38 [Warning] [CultistTrader] NpcSpawn loaded! Starting spawn timer.
+14:39 [Info] Shutting down compiler because idle shutdown
+14:39 [Info] Compiler shutdown completed
+14:44 [Info] IP address from external API: 185.9.187.153
+14:44 [Info] [NpcSpawn] Loading custom navigation mesh files...
+14:44 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+14:44 [Info] [NpcSpawn] List of biome positions: Arid = 1443, Temperate = 1745, Tundra = 664, Arctic = 679
+14:44 [Info] [NpcSpawn] List of road positions: ExtraWide = 1028, Standard = 2363, ExtraNarrow = 1529
+14:44 [Info] [NpcSpawn] 2599 railway positions found
+14:44 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 127ms
+15:04 [Info] Loading Oxide Core v2.0.4121...
+15:04 [Info] Loading extensions...
+15:04 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+15:04 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+15:04 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+15:04 [Info] Unity version: 2022.3.41f1
+15:04 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+15:04 [Info] Loaded extension Rust v2.0.6408 by Oxide Team and Contributors
+15:04 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+15:04 [Info] [CSharp] Oxide.Compiler.exe is up to date
+15:04 [Info] Using Covalence provider for game 'Rust'
+15:04 [Info] Loading plugins...
+15:04 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+15:04 [Info] Loaded plugin Rust v2.0.6408 by Oxide Team and Contributors
+15:04 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:04 [Info] CultistTrader, NpcSpawn, PluginManager and WelcomeMessage were compiled successfully in 0ms
+15:04 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:04 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:04 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+15:04 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+15:04 [Warning] [CultistTrader] NpcSpawn loaded! Starting spawn timer.
+15:05 [Info] Shutting down compiler because idle shutdown
+15:05 [Info] Compiler shutdown completed
+15:09 [Info] IP address from external API: 185.9.187.153
+15:09 [Info] [NpcSpawn] Loading custom navigation mesh files...
+15:09 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+15:09 [Info] [NpcSpawn] List of biome positions: Arid = 1365, Temperate = 1810, Tundra = 663, Arctic = 696
+15:09 [Info] [NpcSpawn] List of road positions: ExtraWide = 1028, Standard = 2363, ExtraNarrow = 1529
+15:09 [Info] [NpcSpawn] 2599 railway positions found
+15:09 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 141ms
+15:16 [Info] Loading Oxide Core v2.0.4121...
+15:16 [Info] Loading extensions...
+15:16 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+15:16 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+15:16 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+15:16 [Info] Unity version: 2022.3.41f1
+15:16 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+15:16 [Info] Loaded extension Rust v2.0.6408 by Oxide Team and Contributors
+15:16 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+15:16 [Info] [CSharp] Oxide.Compiler.exe is up to date
+15:16 [Info] Using Covalence provider for game 'Rust'
+15:16 [Info] Loading plugins...
+15:16 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+15:16 [Info] Loaded plugin Rust v2.0.6408 by Oxide Team and Contributors
+15:16 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:16 [Info] CultistTrader, NpcSpawn, PluginManager and WelcomeMessage were compiled successfully in 0ms
+15:16 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:16 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:16 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+15:16 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+15:16 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+15:16 [Warning] [CultistTrader] NpcSpawn loaded! Starting spawn timer.
+15:17 [Info] Shutting down compiler because idle shutdown
+15:17 [Info] Compiler shutdown completed
+15:21 [Info] IP address from external API: 185.9.187.153
+15:21 [Info] [NpcSpawn] Loading custom navigation mesh files...
+15:21 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+15:21 [Info] [NpcSpawn] List of biome positions: Arid = 1422, Temperate = 1762, Tundra = 659, Arctic = 726
+15:21 [Info] [NpcSpawn] List of road positions: ExtraWide = 1028, Standard = 2363, ExtraNarrow = 1529
+15:21 [Info] [NpcSpawn] 2599 railway positions found
+15:21 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 153ms
+15:24 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Твой Ник
+15:24 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+15:29 [Info] Unloaded plugin NpcSpawn v2.8.0 by rustmods.ru
+15:29 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:29 [Info] CultistTrader and WelcomeMessage were compiled successfully in 1399ms
+15:29 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:29 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:29 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+15:30 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:30 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:30 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:30 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:30 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:30 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:30 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:30 [Info] Loading Oxide Core v2.0.4121...
+15:30 [Info] Loading extensions...
+15:30 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+15:30 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+15:30 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+15:30 [Info] Unity version: 2022.3.41f1
+15:30 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+15:30 [Info] Loaded extension Rust v2.0.6408 by Oxide Team and Contributors
+15:30 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+15:30 [Info] [CSharp] Oxide.Compiler.exe is up to date
+15:30 [Info] Using Covalence provider for game 'Rust'
+15:30 [Info] Loading plugins...
+15:30 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+15:30 [Info] Loaded plugin Rust v2.0.6408 by Oxide Team and Contributors
+15:30 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:31 [Info] CultistTrader, PluginManager and WelcomeMessage were compiled successfully in 0ms
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:31 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+15:31 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:31 [Info] Shutting down compiler because idle shutdown
+15:31 [Info] Compiler shutdown completed
+15:32 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:32 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:32 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:32 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:32 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:32 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:32 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:32 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:32 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:33 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:33 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:33 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:33 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:34 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:34 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:34 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:34 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:34 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:35 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:35 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:35 [Info] IP address from external API: 185.9.187.153
+15:35 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:35 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:35 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:35 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:35 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:36 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:37 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:38 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:39 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:40 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:41 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:42 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:43 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:44 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:45 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:46 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:47 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:48 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:49 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:50 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:51 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:52 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:53 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:54 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:55 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:56 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:56 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:56 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:56 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:56 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+15:56 [Warning] [CultistTrader] Waiting for NpcSpawn to load
+16:06 [Info] Loading Oxide Core v2.0.4121...
+16:06 [Info] Loading extensions...
+16:06 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+16:06 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+16:06 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+16:06 [Info] Unity version: 2022.3.41f1
+16:06 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+16:06 [Info] Loaded extension Rust v2.0.6408 by Oxide Team and Contributors
+16:06 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+16:06 [Info] [CSharp] Oxide.Compiler.exe is up to date
+16:06 [Info] Using Covalence provider for game 'Rust'
+16:06 [Info] Loading plugins...
+16:06 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+16:06 [Info] Loaded plugin Rust v2.0.6408 by Oxide Team and Contributors
+16:06 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:06 [Info] CultistTrader, PluginManager and WelcomeMessage were compiled successfully in 0ms
+16:06 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+16:06 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+16:06 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+16:09 [Info] Loading Oxide Core v2.0.4121...
+16:09 [Info] Loading extensions...
+16:09 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+16:09 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+16:09 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+16:09 [Info] Unity version: 2022.3.41f1
+16:09 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+16:09 [Info] Loaded extension Rust v2.0.6408 by Oxide Team and Contributors
+16:09 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+16:09 [Info] [CSharp] Oxide.Compiler.exe is up to date
+16:09 [Info] Using Covalence provider for game 'Rust'
+16:09 [Info] Loading plugins...
+16:09 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+16:09 [Info] Loaded plugin Rust v2.0.6408 by Oxide Team and Contributors
+16:09 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:09 [Info] CultistTrader, PluginManager and WelcomeMessage were compiled successfully in 0ms
+16:09 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+16:09 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+16:09 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+16:10 [Info] Shutting down compiler because idle shutdown
+16:10 [Info] Compiler shutdown completed
+16:14 [Info] IP address from external API: 185.9.187.153
+16:19 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:19 [Error] Error while compiling PluginManager: 'OxideMod' does not contain a definition for 'GetPlugins' and no accessible extension method 'GetPlugins' accepting a first argument of type 'OxideMod' could be found (are you missing a using directive or an assembly reference?) | Line: 108, Pos: 52
+16:20 [Info] Loading Oxide Core v2.0.4121...
+16:20 [Info] Loading extensions...
+16:20 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+16:20 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+16:20 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+16:20 [Info] Unity version: 2022.3.41f1
+16:20 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+16:20 [Info] Loaded extension Rust v2.0.6410 by Oxide Team and Contributors
+16:20 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+16:20 [Info] [CSharp] Oxide.Compiler.exe is up to date
+16:20 [Info] Using Covalence provider for game 'Rust'
+16:20 [Info] Loading plugins...
+16:20 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+16:20 [Info] Loaded plugin Rust v2.0.6410 by Oxide Team and Contributors
+16:20 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:20 [Info] CultistTrader and WelcomeMessage were compiled successfully in 0ms
+16:20 [Error] Error while compiling PluginManager: 'OxideMod' does not contain a definition for 'GetPlugins' and no accessible extension method 'GetPlugins' accepting a first argument of type 'OxideMod' could be found (are you missing a using directive or an assembly reference?) | Line: 108, Pos: 52
+16:20 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+16:20 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+16:21 [Info] Shutting down compiler because idle shutdown
+16:21 [Info] Compiler shutdown completed
+16:25 [Info] IP address from external API: 185.9.187.153
+16:29 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:29 [Error] Error while compiling PluginManager: 'OxideMod' does not contain a definition for 'Plugins' and no accessible extension method 'Plugins' accepting a first argument of type 'OxideMod' could be found (are you missing a using directive or an assembly reference?) | Line: 108, Pos: 52
+16:30 [Info] PluginManager was compiled successfully in 801ms
+16:30 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+16:31 [Info] Shutting down compiler because idle shutdown
+16:31 [Info] Compiler shutdown completed
+16:40 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:40 [Error] Error while compiling PluginManager: The modifier 'private' is not valid for this item | Line: 116, Pos: 13
+16:40 [Error] Error while compiling PluginManager: The modifier 'private' is not valid for this item | Line: 116, Pos: 13
+16:41 [Error] Error while compiling PluginManager: The name 'ShowMainText' does not exist in the current context | Line: 55, Pos: 13
+16:42 [Info] Shutting down compiler because idle shutdown
+16:42 [Info] Compiler shutdown completed
+16:47 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:47 [Info] PluginManager was compiled successfully in 1386ms
+16:47 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+16:47 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+16:48 [Info] Shutting down compiler because idle shutdown
+16:48 [Info] Compiler shutdown completed
+17:03 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:03 [Info] PluginManager was compiled successfully in 1436ms
+17:03 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+17:03 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+17:04 [Info] Shutting down compiler because idle shutdown
+17:04 [Info] Compiler shutdown completed
+17:05 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:05 [Info] PluginManager was compiled successfully in 1454ms
+17:05 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+17:05 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+17:06 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+17:06 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Твой Ник
+17:06 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+17:06 [Info] CultistTrader was compiled successfully in 870ms
+17:06 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+17:06 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+17:06 [Info] WelcomeMessage was compiled successfully in 640ms
+17:06 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+17:07 [Info] Shutting down compiler because idle shutdown
+17:07 [Info] Compiler shutdown completed
+17:12 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:12 [Error] Error while compiling PluginManager: 'PluginManager' does not contain a definition for 'LoadPlugin' and no accessible extension method 'LoadPlugin' accepting a first argument of type 'PluginManager' could be found (are you missing a using directive or an assembly reference?) | Line: 177, Pos: 51
+17:13 [Info] Shutting down compiler because idle shutdown
+17:13 [Info] Compiler shutdown completed
+17:17 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:17 [Error] Error while compiling PluginManager: 'PluginManager' does not contain a definition for 'LoadPlugin' and no accessible extension method 'LoadPlugin' accepting a first argument of type 'PluginManager' could be found (are you missing a using directive or an assembly reference?) | Line: 177, Pos: 51
+17:18 [Info] Shutting down compiler because idle shutdown
+17:18 [Info] Compiler shutdown completed
+17:19 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:19 [Error] Error while compiling PluginManager: 'PluginManager' does not contain a definition for 'LoadPlugin' and no accessible extension method 'LoadPlugin' accepting a first argument of type 'PluginManager' could be found (are you missing a using directive or an assembly reference?) | Line: 177, Pos: 51
+17:20 [Info] Shutting down compiler because idle shutdown
+17:20 [Info] Compiler shutdown completed
+17:24 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:24 [Error] Error while compiling PluginManager: 'OxideMod' does not contain a definition for 'PluginManager' and no accessible extension method 'PluginManager' accepting a first argument of type 'OxideMod' could be found (are you missing a using directive or an assembly reference?) | Line: 177, Pos: 33
+17:24 [Error] Error while compiling PluginManager: 'OxideMod' does not contain a definition for 'PluginManager' and no accessible extension method 'PluginManager' accepting a first argument of type 'OxideMod' could be found (are you missing a using directive or an assembly reference?) | Line: 177, Pos: 33
+17:25 [Info] Shutting down compiler because idle shutdown
+17:25 [Info] Compiler shutdown completed
+17:26 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:26 [Info] PluginManager was compiled successfully in 1433ms
+17:26 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+17:26 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+17:26 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Твой Ник
+17:27 [Info] Shutting down compiler because idle shutdown
+17:27 [Info] Compiler shutdown completed
+17:30 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:30 [Info] PluginManager was compiled successfully in 1436ms
+17:30 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+17:30 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+17:30 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+17:31 [Info] Shutting down compiler because idle shutdown
+17:31 [Info] Compiler shutdown completed
+17:32 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:32 [Info] PluginManager was compiled successfully in 1479ms
+17:32 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+17:33 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+17:33 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+17:33 [Info] Shutting down compiler because idle shutdown
+17:33 [Info] Compiler shutdown completed
+17:35 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:35 [Error] Error while compiling PluginManager: Unexpected character '`' | Line: 147, Pos: 1
+17:36 [Info] Shutting down compiler because idle shutdown
+17:36 [Info] Compiler shutdown completed
+17:37 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:37 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 116, Pos: 21
+17:38 [Info] Shutting down compiler because idle shutdown
+17:38 [Info] Compiler shutdown completed
+17:38 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:38 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 116, Pos: 21
+17:39 [Info] Shutting down compiler because idle shutdown
+17:39 [Info] Compiler shutdown completed
+17:39 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:40 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 116, Pos: 21
+17:41 [Info] Shutting down compiler because idle shutdown
+17:41 [Info] Compiler shutdown completed
+17:41 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:41 [Error] Error while compiling PluginManager: Type 'PluginManager' already defines a member called 'ShowMainText' with the same parameter types | Line: 72, Pos: 22
+17:41 [Error] Error while compiling PluginManager: Type 'PluginManager' already defines a member called 'ShowMainText' with the same parameter types | Line: 72, Pos: 22
+17:41 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 67, Pos: 17
+17:42 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 67, Pos: 17
+17:42 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 67, Pos: 17
+17:43 [Info] Shutting down compiler because idle shutdown
+17:43 [Info] Compiler shutdown completed
+17:43 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:44 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 67, Pos: 17
+17:45 [Info] Shutting down compiler because idle shutdown
+17:45 [Info] Compiler shutdown completed
+17:45 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:45 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 67, Pos: 17
+17:46 [Info] Shutting down compiler because idle shutdown
+17:46 [Info] Compiler shutdown completed
+17:46 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:46 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 125, Pos: 21
+17:47 [Info] Shutting down compiler because idle shutdown
+17:47 [Info] Compiler shutdown completed
+17:48 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:48 [Error] Error while compiling PluginManager: Property or indexer 'CuiButton.Button' cannot be assigned to -- it is read only | Line: 140, Pos: 21
+17:49 [Info] Shutting down compiler because idle shutdown
+17:49 [Info] Compiler shutdown completed
+17:49 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:49 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 125, Pos: 21
+17:50 [Info] Shutting down compiler because idle shutdown
+17:50 [Info] Compiler shutdown completed
+17:50 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:50 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 67, Pos: 17
+17:51 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.Text' cannot be assigned to -- it is read only | Line: 67, Pos: 17
+17:52 [Info] Shutting down compiler because idle shutdown
+17:52 [Info] Compiler shutdown completed
+17:53 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:53 [Error] Error while compiling PluginManager: Property or indexer 'CuiLabel.RectTransform' cannot be assigned to -- it is read only | Line: 67, Pos: 17
+17:54 [Info] Shutting down compiler because idle shutdown
+17:54 [Info] Compiler shutdown completed
+17:57 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:57 [Error] Error while compiling PluginManager: Top-level statements must precede namespace and type declarations. | Line: 143, Pos: 1
+17:57 [Info] PluginManager was compiled successfully in 802ms
+17:57 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+17:57 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+17:57 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+17:58 [Info] Shutting down compiler because idle shutdown
+17:58 [Info] Compiler shutdown completed
+17:58 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+17:58 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+17:59 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+17:59 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+17:59 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+17:59 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+17:59 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Твой Ник
+18:01 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+18:06 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:06 [Info] PluginManager was compiled successfully in 1436ms
+18:06 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+18:06 [Info] Loaded plugin PluginManager v2.3.0 by Quake
+18:06 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+18:07 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+18:07 [Info] Unloaded plugin PluginManager v2.3.0 by Quake
+18:07 [Info] Loaded plugin PluginManager v2.3.0 by Quake
+18:07 [Info] Shutting down compiler because idle shutdown
+18:07 [Info] Compiler shutdown completed

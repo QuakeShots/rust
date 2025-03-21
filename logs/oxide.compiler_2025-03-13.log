@@ -1,0 +1,2051 @@
+2025-03-13 11:52:05.722 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 11:52:05.732 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 11:52:05.735 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 11:52:05.735 +03:00 [DBG] Started message server. . .
+2025-03-13 11:52:05.735 +03:00 [INF] Message server has started
+2025-03-13 11:52:07.751 +03:00 [INF] Sent ready message to parent process
+2025-03-13 11:52:07.752 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 11:52:07.825 +03:00 [DBG] Received compile job 0 | Plugins: 4, References: 55
+2025-03-13 11:52:08.754 +03:00 [INF] Starting compilation of job 0 | Total Plugins: 4
+2025-03-13 11:52:08.755 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] CultistTrader.cs(17632)
+  - [2] NpcSpawn.cs(135037)
+  - [3] PluginManager.cs(5337)
+  - [4] WelcomeMessage.cs(669)
+2025-03-13 11:52:08.767 +03:00 [DBG] Added 55 project references
+2025-03-13 11:52:08.804 +03:00 [DBG] Added 4 plugins to the project
+2025-03-13 11:52:09.157 +03:00 [INF] Successfully compiled 4/4 plugins for job 0 in 402ms
+2025-03-13 11:52:09.157 +03:00 [DBG] Pushing job 0 back to parent
+2025-03-13 11:53:03.986 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 11:53:04.517 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 12:01:32.713 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 12:01:32.724 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 12:01:32.727 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 12:01:32.727 +03:00 [DBG] Started message server. . .
+2025-03-13 12:01:32.728 +03:00 [INF] Message server has started
+2025-03-13 12:01:34.740 +03:00 [INF] Sent ready message to parent process
+2025-03-13 12:01:34.741 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 12:01:34.847 +03:00 [DBG] Received compile job 1 | Plugins: 1, References: 55
+2025-03-13 12:01:35.744 +03:00 [INF] Starting compilation of job 1 | Total Plugins: 1
+2025-03-13 12:01:35.744 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(5345)
+2025-03-13 12:01:35.757 +03:00 [DBG] Added 55 project references
+2025-03-13 12:01:35.779 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 12:01:36.033 +03:00 [WRN] Failed to compile PluginManager.cs - The name 'AddText' does not exist in the current context (L: 47 | P: 13) | Removing from project
+2025-03-13 12:01:36.034 +03:00 [ERR] Failed to compile job 1 in 289ms
+2025-03-13 12:01:36.034 +03:00 [DBG] Pushing job 1 back to parent
+2025-03-13 12:02:36.078 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 12:02:36.382 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 12:02:52.969 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 12:02:52.984 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 12:02:52.987 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 12:02:52.987 +03:00 [DBG] Started message server. . .
+2025-03-13 12:02:52.987 +03:00 [INF] Message server has started
+2025-03-13 12:02:55.002 +03:00 [INF] Sent ready message to parent process
+2025-03-13 12:02:55.003 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 12:02:55.056 +03:00 [DBG] Received compile job 2 | Plugins: 1, References: 55
+2025-03-13 12:02:56.019 +03:00 [INF] Starting compilation of job 2 | Total Plugins: 1
+2025-03-13 12:02:56.019 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(5672)
+2025-03-13 12:02:56.034 +03:00 [DBG] Added 55 project references
+2025-03-13 12:02:56.063 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 12:02:56.314 +03:00 [WRN] Failed to compile PluginManager.cs - The modifier 'private' is not valid for this item (L: 47 | P: 13) | Removing from project
+2025-03-13 12:02:56.314 +03:00 [ERR] Failed to compile job 2 in 295ms
+2025-03-13 12:02:56.314 +03:00 [DBG] Pushing job 2 back to parent
+2025-03-13 12:03:56.349 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 12:03:56.589 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 12:04:53.956 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 12:04:53.971 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 12:04:53.975 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 12:04:53.975 +03:00 [DBG] Started message server. . .
+2025-03-13 12:04:53.976 +03:00 [INF] Message server has started
+2025-03-13 12:04:55.989 +03:00 [INF] Sent ready message to parent process
+2025-03-13 12:04:55.990 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 12:04:56.166 +03:00 [DBG] Received compile job 3 | Plugins: 1, References: 55
+2025-03-13 12:04:56.996 +03:00 [INF] Starting compilation of job 3 | Total Plugins: 1
+2025-03-13 12:04:56.997 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(5674)
+2025-03-13 12:04:57.015 +03:00 [DBG] Added 55 project references
+2025-03-13 12:04:57.046 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 12:04:57.350 +03:00 [INF] Successfully compiled 1/1 plugins for job 3 in 354ms
+2025-03-13 12:04:57.350 +03:00 [DBG] Pushing job 3 back to parent
+2025-03-13 12:05:57.379 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 12:05:57.701 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 12:10:44.380 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 12:10:44.392 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 12:10:44.395 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 12:10:44.395 +03:00 [DBG] Started message server. . .
+2025-03-13 12:10:44.396 +03:00 [INF] Message server has started
+2025-03-13 12:10:46.398 +03:00 [INF] Sent ready message to parent process
+2025-03-13 12:10:46.399 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 12:10:46.451 +03:00 [DBG] Received compile job 4 | Plugins: 1, References: 55
+2025-03-13 12:10:47.402 +03:00 [INF] Starting compilation of job 4 | Total Plugins: 1
+2025-03-13 12:10:47.402 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(6406)
+2025-03-13 12:10:47.416 +03:00 [DBG] Added 55 project references
+2025-03-13 12:10:47.441 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 12:10:47.687 +03:00 [INF] Successfully compiled 1/1 plugins for job 4 in 285ms
+2025-03-13 12:10:47.687 +03:00 [DBG] Pushing job 4 back to parent
+2025-03-13 12:11:47.728 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 12:11:48.061 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 12:14:03.925 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 12:14:03.938 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 12:14:03.941 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 12:14:03.941 +03:00 [DBG] Started message server. . .
+2025-03-13 12:14:03.942 +03:00 [INF] Message server has started
+2025-03-13 12:14:05.958 +03:00 [INF] Sent ready message to parent process
+2025-03-13 12:14:05.959 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 12:14:06.003 +03:00 [DBG] Received compile job 5 | Plugins: 1, References: 55
+2025-03-13 12:14:06.962 +03:00 [INF] Starting compilation of job 5 | Total Plugins: 1
+2025-03-13 12:14:06.962 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(7584)
+2025-03-13 12:14:06.977 +03:00 [DBG] Added 55 project references
+2025-03-13 12:14:07.003 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 12:14:07.335 +03:00 [INF] Successfully compiled 1/1 plugins for job 5 in 373ms
+2025-03-13 12:14:07.335 +03:00 [DBG] Pushing job 5 back to parent
+2025-03-13 12:15:07.385 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 12:15:07.604 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 12:18:51.245 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 12:18:51.260 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 12:18:51.264 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 12:18:51.265 +03:00 [DBG] Started message server. . .
+2025-03-13 12:18:51.266 +03:00 [INF] Message server has started
+2025-03-13 12:18:53.280 +03:00 [INF] Sent ready message to parent process
+2025-03-13 12:18:53.281 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 12:18:53.358 +03:00 [DBG] Received compile job 6 | Plugins: 1, References: 55
+2025-03-13 12:18:54.297 +03:00 [INF] Starting compilation of job 6 | Total Plugins: 1
+2025-03-13 12:18:54.297 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(7067)
+2025-03-13 12:18:54.317 +03:00 [DBG] Added 55 project references
+2025-03-13 12:18:54.350 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 12:18:54.676 +03:00 [INF] Successfully compiled 1/1 plugins for job 6 in 379ms
+2025-03-13 12:18:54.677 +03:00 [DBG] Pushing job 6 back to parent
+2025-03-13 12:19:54.718 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 12:19:54.988 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 15:56:04.437 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 15:56:04.452 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 15:56:04.455 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 15:56:04.455 +03:00 [DBG] Started message server. . .
+2025-03-13 15:56:04.456 +03:00 [INF] Message server has started
+2025-03-13 15:56:06.469 +03:00 [INF] Sent ready message to parent process
+2025-03-13 15:56:06.469 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 15:56:06.633 +03:00 [DBG] Received compile job 7 | Plugins: 1, References: 55
+2025-03-13 15:56:07.475 +03:00 [INF] Starting compilation of job 7 | Total Plugins: 1
+2025-03-13 15:56:07.475 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(7609)
+2025-03-13 15:56:07.493 +03:00 [DBG] Added 55 project references
+2025-03-13 15:56:07.519 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 15:56:07.811 +03:00 [WRN] Failed to compile PluginManager.cs - Cannot convert method group 'IsEnabled' to non-delegate type 'bool'. Did you intend to invoke the method? (L: 114 | P: 41) | Removing from project
+2025-03-13 15:56:07.811 +03:00 [ERR] Failed to compile job 7 in 336ms
+2025-03-13 15:56:07.812 +03:00 [DBG] Pushing job 7 back to parent
+2025-03-13 15:56:22.712 +03:00 [DBG] Received compile job 8 | Plugins: 1, References: 55
+2025-03-13 15:56:22.940 +03:00 [INF] Starting compilation of job 8 | Total Plugins: 1
+2025-03-13 15:56:22.940 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8744)
+2025-03-13 15:56:22.946 +03:00 [DBG] Added 55 project references
+2025-03-13 15:56:22.947 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 15:56:23.003 +03:00 [WRN] Failed to compile PluginManager.cs - Cannot convert method group 'IsEnabled' to non-delegate type 'bool'. Did you intend to invoke the method? (L: 114 | P: 41) | Removing from project
+2025-03-13 15:56:23.003 +03:00 [ERR] Failed to compile job 8 in 63ms
+2025-03-13 15:56:23.003 +03:00 [DBG] Pushing job 8 back to parent
+2025-03-13 15:56:41.006 +03:00 [DBG] Received compile job 9 | Plugins: 1, References: 55
+2025-03-13 15:56:41.133 +03:00 [INF] Starting compilation of job 9 | Total Plugins: 1
+2025-03-13 15:56:41.133 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8745)
+2025-03-13 15:56:41.148 +03:00 [DBG] Added 55 project references
+2025-03-13 15:56:41.149 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 15:56:41.183 +03:00 [WRN] Failed to compile PluginManager.cs - ; expected (L: 114 | P: 32) | Removing from project
+2025-03-13 15:56:41.183 +03:00 [ERR] Failed to compile job 9 in 50ms
+2025-03-13 15:56:41.183 +03:00 [DBG] Pushing job 9 back to parent
+2025-03-13 15:56:48.200 +03:00 [DBG] Received compile job 10 | Plugins: 1, References: 55
+2025-03-13 15:56:48.237 +03:00 [INF] Starting compilation of job 10 | Total Plugins: 1
+2025-03-13 15:56:48.237 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8744)
+2025-03-13 15:56:48.242 +03:00 [DBG] Added 55 project references
+2025-03-13 15:56:48.243 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 15:56:48.280 +03:00 [WRN] Failed to compile PluginManager.cs - Cannot convert method group 'IsEnabled' to non-delegate type 'bool'. Did you intend to invoke the method? (L: 114 | P: 41) | Removing from project
+2025-03-13 15:56:48.280 +03:00 [ERR] Failed to compile job 10 in 43ms
+2025-03-13 15:56:48.281 +03:00 [DBG] Pushing job 10 back to parent
+2025-03-13 15:57:23.896 +03:00 [DBG] Received compile job 11 | Plugins: 1, References: 55
+2025-03-13 15:57:24.521 +03:00 [INF] Starting compilation of job 11 | Total Plugins: 1
+2025-03-13 15:57:24.521 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8731)
+2025-03-13 15:57:24.527 +03:00 [DBG] Added 55 project references
+2025-03-13 15:57:24.528 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 15:57:24.571 +03:00 [WRN] Failed to compile PluginManager.cs - 'Plugin' does not contain a definition for 'IsEnabled' and the best extension method overload 'ComponentEx.IsEnabled(Component)' requires a receiver of type 'UnityEngine.Component' (L: 114 | P: 34) | Removing from project
+2025-03-13 15:57:24.571 +03:00 [ERR] Failed to compile job 11 in 50ms
+2025-03-13 15:57:24.571 +03:00 [DBG] Pushing job 11 back to parent
+2025-03-13 15:57:54.553 +03:00 [DBG] Received compile job 12 | Plugins: 1, References: 55
+2025-03-13 15:57:54.847 +03:00 [INF] Starting compilation of job 12 | Total Plugins: 1
+2025-03-13 15:57:54.847 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8767)
+2025-03-13 15:57:54.860 +03:00 [DBG] Added 55 project references
+2025-03-13 15:57:54.861 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 15:57:54.912 +03:00 [WRN] Failed to compile PluginManager.cs - Operator '!' cannot be applied to operand of type 'method group' (L: 174 | P: 17) | Removing from project
+2025-03-13 15:57:54.912 +03:00 [ERR] Failed to compile job 12 in 64ms
+2025-03-13 15:57:54.912 +03:00 [DBG] Pushing job 12 back to parent
+2025-03-13 15:58:54.992 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 15:58:55.416 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 16:00:48.519 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 16:00:48.532 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 16:00:48.535 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 16:00:48.535 +03:00 [DBG] Started message server. . .
+2025-03-13 16:00:48.536 +03:00 [INF] Message server has started
+2025-03-13 16:00:50.539 +03:00 [INF] Sent ready message to parent process
+2025-03-13 16:00:50.539 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 16:00:50.717 +03:00 [DBG] Received compile job 13 | Plugins: 1, References: 55
+2025-03-13 16:00:51.554 +03:00 [INF] Starting compilation of job 13 | Total Plugins: 1
+2025-03-13 16:00:51.554 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8767)
+2025-03-13 16:00:51.571 +03:00 [DBG] Added 55 project references
+2025-03-13 16:00:51.597 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:00:51.860 +03:00 [WRN] Failed to compile PluginManager.cs - Operator '!' cannot be applied to operand of type 'method group' (L: 174 | P: 17) | Removing from project
+2025-03-13 16:00:51.860 +03:00 [ERR] Failed to compile job 13 in 306ms
+2025-03-13 16:00:51.860 +03:00 [DBG] Pushing job 13 back to parent
+2025-03-13 16:01:50.276 +03:00 [DBG] Received compile job 14 | Plugins: 1, References: 55
+2025-03-13 16:01:50.309 +03:00 [INF] Starting compilation of job 14 | Total Plugins: 1
+2025-03-13 16:01:50.309 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8877)
+2025-03-13 16:01:50.315 +03:00 [DBG] Added 55 project references
+2025-03-13 16:01:50.316 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:01:50.371 +03:00 [WRN] Failed to compile PluginManager.cs - 'Plugins' does not contain a definition for 'Unload' and no accessible extension method 'Unload' accepting a first argument of type 'Plugins' could be found (are you missing a using directive or an assembly reference?) (L: 181 | P: 21) | Removing from project
+2025-03-13 16:01:50.372 +03:00 [ERR] Failed to compile job 14 in 63ms
+2025-03-13 16:01:50.372 +03:00 [DBG] Pushing job 14 back to parent
+2025-03-13 16:02:24.075 +03:00 [DBG] Received compile job 15 | Plugins: 1, References: 55
+2025-03-13 16:02:24.639 +03:00 [INF] Starting compilation of job 15 | Total Plugins: 1
+2025-03-13 16:02:24.639 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8892)
+2025-03-13 16:02:24.656 +03:00 [DBG] Added 55 project references
+2025-03-13 16:02:24.657 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:02:24.728 +03:00 [INF] Successfully compiled 1/1 plugins for job 15 in 88ms
+2025-03-13 16:02:24.728 +03:00 [DBG] Pushing job 15 back to parent
+2025-03-13 16:03:24.770 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 16:03:25.131 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 16:09:25.542 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 16:09:25.555 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 16:09:25.558 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 16:09:25.558 +03:00 [DBG] Started message server. . .
+2025-03-13 16:09:25.559 +03:00 [INF] Message server has started
+2025-03-13 16:09:27.574 +03:00 [INF] Sent ready message to parent process
+2025-03-13 16:09:27.574 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 16:09:27.620 +03:00 [DBG] Received compile job 16 | Plugins: 1, References: 55
+2025-03-13 16:09:28.587 +03:00 [INF] Starting compilation of job 16 | Total Plugins: 1
+2025-03-13 16:09:28.587 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8892)
+2025-03-13 16:09:28.604 +03:00 [DBG] Added 55 project references
+2025-03-13 16:09:28.636 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:09:28.965 +03:00 [INF] Successfully compiled 1/1 plugins for job 16 in 378ms
+2025-03-13 16:09:28.965 +03:00 [DBG] Pushing job 16 back to parent
+2025-03-13 16:10:08.019 +03:00 [DBG] Received compile job 17 | Plugins: 1, References: 55
+2025-03-13 16:10:08.202 +03:00 [INF] Starting compilation of job 17 | Total Plugins: 1
+2025-03-13 16:10:08.202 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8892)
+2025-03-13 16:10:08.215 +03:00 [DBG] Added 55 project references
+2025-03-13 16:10:08.216 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:10:08.266 +03:00 [INF] Successfully compiled 1/1 plugins for job 17 in 63ms
+2025-03-13 16:10:08.266 +03:00 [DBG] Pushing job 17 back to parent
+2025-03-13 16:10:19.364 +03:00 [DBG] Received compile job 18 | Plugins: 1, References: 55
+2025-03-13 16:10:20.329 +03:00 [INF] Starting compilation of job 18 | Total Plugins: 1
+2025-03-13 16:10:20.329 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8892)
+2025-03-13 16:10:20.340 +03:00 [DBG] Added 55 project references
+2025-03-13 16:10:20.341 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:10:20.387 +03:00 [INF] Successfully compiled 1/1 plugins for job 18 in 58ms
+2025-03-13 16:10:20.387 +03:00 [DBG] Pushing job 18 back to parent
+2025-03-13 16:10:38.751 +03:00 [DBG] Received compile job 19 | Plugins: 1, References: 55
+2025-03-13 16:10:39.477 +03:00 [INF] Starting compilation of job 19 | Total Plugins: 1
+2025-03-13 16:10:39.477 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8892)
+2025-03-13 16:10:39.492 +03:00 [DBG] Added 55 project references
+2025-03-13 16:10:39.493 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:10:39.546 +03:00 [INF] Successfully compiled 1/1 plugins for job 19 in 68ms
+2025-03-13 16:10:39.546 +03:00 [DBG] Pushing job 19 back to parent
+2025-03-13 16:10:57.523 +03:00 [DBG] Received compile job 20 | Plugins: 1, References: 55
+2025-03-13 16:10:57.623 +03:00 [INF] Starting compilation of job 20 | Total Plugins: 1
+2025-03-13 16:10:57.624 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8892)
+2025-03-13 16:10:57.629 +03:00 [DBG] Added 55 project references
+2025-03-13 16:10:57.630 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:10:57.667 +03:00 [INF] Successfully compiled 1/1 plugins for job 20 in 43ms
+2025-03-13 16:10:57.667 +03:00 [DBG] Pushing job 20 back to parent
+2025-03-13 16:11:57.723 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 16:11:57.975 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 16:15:10.738 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 16:15:10.753 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 16:15:10.756 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 16:15:10.756 +03:00 [DBG] Started message server. . .
+2025-03-13 16:15:10.757 +03:00 [INF] Message server has started
+2025-03-13 16:15:12.764 +03:00 [INF] Sent ready message to parent process
+2025-03-13 16:15:12.765 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 16:15:12.810 +03:00 [DBG] Received compile job 21 | Plugins: 1, References: 55
+2025-03-13 16:15:13.770 +03:00 [INF] Starting compilation of job 21 | Total Plugins: 1
+2025-03-13 16:15:13.770 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(7737)
+2025-03-13 16:15:13.786 +03:00 [DBG] Added 55 project references
+2025-03-13 16:15:13.817 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:15:14.152 +03:00 [INF] Successfully compiled 1/1 plugins for job 21 in 381ms
+2025-03-13 16:15:14.152 +03:00 [DBG] Pushing job 21 back to parent
+2025-03-13 16:16:14.175 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 16:16:14.426 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 16:16:36.223 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 16:16:36.237 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 16:16:36.239 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 16:16:36.240 +03:00 [DBG] Started message server. . .
+2025-03-13 16:16:36.240 +03:00 [INF] Message server has started
+2025-03-13 16:16:38.253 +03:00 [INF] Sent ready message to parent process
+2025-03-13 16:16:38.254 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 16:16:38.300 +03:00 [DBG] Received compile job 22 | Plugins: 1, References: 55
+2025-03-13 16:16:39.270 +03:00 [INF] Starting compilation of job 22 | Total Plugins: 1
+2025-03-13 16:16:39.270 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8892)
+2025-03-13 16:16:39.286 +03:00 [DBG] Added 55 project references
+2025-03-13 16:16:39.320 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:16:39.656 +03:00 [INF] Successfully compiled 1/1 plugins for job 22 in 386ms
+2025-03-13 16:16:39.656 +03:00 [DBG] Pushing job 22 back to parent
+2025-03-13 16:17:39.681 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 16:17:39.994 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 16:18:27.343 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 16:18:27.357 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 16:18:27.360 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 16:18:27.360 +03:00 [DBG] Started message server. . .
+2025-03-13 16:18:27.361 +03:00 [INF] Message server has started
+2025-03-13 16:18:29.372 +03:00 [INF] Sent ready message to parent process
+2025-03-13 16:18:29.373 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 16:18:29.414 +03:00 [DBG] Received compile job 23 | Plugins: 1, References: 55
+2025-03-13 16:18:30.390 +03:00 [INF] Starting compilation of job 23 | Total Plugins: 1
+2025-03-13 16:18:30.390 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(7903)
+2025-03-13 16:18:30.407 +03:00 [DBG] Added 55 project references
+2025-03-13 16:18:30.437 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:18:30.760 +03:00 [INF] Successfully compiled 1/1 plugins for job 23 in 370ms
+2025-03-13 16:18:30.760 +03:00 [DBG] Pushing job 23 back to parent
+2025-03-13 16:19:30.812 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 16:19:31.034 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 16:20:16.157 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 16:20:16.170 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 16:20:16.173 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 16:20:16.174 +03:00 [DBG] Started message server. . .
+2025-03-13 16:20:16.174 +03:00 [INF] Message server has started
+2025-03-13 16:20:18.180 +03:00 [INF] Sent ready message to parent process
+2025-03-13 16:20:18.181 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 16:20:18.382 +03:00 [DBG] Received compile job 24 | Plugins: 1, References: 55
+2025-03-13 16:20:19.191 +03:00 [INF] Starting compilation of job 24 | Total Plugins: 1
+2025-03-13 16:20:19.192 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(6759)
+2025-03-13 16:20:19.211 +03:00 [DBG] Added 55 project references
+2025-03-13 16:20:19.244 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:20:19.588 +03:00 [INF] Successfully compiled 1/1 plugins for job 24 in 396ms
+2025-03-13 16:20:19.588 +03:00 [DBG] Pushing job 24 back to parent
+2025-03-13 16:20:32.481 +03:00 [DBG] Received compile job 25 | Plugins: 1, References: 55
+2025-03-13 16:20:32.669 +03:00 [INF] Starting compilation of job 25 | Total Plugins: 1
+2025-03-13 16:20:32.670 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8892)
+2025-03-13 16:20:32.675 +03:00 [DBG] Added 55 project references
+2025-03-13 16:20:32.677 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:20:32.734 +03:00 [INF] Successfully compiled 1/1 plugins for job 25 in 64ms
+2025-03-13 16:20:32.734 +03:00 [DBG] Pushing job 25 back to parent
+2025-03-13 16:21:32.789 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 16:21:33.025 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 16:23:14.849 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 16:23:14.862 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 16:23:14.866 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 16:23:14.866 +03:00 [DBG] Started message server. . .
+2025-03-13 16:23:14.867 +03:00 [INF] Message server has started
+2025-03-13 16:23:16.874 +03:00 [INF] Sent ready message to parent process
+2025-03-13 16:23:16.875 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 16:23:16.922 +03:00 [DBG] Received compile job 26 | Plugins: 1, References: 55
+2025-03-13 16:23:17.886 +03:00 [INF] Starting compilation of job 26 | Total Plugins: 1
+2025-03-13 16:23:17.887 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(8490)
+2025-03-13 16:23:17.903 +03:00 [DBG] Added 55 project references
+2025-03-13 16:23:17.936 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:23:18.289 +03:00 [INF] Successfully compiled 1/1 plugins for job 26 in 402ms
+2025-03-13 16:23:18.289 +03:00 [DBG] Pushing job 26 back to parent
+2025-03-13 16:24:18.316 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 16:24:18.610 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 16:26:01.567 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 16:26:01.583 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 16:26:01.587 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 16:26:01.588 +03:00 [DBG] Started message server. . .
+2025-03-13 16:26:01.589 +03:00 [INF] Message server has started
+2025-03-13 16:26:03.602 +03:00 [INF] Sent ready message to parent process
+2025-03-13 16:26:03.604 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 16:26:03.652 +03:00 [DBG] Received compile job 27 | Plugins: 1, References: 55
+2025-03-13 16:26:04.611 +03:00 [INF] Starting compilation of job 27 | Total Plugins: 1
+2025-03-13 16:26:04.612 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(7502)
+2025-03-13 16:26:04.629 +03:00 [DBG] Added 55 project references
+2025-03-13 16:26:04.663 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:26:05.000 +03:00 [INF] Successfully compiled 1/1 plugins for job 27 in 388ms
+2025-03-13 16:26:05.000 +03:00 [DBG] Pushing job 27 back to parent
+2025-03-13 16:27:05.007 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 16:27:05.297 +03:00 [INF] Termination request has been received from SIGTERM
+2025-03-13 16:30:43.991 +03:00 [INF] Starting compiler v1.0.32.0. . .
+2025-03-13 16:30:44.010 +03:00 [INF] Minimal logging level is set to Debug
+2025-03-13 16:30:44.015 +03:00 [INF] Watching parent process ([10168] RustDedicated) for shutdown
+2025-03-13 16:30:44.015 +03:00 [DBG] Started message server. . .
+2025-03-13 16:30:44.016 +03:00 [INF] Message server has started
+2025-03-13 16:30:46.028 +03:00 [INF] Sent ready message to parent process
+2025-03-13 16:30:46.029 +03:00 [DBG] Compiler has started successfully and is awaiting jobs. . .
+2025-03-13 16:30:46.084 +03:00 [DBG] Received compile job 28 | Plugins: 1, References: 55
+2025-03-13 16:30:47.046 +03:00 [INF] Starting compilation of job 28 | Total Plugins: 1
+2025-03-13 16:30:47.046 +03:00 [DBG] Settings[Encoding: utf-8, CSVersion: Preview, Target: DynamicallyLinkedLibrary, Platform: AnyCpu, StdLib: False, Debug: False, Preprocessor: OXIDE, OXIDEMOD, RUST, RUST_MASTER, RUST_2_0_6408, RUST_2_0_6408_MASTER, OXIDE_PUBLICIZED]
+Reference Files:
+  - [1] mscorlib.dll(4631552)
+  - [2] Oxide.Core.dll(201728)
+  - [3] Oxide.CSharp.dll(104960)
+  - [4] Oxide.Common.dll(22528)
+  - [5] System.dll(2639360)
+  - [6] System.Core.dll(1113088)
+  - [7] System.Data.dll(2081280)
+  - [8] System.Xml.dll(3160064)
+  - [9] Oxide.References.dll(1419264)
+  - [10] Oxide.MySql.dll(20480)
+  - [11] MySql.Data.dll(443392)
+  - [12] Oxide.SQLite.dll(20992)
+  - [13] System.Data.SQLite.dll(286720)
+  - [14] Oxide.Unity.dll(10240)
+  - [15] UnityEngine.dll(125120)
+  - [16] Oxide.Rust.dll(98816)
+  - [17] Assembly-CSharp.dll(6778368)
+  - [18] Facepunch.System.dll(73216)
+  - [19] Facepunch.Console.dll(24576)
+  - [20] UnityEngine.CoreModule.dll(1387200)
+  - [21] Facepunch.Network.dll(72192)
+  - [22] Rust.Platform.Common.dll(23552)
+  - [23] UnityEngine.TextRenderingModule.dll(37568)
+  - [24] UnityEngine.UI.dll(240640)
+  - [25] Rust.Data.dll(1359872)
+  - [26] Rust.Global.dll(91648)
+  - [27] Facepunch.Steamworks.Win64.dll(625664)
+  - [28] Facepunch.UnityEngine.dll(120832)
+  - [29] Assembly-CSharp-firstpass.dll(1707008)
+  - [30] Facepunch.Unity.dll(76288)
+  - [31] 0Harmony.dll(2193920)
+  - [32] Rust.FileSystem.dll(18944)
+  - [33] Rust.Clans.dll(12288)
+  - [34] Rust.Clans.Local.dll(59392)
+  - [35] Rust.Localization.dll(5632)
+  - [36] Rust.Platform.dll(7168)
+  - [37] Rust.Platform.Steam.dll(30720)
+  - [38] Rust.Workshop.dll(544256)
+  - [39] Rust.World.dll(11776)
+  - [40] System.Drawing.dll(481280)
+  - [41] UnityEngine.AIModule.dll(57024)
+  - [42] UnityEngine.AssetBundleModule.dll(31424)
+  - [43] UnityEngine.GridModule.dll(23744)
+  - [44] UnityEngine.ImageConversionModule.dll(22720)
+  - [45] UnityEngine.PhysicsModule.dll(136896)
+  - [46] UnityEngine.TerrainModule.dll(99520)
+  - [47] UnityEngine.TerrainPhysicsModule.dll(19648)
+  - [48] UnityEngine.UIModule.dll(35008)
+  - [49] UnityEngine.UIElementsModule.dll(1533120)
+  - [50] UnityEngine.UnityWebRequestAudioModule.dll(21184)
+  - [51] UnityEngine.UnityWebRequestModule.dll(56512)
+  - [52] UnityEngine.UnityWebRequestTextureModule.dll(20160)
+  - [53] UnityEngine.UnityWebRequestWWWModule.dll(29888)
+  - [54] UnityEngine.VehiclesModule.dll(22720)
+  - [55] netstandard.dll(90112)
+Plugin Files:
+  - [1] PluginManager.cs(7541)
+2025-03-13 16:30:47.065 +03:00 [DBG] Added 55 project references
+2025-03-13 16:30:47.097 +03:00 [DBG] Added 1 plugins to the project
+2025-03-13 16:30:47.473 +03:00 [INF] Successfully compiled 1/1 plugins for job 28 in 427ms
+2025-03-13 16:30:47.473 +03:00 [DBG] Pushing job 28 back to parent
+2025-03-13 16:31:47.525 +03:00 [INF] Termination request has been received from compiler stream
+2025-03-13 16:31:47.799 +03:00 [INF] Termination request has been received from SIGTERM

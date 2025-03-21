@@ -1,0 +1,828 @@
+11:05 [Info] Loading Oxide Core v2.0.4121...
+11:05 [Info] Loading extensions...
+11:05 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+11:05 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+11:05 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+11:05 [Info] Unity version: 2022.3.41f1
+11:05 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+11:05 [Info] Loaded extension Rust v2.0.6410 by Oxide Team and Contributors
+11:05 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+11:05 [Info] [CSharp] Oxide.Compiler.exe is up to date
+11:05 [Info] Using Covalence provider for game 'Rust'
+11:05 [Info] Loading plugins...
+11:05 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+11:05 [Info] Loaded plugin Rust v2.0.6410 by Oxide Team and Contributors
+11:05 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+11:06 [Info] CultistTrader, PluginManager and WelcomeMessage were compiled successfully in 0ms
+11:06 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+11:06 [Info] Loaded plugin PluginManager v2.3.0 by Quake
+11:06 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+11:06 [Error] Error while compiling PluginManager: No overload for method 'AddSideButton' takes 6 arguments | Line: 51, Pos: 13
+11:07 [Info] Shutting down compiler because idle shutdown
+11:07 [Info] Compiler shutdown completed
+11:11 [Info] IP address from external API: 185.9.187.153
+11:21 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+11:21 [Error] Error while compiling PluginManager: No overload for method 'AddSideButton' takes 6 arguments | Line: 51, Pos: 13
+11:22 [Info] Shutting down compiler because idle shutdown
+11:22 [Info] Compiler shutdown completed
+11:36 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+11:36 [Info] PluginManager was compiled successfully in 1437ms
+11:36 [Info] Unloaded plugin PluginManager v2.3.0 by Quake
+11:36 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+11:36 [Info] CultistTrader was compiled successfully in 735ms
+11:36 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+11:36 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+11:36 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+11:36 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+11:36 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+11:37 [Info] Shutting down compiler because idle shutdown
+11:37 [Info] Compiler shutdown completed
+11:38 [Error] Timed out waiting for plugin to be compiled: PluginManager
+11:47 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+11:47 [Info] PluginManager was compiled successfully in 1437ms
+11:47 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+11:47 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+11:47 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Твой Ник
+11:48 [Info] WelcomeMessage was compiled successfully in 675ms
+11:48 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+11:48 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Твой Ник
+11:48 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+11:49 [Info] Shutting down compiler because idle shutdown
+11:49 [Info] Compiler shutdown completed
+11:49 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Твой Ник
+11:54 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+11:54 [Info] PluginManager was compiled successfully in 1405ms
+11:54 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+11:54 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+11:54 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+11:55 [Info] Shutting down compiler because idle shutdown
+11:55 [Info] Compiler shutdown completed
+11:55 [Info] Usage: oxide.reload *|<pluginname>+
+12:15 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:15 [Info] PluginManager was compiled successfully in 1503ms
+12:15 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+12:16 [Info] Shutting down compiler because idle shutdown
+12:16 [Info] Compiler shutdown completed
+12:17 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+12:17 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+12:17 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:17 [Info] CultistTrader was compiled successfully in 1456ms
+12:17 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+12:17 [Info] WelcomeMessage was compiled successfully in 917ms
+12:17 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+12:17 [Info] WelcomeMessage was compiled successfully in 558ms
+12:17 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Твой Ник
+12:17 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:18 [Info] PluginManager was compiled successfully in 233ms
+12:18 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+12:18 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+12:19 [Error] Error while compiling PluginManager: The name 'AddPluginList' does not exist in the current context | Line: 100, Pos: 21
+12:20 [Info] Shutting down compiler because idle shutdown
+12:20 [Info] Compiler shutdown completed
+12:20 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:20 [Error] Error while compiling PluginManager: The name 'AddPluginEntry' does not exist in the current context | Line: 113, Pos: 17
+12:20 [Error] Error while compiling PluginManager: Type 'PluginManager' already defines a member called 'CloseUI' with the same parameter types | Line: 189, Pos: 22
+12:20 [Error] Error while compiling PluginManager: Type 'PluginManager' already defines a member called 'CloseUI' with the same parameter types | Line: 189, Pos: 22
+12:20 [Error] Error while compiling PluginManager: Type 'PluginManager' already defines a member called 'CloseUI' with the same parameter types | Line: 189, Pos: 22
+12:21 [Error] Error while compiling PluginManager: Type 'PluginManager' already defines a member called 'CloseUI' with the same parameter types | Line: 189, Pos: 22
+12:21 [Error] Error while compiling PluginManager: Type 'PluginManager' already defines a member called 'CloseUI' with the same parameter types | Line: 188, Pos: 22
+12:21 [Error] Error while compiling PluginManager: Type 'PluginManager' already defines a member called 'CloseUI' with the same parameter types | Line: 188, Pos: 22
+12:21 [Error] Error while compiling PluginManager: The name 'Directory' does not exist in the current context | Line: 116, Pos: 37
+12:22 [Error] Error while compiling PluginManager: The name 'Directory' does not exist in the current context | Line: 116, Pos: 37
+12:23 [Info] Shutting down compiler because idle shutdown
+12:23 [Info] Compiler shutdown completed
+12:24 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:24 [Info] PluginManager was compiled successfully in 1436ms
+12:24 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+12:24 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+12:24 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:25 [Info] Shutting down compiler because idle shutdown
+12:25 [Info] Compiler shutdown completed
+12:25 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:28 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:28 [Info] PluginManager was compiled successfully in 1438ms
+12:28 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+12:28 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+12:29 [Info] PluginManager was compiled successfully in 768ms
+12:29 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+12:29 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+12:29 [Info] PluginManager was compiled successfully in 635ms
+12:29 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+12:29 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+12:29 [Info] PluginManager was compiled successfully in 774ms
+12:29 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+12:29 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+12:29 [Info] PluginManager was compiled successfully in 952ms
+12:29 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+12:29 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+12:29 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:30 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:30 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:30 [Info] Shutting down compiler because idle shutdown
+12:30 [Info] Compiler shutdown completed
+12:30 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:30 [Info] PluginManager was compiled successfully in 1374ms
+12:30 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+12:30 [Info] Loaded plugin PluginManager v2.2.2 by Quake
+12:31 [Info] Shutting down compiler because idle shutdown
+12:31 [Info] Compiler shutdown completed
+12:35 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:43 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:45 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:45 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'options' of 'ConsoleSystem.Arg.Arg(ConsoleSystem.Option, string)' | Line: 170, Pos: 33
+12:46 [Info] Shutting down compiler because idle shutdown
+12:46 [Info] Compiler shutdown completed
+12:49 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:50 [Error] Error while compiling PluginManager: There is no argument given that corresponds to the required parameter 'rconCommand' of 'ConsoleSystem.Arg.Arg(ConsoleSystem.Option, string)' | Line: 170, Pos: 33
+12:51 [Info] Shutting down compiler because idle shutdown
+12:51 [Info] Compiler shutdown completed
+12:56 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+12:56 [Info] PluginManager was compiled successfully in 1421ms
+12:56 [Info] Unloaded plugin PluginManager v2.2.2 by Quake
+12:56 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+12:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:57 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:57 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:57 [Info] Shutting down compiler because idle shutdown
+12:57 [Info] Compiler shutdown completed
+12:57 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:57 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+12:57 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+12:57 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:04 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:04 [Info] PluginManager was compiled successfully in 1457ms
+13:04 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:04 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+13:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:04 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:04 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:04 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+13:04 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+13:05 [Info] Shutting down compiler because idle shutdown
+13:05 [Info] Compiler shutdown completed
+13:08 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:08 [Info] PluginManager was compiled successfully in 1433ms
+13:08 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:08 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:09 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+13:09 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:09 [Info] Shutting down compiler because idle shutdown
+13:09 [Info] Compiler shutdown completed
+13:13 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:13 [Info] PluginManager was compiled successfully in 1389ms
+13:13 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:13 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:13 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+13:13 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:14 [Info] Shutting down compiler because idle shutdown
+13:14 [Info] Compiler shutdown completed
+13:18 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:18 [Error] Error while compiling PluginManager: The name 'yStart' does not exist in the current context | Line: 188, Pos: 54
+13:19 [Info] Shutting down compiler because idle shutdown
+13:19 [Info] Compiler shutdown completed
+13:21 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:21 [Info] PluginManager was compiled successfully in 1428ms
+13:21 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:21 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:21 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+13:21 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:21 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+13:21 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:21 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+13:21 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:22 [Info] Shutting down compiler because idle shutdown
+13:22 [Info] Compiler shutdown completed
+13:25 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:25 [Info] PluginManager was compiled successfully in 1504ms
+13:25 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:25 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:25 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+13:26 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:26 [Info] Shutting down compiler because idle shutdown
+13:26 [Info] Compiler shutdown completed
+13:38 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:38 [Info] PluginManager was compiled successfully in 1479ms
+13:38 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:38 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:39 [Info] Shutting down compiler because idle shutdown
+13:39 [Info] Compiler shutdown completed
+13:41 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:41 [Info] PluginManager was compiled successfully in 1436ms
+13:41 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:41 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:42 [Info] Shutting down compiler because idle shutdown
+13:42 [Info] Compiler shutdown completed
+13:45 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:45 [Error] Error while compiling PluginManager: Argument 1: cannot convert from 'Oxide.Game.Rust.Cui.CuiElementContainer' to 'Oxide.Game.Rust.Cui.CuiButton' | Line: 232, Pos: 27
+13:46 [Info] Shutting down compiler because idle shutdown
+13:46 [Info] Compiler shutdown completed
+13:48 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:48 [Info] PluginManager was compiled successfully in 1437ms
+13:48 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:48 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:49 [Info] Shutting down compiler because idle shutdown
+13:49 [Info] Compiler shutdown completed
+13:53 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+13:53 [Info] PluginManager was compiled successfully in 1469ms
+13:53 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+13:53 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+13:54 [Info] Shutting down compiler because idle shutdown
+13:54 [Info] Compiler shutdown completed
+13:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+13:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+13:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+13:56 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:13 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:13 [Info] PluginManager was compiled successfully in 1479ms
+14:13 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:14 [Info] Shutting down compiler because idle shutdown
+14:14 [Info] Compiler shutdown completed
+14:18 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:18 [Info] PluginManager was compiled successfully in 1486ms
+14:18 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:18 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:18 [Info] PluginManager was compiled successfully in 635ms
+14:18 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:18 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:19 [Info] Shutting down compiler because idle shutdown
+14:19 [Info] Compiler shutdown completed
+14:23 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:23 [Info] PluginManager was compiled successfully in 1438ms
+14:23 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:23 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:24 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+14:24 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+14:24 [Info] Shutting down compiler because idle shutdown
+14:24 [Info] Compiler shutdown completed
+14:28 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:28 [Info] PluginManager was compiled successfully in 1518ms
+14:28 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:28 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:29 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+14:29 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+14:29 [Info] Shutting down compiler because idle shutdown
+14:29 [Info] Compiler shutdown completed
+14:35 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:35 [Error] Error while compiling PluginManager: Argument 1: cannot convert from 'Oxide.Game.Rust.Cui.CuiElement' to 'Oxide.Game.Rust.Cui.CuiButton' | Line: 142, Pos: 27
+14:36 [Info] Shutting down compiler because idle shutdown
+14:36 [Info] Compiler shutdown completed
+14:36 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:37 [Error] Error while compiling PluginManager: Argument 1: cannot convert from 'Oxide.Game.Rust.Cui.CuiElement' to 'Oxide.Game.Rust.Cui.CuiButton' | Line: 142, Pos: 27
+14:38 [Info] Shutting down compiler because idle shutdown
+14:38 [Info] Compiler shutdown completed
+14:40 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:40 [Error] Error while compiling PluginManager: Argument 1: cannot convert from 'Oxide.Game.Rust.Cui.CuiElement' to 'Oxide.Game.Rust.Cui.CuiButton' | Line: 142, Pos: 27
+14:41 [Info] Shutting down compiler because idle shutdown
+14:41 [Info] Compiler shutdown completed
+14:43 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:43 [Error] Error while compiling PluginManager: Argument 1: cannot convert from 'Oxide.Game.Rust.Cui.CuiElement' to 'Oxide.Game.Rust.Cui.CuiButton' | Line: 142, Pos: 27
+14:44 [Info] Shutting down compiler because idle shutdown
+14:44 [Info] Compiler shutdown completed
+14:47 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:47 [Error] Error while compiling PluginManager: Argument 1: cannot convert from 'Oxide.Game.Rust.Cui.CuiElement' to 'Oxide.Game.Rust.Cui.CuiButton' | Line: 142, Pos: 27
+14:48 [Info] Shutting down compiler because idle shutdown
+14:48 [Info] Compiler shutdown completed
+14:50 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:50 [Error] Error while compiling PluginManager: Argument 1: cannot convert from 'Oxide.Game.Rust.Cui.CuiElement' to 'Oxide.Game.Rust.Cui.CuiButton' | Line: 142, Pos: 27
+14:51 [Info] Shutting down compiler because idle shutdown
+14:51 [Info] Compiler shutdown completed
+14:52 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:52 [Error] Error while compiling PluginManager: The type or namespace name 'CuiScrollView' could not be found (are you missing a using directive or an assembly reference?) | Line: 148, Pos: 31
+14:53 [Error] Error while compiling PluginManager: A local variable or function named 'scrollPanel' is already defined in this scope | Line: 140, Pos: 20
+14:53 [Info] PluginManager was compiled successfully in 1135ms
+14:53 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:53 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:54 [Info] Shutting down compiler because idle shutdown
+14:54 [Info] Compiler shutdown completed
+14:57 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:57 [Info] PluginManager was compiled successfully in 1437ms
+14:57 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+14:57 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+14:58 [Info] Shutting down compiler because idle shutdown
+14:58 [Info] Compiler shutdown completed
+15:03 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:03 [Info] PluginManager was compiled successfully in 1438ms
+15:03 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:03 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:03 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:03 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:03 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:03 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:03 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:03 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:04 [Info] Shutting down compiler because idle shutdown
+15:04 [Info] Compiler shutdown completed
+15:08 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:08 [Info] PluginManager was compiled successfully in 1466ms
+15:08 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:08 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:08 [Info] PluginManager was compiled successfully in 123ms
+15:08 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:08 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:08 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:09 [Info] Shutting down compiler because idle shutdown
+15:09 [Info] Compiler shutdown completed
+15:14 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:14 [Info] PluginManager was compiled successfully in 1499ms
+15:14 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:14 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:15 [Error] Error while compiling PluginManager: Argument 1: cannot convert from 'Oxide.Game.Rust.Cui.CuiElement' to 'Oxide.Game.Rust.Cui.CuiButton' | Line: 142, Pos: 27
+15:15 [Error] Error while compiling PluginManager: Argument 1: cannot convert from 'Oxide.Game.Rust.Cui.CuiElement' to 'Oxide.Game.Rust.Cui.CuiButton' | Line: 142, Pos: 27
+15:15 [Error] Error while compiling PluginManager: Argument 1: cannot convert from 'Oxide.Game.Rust.Cui.CuiElement' to 'Oxide.Game.Rust.Cui.CuiButton' | Line: 142, Pos: 27
+15:15 [Info] PluginManager was compiled successfully in 835ms
+15:15 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:15 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:16 [Info] PluginManager was compiled successfully in 501ms
+15:16 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:16 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:16 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:16 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:17 [Info] Shutting down compiler because idle shutdown
+15:17 [Info] Compiler shutdown completed
+15:26 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:26 [Info] PluginManager was compiled successfully in 1486ms
+15:26 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:26 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:26 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:26 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:27 [Info] Shutting down compiler because idle shutdown
+15:27 [Info] Compiler shutdown completed
+15:33 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:33 [Info] PluginManager was compiled successfully in 1415ms
+15:33 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:33 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:33 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+15:33 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:33 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+15:33 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:33 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+15:33 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:33 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+15:33 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:33 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+15:33 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:33 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:33 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:34 [Info] Shutting down compiler because idle shutdown
+15:34 [Info] Compiler shutdown completed
+15:38 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:38 [Info] PluginManager was compiled successfully in 1438ms
+15:38 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:38 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:39 [Info] Shutting down compiler because idle shutdown
+15:39 [Info] Compiler shutdown completed
+15:39 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:39 [Info] PluginManager was compiled successfully in 1428ms
+15:39 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:39 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:40 [Info] PluginManager was compiled successfully in 1105ms
+15:40 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:40 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:40 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:40 [Info] PluginManager was compiled successfully in 635ms
+15:40 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:40 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:41 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:41 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+15:41 [Info] PluginManager was compiled successfully in 824ms
+15:41 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:41 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:41 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:42 [Info] PluginManager was compiled successfully in 1072ms
+15:42 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:42 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:42 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+15:42 [Info] PluginManager was compiled successfully in 1064ms
+15:42 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:42 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:42 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:43 [Info] Shutting down compiler because idle shutdown
+15:43 [Info] Compiler shutdown completed
+15:46 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:46 [Info] PluginManager was compiled successfully in 1438ms
+15:46 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:46 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:47 [Info] Shutting down compiler because idle shutdown
+15:47 [Info] Compiler shutdown completed
+15:49 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:49 [Info] PluginManager was compiled successfully in 1502ms
+15:49 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:49 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:50 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:50 [Info] PluginManager was compiled successfully in 287ms
+15:50 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:50 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:50 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:51 [Info] Shutting down compiler because idle shutdown
+15:51 [Info] Compiler shutdown completed
+15:51 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:51 [Info] PluginManager was compiled successfully in 1492ms
+15:51 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:51 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:52 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:52 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:52 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:52 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:52 [Info] Shutting down compiler because idle shutdown
+15:52 [Info] Compiler shutdown completed
+15:57 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:57 [Info] PluginManager was compiled successfully in 1416ms
+15:57 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:57 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:58 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+15:58 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+15:58 [Info] Unloaded plugin CultistTrader v2.5.0 by QuakeShot
+15:58 [Info] Loaded plugin CultistTrader v2.5.0 by QuakeShot
+15:58 [Info] Shutting down compiler because idle shutdown
+15:58 [Info] Compiler shutdown completed
+15:59 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:59 [Info] PluginManager was compiled successfully in 1367ms
+15:59 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:59 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+15:59 [Info] PluginManager was compiled successfully in 182ms
+15:59 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+15:59 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:00 [Info] PluginManager was compiled successfully in 701ms
+16:00 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:00 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:00 [Info] PluginManager was compiled successfully in 846ms
+16:00 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:00 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:00 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+16:00 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+16:00 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+16:00 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+16:01 [Info] Shutting down compiler because idle shutdown
+16:01 [Info] Compiler shutdown completed
+16:09 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:09 [Error] Error while compiling PluginManager: ; expected | Line: 241, Pos: 27
+16:10 [Info] Shutting down compiler because idle shutdown
+16:10 [Info] Compiler shutdown completed
+16:13 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:13 [Info] PluginManager was compiled successfully in 1418ms
+16:13 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:13 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:14 [Info] PluginManager was compiled successfully in 938ms
+16:14 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:14 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:15 [Info] Shutting down compiler because idle shutdown
+16:15 [Info] Compiler shutdown completed
+16:57 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:57 [Error] Error while compiling PluginManager: No overload for method 'AddSideButton' takes 7 arguments | Line: 53, Pos: 13
+16:57 [Error] Error while compiling PluginManager: No overload for method 'AddSideButton' takes 7 arguments | Line: 53, Pos: 13
+16:58 [Info] Shutting down compiler because idle shutdown
+16:58 [Info] Compiler shutdown completed
+16:58 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:58 [Info] PluginManager was compiled successfully in 1439ms
+16:58 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+16:58 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+16:59 [Info] Shutting down compiler because idle shutdown
+16:59 [Info] Compiler shutdown completed
+17:07 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:07 [Error] Error while compiling PluginManager: Cannot convert lambda expression to type 'string' because it is not a delegate type | Line: 242, Pos: 27
+17:08 [Info] Shutting down compiler because idle shutdown
+17:08 [Info] Compiler shutdown completed
+17:08 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:08 [Info] PluginManager was compiled successfully in 1436ms
+17:08 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:08 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:09 [Error] Error while compiling PluginManager: Cannot implicitly convert type 'string' to 'int' | Line: 236, Pos: 31
+17:09 [Error] Error while compiling PluginManager: Cannot convert lambda expression to type 'string' because it is not a delegate type | Line: 242, Pos: 27
+17:09 [Info] PluginManager was compiled successfully in 924ms
+17:09 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:09 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:10 [Info] PluginManager was compiled successfully in 607ms
+17:10 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:10 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:10 [Info] PluginManager was compiled successfully in 818ms
+17:10 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:10 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:11 [Info] Shutting down compiler because idle shutdown
+17:11 [Info] Compiler shutdown completed
+17:12 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:12 [Info] PluginManager was compiled successfully in 1438ms
+17:12 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:12 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:12 [Info] PluginManager was compiled successfully in 869ms
+17:12 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:12 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:13 [Info] Shutting down compiler because idle shutdown
+17:13 [Info] Compiler shutdown completed
+17:14 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:14 [Info] PluginManager was compiled successfully in 1438ms
+17:14 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:14 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:14 [Info] PluginManager was compiled successfully in 754ms
+17:14 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:14 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:15 [Info] Shutting down compiler because idle shutdown
+17:15 [Info] Compiler shutdown completed
+17:17 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+17:17 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+17:17 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+17:17 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+17:23 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:23 [Info] PluginManager was compiled successfully in 1502ms
+17:23 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:23 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:23 [Info] PluginManager was compiled successfully in 1051ms
+17:23 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:23 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:24 [Info] Shutting down compiler because idle shutdown
+17:24 [Info] Compiler shutdown completed
+17:42 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:42 [Info] PluginManager was compiled successfully in 1461ms
+17:42 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:42 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:42 [Info] PluginManager was compiled successfully in 936ms
+17:42 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:42 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:43 [Info] Shutting down compiler because idle shutdown
+17:43 [Info] Compiler shutdown completed
+17:49 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:49 [Info] PluginManager was compiled successfully in 1443ms
+17:49 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:49 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:49 [Info] PluginManager was compiled successfully in 1113ms
+17:49 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:49 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:50 [Info] Shutting down compiler because idle shutdown
+17:50 [Info] Compiler shutdown completed
+17:52 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:52 [Info] PluginManager was compiled successfully in 1486ms
+17:52 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:52 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:53 [Info] Shutting down compiler because idle shutdown
+17:53 [Info] Compiler shutdown completed
+17:57 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:58 [Info] PluginManager was compiled successfully in 1453ms
+17:58 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+17:58 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+17:58 [Error] Error while compiling PluginManager: 'ConsoleSystem.Arg' does not contain a definition for 'Cmd' and no accessible extension method 'Cmd' accepting a first argument of type 'ConsoleSystem.Arg' could be found (are you missing a using directive or an assembly reference?) | Line: 197, Pos: 39
+17:59 [Info] Shutting down compiler because idle shutdown
+17:59 [Info] Compiler shutdown completed
+18:04 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:04 [Error] Error while compiling PluginManager: 'CuiHelper' does not contain a definition for 'GetElement' | Line: 197, Pos: 48
+18:05 [Info] Shutting down compiler because idle shutdown
+18:05 [Info] Compiler shutdown completed
+18:49 [Error] Plugin filename WelcomeMessage — копия.cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:49 [Error] Plugin filename WelcomeMessage — копия (2).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (2)
+18:49 [Error] Plugin filename WelcomeMessage — копия (4).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (4)
+18:49 [Error] Plugin filename WelcomeMessage — копия (3).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (3)
+18:49 [Error] Plugin filename WelcomeMessage — копия (8).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (8)
+18:49 [Error] Plugin filename WelcomeMessage — копия (7).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (7)
+18:49 [Error] Plugin filename WelcomeMessage — копия (6).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (6)
+18:49 [Error] Plugin filename WelcomeMessage — копия (5).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (5)
+18:49 [Error] Plugin filename WelcomeMessage — копия (9).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (9)
+18:49 [Info]  was compiled successfully in 1354ms
+18:49 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия
+18:49 [Error] Error while compiling WelcomeMessage — копия: Plugin filename WelcomeMessage — копия.cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Info]  was compiled successfully in 1373ms
+18:49 [Error] Error while compiling WelcomeMessage — копия (2): Plugin filename WelcomeMessage — копия (2).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Info]  was compiled successfully in 1523ms
+18:49 [Error] Error while compiling WelcomeMessage — копия (3): Plugin filename WelcomeMessage — копия (3).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Error] Error while compiling WelcomeMessage — копия (4): Plugin filename WelcomeMessage — копия (4).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Info]  was compiled successfully in 1572ms
+18:49 [Error] Error while compiling WelcomeMessage — копия (5): Plugin filename WelcomeMessage — копия (5).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Error] Error while compiling WelcomeMessage — копия (6): Plugin filename WelcomeMessage — копия (6).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Error] Error while compiling WelcomeMessage — копия (7): Plugin filename WelcomeMessage — копия (7).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Error] Error while compiling WelcomeMessage — копия (8): Plugin filename WelcomeMessage — копия (8).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:49 [Info]  was compiled successfully in 920ms
+18:49 [Error] Error while compiling WelcomeMessage — копия (9): Plugin filename WelcomeMessage — копия (9).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (2).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (2)
+18:50 [Info]  was compiled successfully in 900ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (2): Plugin filename WelcomeMessage — копия (2).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (3).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (3)
+18:50 [Info]  was compiled successfully in 955ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (3): Plugin filename WelcomeMessage — копия (3).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (4).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (4)
+18:50 [Info]  was compiled successfully in 266ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (4): Plugin filename WelcomeMessage — копия (4).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (5).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (5)
+18:50 [Info]  was compiled successfully in 375ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (5): Plugin filename WelcomeMessage — копия (5).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (6).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (6)
+18:50 [Info]  was compiled successfully in 455ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (6): Plugin filename WelcomeMessage — копия (6).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (7).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (7)
+18:50 [Info]  was compiled successfully in 494ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (7): Plugin filename WelcomeMessage — копия (7).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (8).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (8)
+18:50 [Info]  was compiled successfully in 848ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (8): Plugin filename WelcomeMessage — копия (8).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (8).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (8)
+18:50 [Info]  was compiled successfully in 367ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (8): Plugin filename WelcomeMessage — копия (8).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (9).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (9)
+18:50 [Info]  was compiled successfully in 436ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (9): Plugin filename WelcomeMessage — копия (9).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (9).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (9)
+18:50 [Info]  was compiled successfully in 996ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (9): Plugin filename WelcomeMessage — копия (9).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (8).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (8)
+18:50 [Info]  was compiled successfully in 303ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (8): Plugin filename WelcomeMessage — копия (8).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Error] Plugin filename WelcomeMessage — копия (7).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:50 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (7)
+18:50 [Info]  was compiled successfully in 369ms
+18:50 [Error] Error while compiling WelcomeMessage — копия (7): Plugin filename WelcomeMessage — копия (7).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Error] Plugin filename WelcomeMessage — копия (6).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (6)
+18:51 [Info]  was compiled successfully in 709ms
+18:51 [Error] Error while compiling WelcomeMessage — копия (6): Plugin filename WelcomeMessage — копия (6).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Error] Plugin filename WelcomeMessage — копия (5).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (5)
+18:51 [Info]  was compiled successfully in 133ms
+18:51 [Error] Error while compiling WelcomeMessage — копия (5): Plugin filename WelcomeMessage — копия (5).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Error] Plugin filename WelcomeMessage — копия (4).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (4)
+18:51 [Info]  was compiled successfully in 551ms
+18:51 [Error] Error while compiling WelcomeMessage — копия (4): Plugin filename WelcomeMessage — копия (4).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Error] Plugin filename WelcomeMessage — копия (3).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (3)
+18:51 [Info]  was compiled successfully in 80ms
+18:51 [Error] Error while compiling WelcomeMessage — копия (3): Plugin filename WelcomeMessage — копия (3).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Error] Plugin filename WelcomeMessage — копия (2).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия (2)
+18:51 [Info]  was compiled successfully in 133ms
+18:51 [Error] Error while compiling WelcomeMessage — копия (2): Plugin filename WelcomeMessage — копия (2).cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:51 [Error] Error while compiling WelcomeMessage — копия (3): 
+18:52 [Error] Plugin filename WelcomeMessage — копия.cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:52 [Warning] Ignored unexpected plugin compilation failure: WelcomeMessage — копия
+18:52 [Info]  was compiled successfully in 80ms
+18:52 [Error] Error while compiling WelcomeMessage — копия: Plugin filename WelcomeMessage — копия.cs must match the main class WelcomeMessage (should be WelcomeMessage.cs)
+18:53 [Info] Shutting down compiler because idle shutdown
+18:53 [Info] Compiler shutdown completed
+18:54 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:54 [Info] PluginManager was compiled successfully in 1389ms
+18:54 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+18:54 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+18:55 [Info] Shutting down compiler because idle shutdown
+18:55 [Info] Compiler shutdown completed
+18:55 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:56 [Info] PluginManager was compiled successfully in 1402ms
+18:56 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+18:56 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+18:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+18:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+18:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+18:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+18:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+18:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+18:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+18:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+18:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+18:56 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+18:56 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+18:56 [Info] PluginManager was compiled successfully in 301ms
+18:56 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+18:56 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+18:57 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+18:57 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+18:57 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+18:57 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+18:57 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+18:57 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+18:57 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+18:57 [Info] Shutting down compiler because idle shutdown
+18:57 [Info] Compiler shutdown completed
+18:57 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:58 [Error] Error while compiling PluginManager: The name 'starID' does not exist in the current context | Line: 232, Pos: 26
+18:58 [Error] Error while compiling PluginManager: The name 'starID' does not exist in the current context | Line: 232, Pos: 26
+18:58 [Error] Error while compiling PluginManager: The name 'starID' does not exist in the current context | Line: 232, Pos: 26
+18:59 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.19, 56.43, -20.82)). Пробуем другую точку...
+18:59 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.22, 56.57, -18.97)). Пробуем другую точку...
+18:59 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.46, 56.21, -17.67)). Пробуем другую точку...
+18:59 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((-0.10, 56.21, -17.06)). Пробуем другую точку...
+18:59 [Warning] [CultistTrader] ⚠ Попытка спавна в текстурах ((0.61, 56.21, -16.68)). Пробуем другую точку...
+18:59 [Warning] [CultistTrader] Spawning Cultist near Launch Site (Координаты: (0.61, 56.21, -15.68))
+18:59 [Info] PluginManager was compiled successfully in 674ms
+18:59 [Info] Unloaded plugin PluginManager v2.2.3 by Quake
+18:59 [Info] Loaded plugin PluginManager v2.2.3 by Quake
+19:00 [Info] Shutting down compiler because idle shutdown
+19:00 [Info] Compiler shutdown completed
+19:11 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+19:11 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+19:11 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+19:11 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake
+19:11 [Info] Unloaded plugin WelcomeMessage v1.0.0 by Quake
+19:11 [Info] Loaded plugin WelcomeMessage v1.0.0 by Quake

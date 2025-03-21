@@ -1,0 +1,1027 @@
+15:46 [Info] Loading Oxide Core v2.0.4121...
+15:46 [Info] Loading extensions...
+15:46 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+15:46 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+15:46 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+15:46 [Info] Unity version: 2022.3.41f1
+15:46 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+15:46 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+15:46 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+15:46 [Info] [CSharp] Oxide.Compiler.exe is up to date
+15:46 [Info] Using Covalence provider for game 'Rust'
+15:46 [Info] Loading plugins...
+15:46 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+15:46 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+15:46 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:46 [Info] NpcSpawn and WelcomeMessage were compiled successfully in 0ms
+15:46 [Error] Error while compiling CultistTrader: The name 'SendChatMessage' does not exist in the current context | Line: 79, Pos: 17
+15:46 [Info] [NpcSpawn] Creating a default config...
+15:46 [Info] [NpcSpawn] Creation of the default config completed!
+15:46 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+15:46 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+15:47 [Info] Shutting down compiler because idle shutdown
+15:47 [Info] Compiler shutdown completed
+15:51 [Info] IP address from external API: 185.9.187.153
+15:51 [Info] [NpcSpawn] Loading custom navigation mesh files...
+15:51 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+15:51 [Info] [NpcSpawn] List of biome positions: Arid = 1383, Temperate = 1717, Tundra = 674, Arctic = 705
+15:51 [Info] [NpcSpawn] List of road positions: ExtraWide = 1333, Standard = 1890, ExtraNarrow = 1522
+15:51 [Info] [NpcSpawn] 2595 railway positions found
+15:51 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 128ms
+16:03 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:03 [Error] Error while compiling CultistTrader: The name 'DespawnCultist' does not exist in the current context | Line: 89, Pos: 34
+16:04 [Info] CultistTrader was compiled successfully in 783ms
+16:04 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:04 [Info] CultistTrader was compiled successfully in 957ms
+16:04 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+16:04 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:05 [Error] [CultistTrader] ❌ Префаб не найден: assets/prefabs/npc/scientist/scientist.prefab
+16:05 [Info] Shutting down compiler because idle shutdown
+16:05 [Info] Compiler shutdown completed
+16:10 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:10 [Error] Error while compiling CultistTrader: The type or namespace name 'JObject' could not be found (are you missing a using directive or an assembly reference?) | Line: 73, Pos: 34
+16:11 [Info] CultistTrader was compiled successfully in 493ms
+16:11 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+16:11 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:11 [Error] Failed to call hook 'SpawnNpc' on plugin 'NpcSpawn v2.8.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.NpcSpawn+CustomScientistNpc.UpdateInventory () [0x0000b] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at Oxide.Plugins.NpcSpawn+CustomScientistNpc.ServerInit () [0x00164] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at BaseNetworkable.Spawn () [0x0004f] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseEntity.Spawn () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.NpcSpawn.CreateCustomNpc (UnityEngine.Vector3 position, Oxide.Plugins.NpcSpawn+NpcConfig config) [0x0007b] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at Oxide.Plugins.NpcSpawn.SpawnNpc (UnityEngine.Vector3 position, Newtonsoft.Json.Linq.JObject configJson) [0x00008] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at Oxide.Plugins.NpcSpawn.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000b0] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+16:11 [Error] [CultistTrader] ❌ Ошибка при спавне НПС через NpcSpawn!
+16:12 [Info] Shutting down compiler because idle shutdown
+16:12 [Info] Compiler shutdown completed
+16:16 [Error] Failed to call hook 'SpawnNpc' on plugin 'NpcSpawn v2.8.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.NpcSpawn+CustomScientistNpc.UpdateInventory () [0x0000b] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at Oxide.Plugins.NpcSpawn+CustomScientistNpc.ServerInit () [0x00164] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at BaseNetworkable.Spawn () [0x0004f] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseEntity.Spawn () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.NpcSpawn.CreateCustomNpc (UnityEngine.Vector3 position, Oxide.Plugins.NpcSpawn+NpcConfig config) [0x0007b] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at Oxide.Plugins.NpcSpawn.SpawnNpc (UnityEngine.Vector3 position, Newtonsoft.Json.Linq.JObject configJson) [0x00008] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at Oxide.Plugins.NpcSpawn.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000b0] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+16:16 [Error] [CultistTrader] ❌ Ошибка при спавне НПС через NpcSpawn!
+16:25 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:25 [Info] CultistTrader was compiled successfully in 1484ms
+16:25 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+16:25 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:25 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.0' (InvalidCastException: Specified cast is not valid.)
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x00208] in <cfdba4d3a1ef44b9a801ae94bbad4a6c>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x0001a] in <cfdba4d3a1ef44b9a801ae94bbad4a6c>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000d7] in <cfdba4d3a1ef44b9a801ae94bbad4a6c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+16:26 [Info] Shutting down compiler because idle shutdown
+16:26 [Info] Compiler shutdown completed
+16:26 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:26 [Info] CultistTrader was compiled successfully in 1419ms
+16:26 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+16:26 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:26 [Error] [CultistTrader] ❌ Ошибка: SpawnNpc вернул объект типа CustomScientistNpc, но он не является BaseNpc!
+16:27 [Info] Shutting down compiler because idle shutdown
+16:27 [Info] Compiler shutdown completed
+16:30 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:30 [Error] Error while compiling CultistTrader: Cannot implicitly convert type 'ScientistNPC' to 'BaseNpc' | Line: 126, Pos: 26
+16:31 [Info] Shutting down compiler because idle shutdown
+16:31 [Info] Compiler shutdown completed
+16:31 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:31 [Error] Error while compiling CultistTrader: The type 'CultistTrader' already contains a definition for 'cultistNPC' | Line: 70, Pos: 30
+16:32 [Info] Shutting down compiler because idle shutdown
+16:32 [Info] Compiler shutdown completed
+16:34 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:34 [Info] CultistTrader was compiled successfully in 1373ms
+16:34 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+16:34 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:34 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.0' (ArgumentException: An item with the same key has already been added. Key: Тёмный Культист[3655953])
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at Spatial.Grid`1[T].Add (T obj, System.Single x, System.Single y) [0x00011] in <dda39659b36e4ed1892ca15ace0b860c>:0 
+  at BaseEntity+Query+EntityTree.Add (BaseEntity ent) [0x0000c] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseEntity.ServerInit () [0x000b8] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseCombatEntity.ServerInit () [0x00037] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BasePlayer.ServerInit () [0x00075] in <15cb0c957ece47e082002c38554ba768>:0 
+  at NPCPlayer.ServerInit () [0x0002a] in <15cb0c957ece47e082002c38554ba768>:0 
+  at HumanNPC.ServerInit () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at ScientistNPC.ServerInit () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.NpcSpawn+CustomScientistNpc.ServerInit () [0x00000] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at BaseNetworkable.Spawn () [0x0004f] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseEntity.Spawn () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x00268] in <4e68777e5e6c44f8909610e50ef75faf>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x0001a] in <4e68777e5e6c44f8909610e50ef75faf>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000d7] in <4e68777e5e6c44f8909610e50ef75faf>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+16:35 [Info] Shutting down compiler because idle shutdown
+16:35 [Info] Compiler shutdown completed
+16:38 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:38 [Error] Error while compiling CultistTrader: Cannot implicitly convert type 'NPCPlayer' to 'ScientistNPC'. An explicit conversion exists (are you missing a cast?) | Line: 120, Pos: 26
+16:39 [Info] Shutting down compiler because idle shutdown
+16:39 [Info] Compiler shutdown completed
+16:42 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:42 [Error] Error while compiling CultistTrader: Cannot implicitly convert type 'BaseCombatEntity' to 'ScientistNPC'. An explicit conversion exists (are you missing a cast?) | Line: 120, Pos: 26
+16:43 [Info] CultistTrader was compiled successfully in 458ms
+16:43 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+16:43 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:43 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.0' (ArgumentException: An item with the same key has already been added. Key: Тёмный Культист[5518001])
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at Spatial.Grid`1[T].Add (T obj, System.Single x, System.Single y) [0x00011] in <dda39659b36e4ed1892ca15ace0b860c>:0 
+  at BaseEntity+Query+EntityTree.Add (BaseEntity ent) [0x0000c] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseEntity.ServerInit () [0x000b8] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseCombatEntity.ServerInit () [0x00037] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BasePlayer.ServerInit () [0x00075] in <15cb0c957ece47e082002c38554ba768>:0 
+  at NPCPlayer.ServerInit () [0x0002a] in <15cb0c957ece47e082002c38554ba768>:0 
+  at HumanNPC.ServerInit () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at ScientistNPC.ServerInit () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.NpcSpawn+CustomScientistNpc.ServerInit () [0x00000] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at BaseNetworkable.Spawn () [0x0004f] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseEntity.Spawn () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x00276] in <47a3e5a134e8420796d6c58f10c37dc6>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x0001a] in <47a3e5a134e8420796d6c58f10c37dc6>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000d7] in <47a3e5a134e8420796d6c58f10c37dc6>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+16:44 [Info] Shutting down compiler because idle shutdown
+16:44 [Info] Compiler shutdown completed
+16:45 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:45 [Error] Error while compiling CultistTrader: Cannot implicitly convert type 'BasePlayer' to 'ScientistNPC'. An explicit conversion exists (are you missing a cast?) | Line: 128, Pos: 26
+16:45 [Info] CultistTrader was compiled successfully in 1005ms
+16:45 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+16:45 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:45 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.0' (ArgumentException: An item with the same key has already been added. Key: Тёмный Культист[752080])
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at Spatial.Grid`1[T].Add (T obj, System.Single x, System.Single y) [0x00011] in <dda39659b36e4ed1892ca15ace0b860c>:0 
+  at BaseEntity+Query+EntityTree.Add (BaseEntity ent) [0x0000c] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseEntity.ServerInit () [0x000b8] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseCombatEntity.ServerInit () [0x00037] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BasePlayer.ServerInit () [0x00075] in <15cb0c957ece47e082002c38554ba768>:0 
+  at NPCPlayer.ServerInit () [0x0002a] in <15cb0c957ece47e082002c38554ba768>:0 
+  at HumanNPC.ServerInit () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at ScientistNPC.ServerInit () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.NpcSpawn+CustomScientistNpc.ServerInit () [0x00000] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at BaseNetworkable.Spawn () [0x0004f] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseEntity.Spawn () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x0027c] in <fad5e317c20c4c81b8f3f39532104f86>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x0001a] in <fad5e317c20c4c81b8f3f39532104f86>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000d7] in <fad5e317c20c4c81b8f3f39532104f86>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+16:46 [Info] Shutting down compiler because idle shutdown
+16:46 [Info] Compiler shutdown completed
+16:49 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:49 [Error] Error while compiling CultistTrader: The type or namespace name 'CustomScientistNpc' could not be found (are you missing a using directive or an assembly reference?) | Line: 69, Pos: 17
+16:49 [Error] Error while compiling CultistTrader: The type or namespace name 'CustomScientistNpc' could not be found (are you missing a using directive or an assembly reference?) | Line: 119, Pos: 39
+16:50 [Error] Error while compiling CultistTrader: The type or namespace name 'CustomScientistNpc' could not be found (are you missing a using directive or an assembly reference?) | Line: 77, Pos: 17
+16:50 [Error] Error while compiling CultistTrader: The type or namespace name 'CustomScientistNpc' could not be found (are you missing a using directive or an assembly reference?) | Line: 69, Pos: 17
+16:51 [Info] Shutting down compiler because idle shutdown
+16:51 [Info] Compiler shutdown completed
+16:52 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:52 [Error] Error while compiling CultistTrader: The type or namespace name 'CustomScientistNpc' could not be found (are you missing a using directive or an assembly reference?) | Line: 69, Pos: 17
+16:53 [Info] Shutting down compiler because idle shutdown
+16:53 [Info] Compiler shutdown completed
+17:04 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:04 [Error] Error while compiling CultistTrader: The type or namespace name 'CustomScientistNpc' could not be found (are you missing a using directive or an assembly reference?) | Line: 69, Pos: 17
+17:05 [Info] Shutting down compiler because idle shutdown
+17:05 [Info] Compiler shutdown completed
+17:05 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:05 [Error] Error while compiling CultistTrader: The type or namespace name 'Plugin' could not be found (are you missing a using directive or an assembly reference?) | Line: 70, Pos: 35
+17:06 [Info] Shutting down compiler because idle shutdown
+17:06 [Info] Compiler shutdown completed
+17:13 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:13 [Error] Error while compiling CultistTrader: The type or namespace name 'Plugin' could not be found (are you missing a using directive or an assembly reference?) | Line: 70, Pos: 35
+17:14 [Error] Error while compiling CultistTrader: The type 'CultistTrader' already contains a definition for 'cultistNPC' | Line: 73, Pos: 30
+17:15 [Info] Shutting down compiler because idle shutdown
+17:15 [Info] Compiler shutdown completed
+17:18 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:18 [Info] CultistTrader was compiled successfully in 1425ms
+17:18 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:18 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:18 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.0' (ArgumentException: An item with the same key has already been added. Key: Тёмный Культист[8606447])
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x0015a] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at Spatial.Grid`1[T].Add (T obj, System.Single x, System.Single y) [0x00011] in <dda39659b36e4ed1892ca15ace0b860c>:0 
+  at BaseEntity+Query+EntityTree.Add (BaseEntity ent) [0x0000c] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseEntity.ServerInit () [0x000b8] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseCombatEntity.ServerInit () [0x00037] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BasePlayer.ServerInit () [0x00075] in <15cb0c957ece47e082002c38554ba768>:0 
+  at NPCPlayer.ServerInit () [0x0002a] in <15cb0c957ece47e082002c38554ba768>:0 
+  at HumanNPC.ServerInit () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at ScientistNPC.ServerInit () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.NpcSpawn+CustomScientistNpc.ServerInit () [0x00000] in <ae1157e923a2455c89e20fb027bb9ddf>:0 
+  at BaseNetworkable.Spawn () [0x0004f] in <15cb0c957ece47e082002c38554ba768>:0 
+  at BaseEntity.Spawn () [0x00000] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x002a0] in <7977cb13e4404975b1468baa168d3675>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x0001a] in <7977cb13e4404975b1468baa168d3675>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000b1] in <7977cb13e4404975b1468baa168d3675>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+17:19 [Info] Shutting down compiler because idle shutdown
+17:19 [Info] Compiler shutdown completed
+17:23 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:23 [Info] CultistTrader was compiled successfully in 1371ms
+17:23 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:23 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:24 [Info] Shutting down compiler because idle shutdown
+17:24 [Info] Compiler shutdown completed
+17:32 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:32 [Info] CultistTrader was compiled successfully in 1496ms
+17:32 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:32 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:32 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+17:32 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+17:32 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+17:32 [Warning] [CultistTrader] ✔️ NPC успешно создан!
+17:32 [Warning] [CultistTrader] ❗ Удаляю старого Культиста перед созданием нового.
+17:32 [Warning] [CultistTrader] 📍 Спавним Культиста в Спутниковой станции (Координаты: (1200.00, 50.00, -600.00))
+17:32 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+17:32 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+17:32 [Warning] [CultistTrader] ✔️ NPC успешно создан!
+17:33 [Info] Shutting down compiler because idle shutdown
+17:33 [Info] Compiler shutdown completed
+17:35 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:35 [Info] CultistTrader was compiled successfully in 1374ms
+17:35 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:35 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:35 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+17:35 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+17:35 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+17:35 [Warning] [CultistTrader] ✔️ NPC успешно создан!
+17:36 [Info] Shutting down compiler because idle shutdown
+17:36 [Info] Compiler shutdown completed
+17:36 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:37 [Error] Error while compiling CultistTrader: The type or namespace name 'CustomScientistNpc' could not be found (are you missing a using directive or an assembly reference?) | Line: 17, Pos: 17
+17:37 [Error] Error while compiling CultistTrader: The type or namespace name 'CustomScientistNpc' could not be found (are you missing a using directive or an assembly reference?) | Line: 113, Pos: 39
+17:37 [Error] Error while compiling CultistTrader: The type or namespace name 'CustomScientistNpc' could not be found (are you missing a using directive or an assembly reference?) | Line: 17, Pos: 17
+17:38 [Info] Shutting down compiler because idle shutdown
+17:38 [Info] Compiler shutdown completed
+17:38 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:38 [Info] CultistTrader was compiled successfully in 1374ms
+17:38 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:38 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:38 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+17:38 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+17:38 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+17:38 [Warning] [CultistTrader] ✔️ NPC успешно создан!
+17:39 [Info] Shutting down compiler because idle shutdown
+17:39 [Info] Compiler shutdown completed
+17:40 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:41 [Info] CultistTrader was compiled successfully in 1395ms
+17:41 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:41 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:41 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+17:41 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+17:41 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+17:41 [Warning] [CultistTrader] ✔️ NPC успешно приведён к BaseEntity!
+17:41 [Warning] [CultistTrader] ✔️ NPC создан и проинициализирован!
+17:42 [Info] Shutting down compiler because idle shutdown
+17:42 [Info] Compiler shutdown completed
+17:46 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:46 [Info] CultistTrader was compiled successfully in 1384ms
+17:46 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:46 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:46 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+17:46 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+17:46 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+17:46 [Warning] [CultistTrader] ✔️ NPC создан и проинициализирован!
+17:47 [Info] Shutting down compiler because idle shutdown
+17:47 [Info] Compiler shutdown completed
+17:47 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:48 [Info] CultistTrader was compiled successfully in 1395ms
+17:48 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:48 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:48 [Warning] [CultistTrader] 📍 Спавним Культиста в Спутниковой станции (Координаты: (1200.00, 50.00, -600.00))
+17:48 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+17:48 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+17:48 [Warning] [CultistTrader] ✔️ NPC создан, проверяем его состояние...
+17:48 [Warning] [CultistTrader] ✔️ NPC физически существует, продолжаем...
+17:49 [Info] Shutting down compiler because idle shutdown
+17:49 [Info] Compiler shutdown completed
+17:49 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:49 [Info] CultistTrader was compiled successfully in 1416ms
+17:49 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:49 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:49 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+17:49 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+17:49 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+17:49 [Warning] [CultistTrader] ✔️ NPC создан, проверяем его состояние...
+17:49 [Warning] [CultistTrader] ✔️ NPC физически существует, продолжаем...
+17:49 [Info] CultistTrader was compiled successfully in 135ms
+17:49 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:49 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:50 [Info] CultistTrader was compiled successfully in 134ms
+17:50 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+17:50 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+17:50 [Warning] [CultistTrader] 📍 Спавним Культиста в Спутниковой станции (Координаты: (1200.00, 50.00, -600.00))
+17:50 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+17:50 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+17:50 [Warning] [CultistTrader] ✔️ NPC создан, проверяем его состояние...
+17:50 [Warning] [CultistTrader] ✔️ NPC HP: 250
+17:50 [Warning] [CultistTrader] ✔️ NPC физически существует, продолжаем...
+17:58 [Info] Shutting down compiler because idle shutdown
+17:58 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:58 [Info] Compiler shutdown completed
+17:58 [Error] Error while compiling NpcSpawn: Cannot return a value from an iterator. Use the yield return statement to return a value, or yield break to end the iteration. | Line: 149, Pos: 13
+17:59 [Info] Shutting down compiler because idle shutdown
+17:59 [Info] Compiler shutdown completed
+17:59 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+17:59 [Info] NpcSpawn was compiled successfully in 1431ms
+17:59 [Info] Unloaded plugin NpcSpawn v2.8.0 by rustmods.ru
+17:59 [Info] [NpcSpawn] Loading custom navigation mesh files...
+17:59 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+17:59 [Info] [NpcSpawn] List of biome positions: Arid = 1399, Temperate = 1713, Tundra = 652, Arctic = 653
+17:59 [Info] [NpcSpawn] List of road positions: ExtraWide = 1333, Standard = 1890, ExtraNarrow = 1522
+17:59 [Info] [NpcSpawn] 2595 railway positions found
+17:59 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 669ms
+17:59 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+18:00 [Info] Shutting down compiler because idle shutdown
+18:00 [Warning] [CultistTrader] 📍 Спавним Культиста в Спутниковой станции (Координаты: (1200.00, 50.00, -600.00))
+18:00 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+18:00 [Error] Failed to call hook 'SpawnNpc' on plugin 'NpcSpawn v2.8.0' (NullReferenceException: Object reference not set to an instance of an object.)
+  at Oxide.Plugins.NpcSpawn.SpawnNpc (UnityEngine.Vector3 position, Newtonsoft.Json.Linq.JObject configJson) [0x0002e] in <87fd7b73af4d416091326002295f5c36>:0 
+  at Oxide.Plugins.NpcSpawn.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000b0] in <87fd7b73af4d416091326002295f5c36>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+18:00 [Error] [CultistTrader] ❌ SpawnNpc вернул null! Проверьте настройки NpcSpawn.
+18:00 [Info] Compiler shutdown completed
+18:02 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:02 [Error] Error while compiling NpcSpawn: 'Prefab' is a type, which is not valid in the given context | Line: 130, Pos: 65
+18:02 [Info] NpcSpawn was compiled successfully in 711ms
+18:02 [Info] Unloaded plugin NpcSpawn v2.8.0 by rustmods.ru
+18:02 [Info] [NpcSpawn] Loading custom navigation mesh files...
+18:02 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+18:02 [Info] [NpcSpawn] List of biome positions: Arid = 1364, Temperate = 1758, Tundra = 626, Arctic = 703
+18:02 [Info] [NpcSpawn] List of road positions: ExtraWide = 1333, Standard = 1890, ExtraNarrow = 1522
+18:02 [Info] [NpcSpawn] 2595 railway positions found
+18:02 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 739ms
+18:02 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+18:03 [Info] Shutting down compiler because idle shutdown
+18:03 [Info] Compiler shutdown completed
+18:34 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:34 [Info] CultistTrader was compiled successfully in 1425ms
+18:34 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+18:34 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+18:34 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+18:34 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+18:34 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+18:34 [Warning] [CultistTrader] ✔️ NPC создан, проверяем его состояние...
+18:34 [Warning] [CultistTrader] ✔️ NPC HP: 250
+18:34 [Warning] [CultistTrader] ✔️ NPC физически существует, продолжаем...
+18:35 [Info] Shutting down compiler because idle shutdown
+18:35 [Info] Compiler shutdown completed
+18:36 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:36 [Error] Error while compiling CultistTrader: 'BaseEntity' does not contain a definition for 'GetParent' and no accessible extension method 'GetParent' accepting a first argument of type 'BaseEntity' could be found (are you missing a using directive or an assembly reference?) | Line: 154, Pos: 55
+18:37 [Info] Shutting down compiler because idle shutdown
+18:38 [Info] Compiler shutdown completed
+18:38 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:38 [Info] CultistTrader was compiled successfully in 1382ms
+18:38 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+18:38 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+18:38 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+18:38 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+18:38 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+18:38 [Warning] [CultistTrader] ✔️ NPC создан, проверяем его состояние...
+18:38 [Warning] [CultistTrader] ✔️ NPC HP: 250
+18:38 [Warning] [CultistTrader] ✔️ Проверяем компоненты NPC...
+18:38 [Warning] [CultistTrader] 📌 Network ID: 889156
+18:38 [Warning] [CultistTrader] 📌 Position: (500.00, 50.00, -200.00)
+18:38 [Warning] [CultistTrader] 📌 Parent Entity: None
+18:38 [Warning] [CultistTrader] ✔️ NPC физически существует, продолжаем...
+18:39 [Info] Shutting down compiler because idle shutdown
+18:39 [Info] Compiler shutdown completed
+18:40 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:40 [Error] Error while compiling CultistTrader: Type or namespace definition, or end-of-file expected | Line: 12, Pos: 5
+18:41 [Info] Shutting down compiler because idle shutdown
+18:41 [Info] Compiler shutdown completed
+18:41 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:41 [Info] CultistTrader was compiled successfully in 1413ms
+18:41 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+18:41 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+18:41 [Warning] [CultistTrader] 📍 Спавним Культиста в Спутниковой станции (Координаты: (1200.00, 50.00, -600.00))
+18:41 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+18:41 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+18:41 [Warning] [CultistTrader] ✔️ NPC создан, проверяем его состояние...
+18:41 [Warning] [CultistTrader] ✔️ NPC HP: 250
+18:41 [Warning] [CultistTrader] ✔️ NPC физически существует, продолжаем...
+18:41 [Warning] [CultistTrader] ✔️ Проверяем компоненты NPC...
+18:41 [Warning] [CultistTrader] 📌 Network ID: 891125
+18:41 [Warning] [CultistTrader] 📌 Position: (1200.00, 50.00, -600.00)
+18:41 [Warning] [CultistTrader] 📌 Parent Entity: None
+18:41 [Warning] [CultistTrader] ✔️ NPC физически существует, продолжаем...
+18:42 [Info] Shutting down compiler because idle shutdown
+18:42 [Info] Compiler shutdown completed
+18:42 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:42 [Info] CultistTrader was compiled successfully in 1395ms
+18:42 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+18:42 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+18:42 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+18:42 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+18:42 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+18:42 [Warning] [CultistTrader] ✔️ NPC создан, проверяем его состояние...
+18:42 [Warning] [CultistTrader] ✔️ NPC HP: 250
+18:42 [Warning] [CultistTrader] ✔️ NPC физически существует, продолжаем...
+18:42 [Warning] [CultistTrader] ✔️ Устанавливаем параметры NPC...
+18:42 [Warning] [CultistTrader] ✔️ Настройка NPC завершена!
+18:42 [Warning] [CultistTrader] ✔️ Проверяем компоненты NPC...
+18:42 [Warning] [CultistTrader] 📌 Network ID: 891737
+18:42 [Warning] [CultistTrader] 📌 Position: (-800.00, 50.00, 700.00)
+18:42 [Warning] [CultistTrader] 📌 Parent Entity: None
+18:42 [Warning] [CultistTrader] ✔️ NPC физически существует, продолжаем...
+18:43 [Info] Shutting down compiler because idle shutdown
+18:43 [Info] Compiler shutdown completed
+18:44 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:44 [Info] CultistTrader was compiled successfully in 1376ms
+18:44 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+18:44 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+18:44 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+18:44 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+18:44 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+18:44 [Warning] [CultistTrader] ✔️ NPC HP: 250
+18:44 [Warning] [CultistTrader] ✔️ NPC физически существует, продолжаем...
+18:45 [Info] Shutting down compiler because idle shutdown
+18:45 [Info] Compiler shutdown completed
+18:47 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:47 [Info] CultistTrader was compiled successfully in 1372ms
+18:47 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+18:47 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+18:47 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+18:47 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+18:47 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+18:48 [Info] Shutting down compiler because idle shutdown
+18:48 [Info] Compiler shutdown completed
+18:51 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+18:51 [Info] CultistTrader was compiled successfully in 1404ms
+18:51 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+18:51 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+18:51 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+18:51 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+18:51 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+18:52 [Info] Shutting down compiler because idle shutdown
+18:52 [Info] Compiler shutdown completed
+19:00 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+19:00 [Info] CultistTrader was compiled successfully in 1373ms
+19:00 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+19:00 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+19:00 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+19:00 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+19:00 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+19:01 [Info] Loading Oxide Core v2.0.4121...
+19:01 [Info] Loading extensions...
+19:01 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+19:01 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+19:01 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+19:01 [Info] Unity version: 2022.3.41f1
+19:01 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+19:01 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+19:01 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+19:01 [Info] [CSharp] Oxide.Compiler.exe is up to date
+19:01 [Info] Using Covalence provider for game 'Rust'
+19:01 [Info] Loading plugins...
+19:01 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+19:01 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+19:01 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+19:01 [Info] CultistTrader, NpcSpawn and WelcomeMessage were compiled successfully in 0ms
+19:01 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+19:01 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+19:01 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+19:02 [Info] Shutting down compiler because idle shutdown
+19:02 [Info] Compiler shutdown completed
+19:06 [Info] IP address from external API: 185.9.187.153
+19:06 [Info] [NpcSpawn] Loading custom navigation mesh files...
+19:06 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+19:06 [Info] [NpcSpawn] List of biome positions: Arid = 1385, Temperate = 1681, Tundra = 639, Arctic = 736
+19:06 [Info] [NpcSpawn] List of road positions: ExtraWide = 1333, Standard = 1890, ExtraNarrow = 1522
+19:06 [Info] [NpcSpawn] 2595 railway positions found
+19:06 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 134ms
+20:33 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+20:33 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+20:33 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+20:34 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:35 [Info] CultistTrader was compiled successfully in 1394ms
+20:35 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+20:35 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:35 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+20:35 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+20:35 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+20:35 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+20:35 [Warning] [CultistTrader] ✅ NpcSpawn загружен, запускаем спавн!
+20:35 [Warning] [CultistTrader] ❗ Удаляю старого Культиста перед созданием нового.
+20:35 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+20:35 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+20:35 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+20:36 [Info] Shutting down compiler because idle shutdown
+20:36 [Info] Compiler shutdown completed
+20:36 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:36 [Info] CultistTrader was compiled successfully in 1393ms
+20:36 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+20:36 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:36 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+20:36 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:37 [Info] CultistTrader was compiled successfully in 387ms
+20:37 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+20:37 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:37 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+20:37 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:37 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+20:37 [Warning] [CultistTrader] ⚡ Вызываем SpawnNpc...
+20:37 [Warning] [CultistTrader] ✔️ SpawnNpc вернул объект: CustomScientistNpc
+20:38 [Info] Shutting down compiler because idle shutdown
+20:38 [Info] Compiler shutdown completed
+20:47 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:47 [Error] Error while compiling CultistTrader: 'ScientistNPC' does not contain a definition for 'SetPlayerName' and no accessible extension method 'SetPlayerName' accepting a first argument of type 'ScientistNPC' could be found (are you missing a using directive or an assembly reference?) | Line: 108, Pos: 27
+20:47 [Error] Error while compiling CultistTrader: 'ScientistNPC' does not contain a definition for 'EnableNavAgent' and no accessible extension method 'EnableNavAgent' accepting a first argument of type 'ScientistNPC' could be found (are you missing a using directive or an assembly reference?) | Line: 109, Pos: 27
+20:48 [Error] Error while compiling CultistTrader: The type or namespace name 'NPCPlayerApex' could not be found (are you missing a using directive or an assembly reference?) | Line: 111, Pos: 17
+20:49 [Info] CultistTrader was compiled successfully in 716ms
+20:49 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+20:49 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:49 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+20:49 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:49 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+20:49 [Error] [CultistTrader] ❌ Ошибка: GameManager не смог создать NPC!
+20:50 [Info] CultistTrader was compiled successfully in 570ms
+20:50 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+20:50 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:50 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+20:50 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:50 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+20:50 [Error] [CultistTrader] ❌ Ошибка: GameManager не смог создать NPC!
+20:51 [Info] Shutting down compiler because idle shutdown
+20:51 [Info] Compiler shutdown completed
+20:51 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:51 [Info] CultistTrader was compiled successfully in 1373ms
+20:51 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+20:51 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:51 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+20:51 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:51 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+20:51 [Warning] [CultistTrader] ✔️ Обычный NPC создан, начинаем настраивать!
+20:51 [Warning] [CultistTrader] ✔️ Настроили здоровье NPC!
+20:51 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at BaseAIBrain.SetOwningPlayer (BasePlayer owner) [0x0000d] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x00156] in <7f6224b6f3794c8299933b470942eb41>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x0001a] in <7f6224b6f3794c8299933b470942eb41>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00097] in <7f6224b6f3794c8299933b470942eb41>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+20:52 [Info] CultistTrader was compiled successfully in 691ms
+20:52 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+20:52 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:52 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+20:52 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:52 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+20:52 [Warning] [CultistTrader] ✔️ Обычный NPC создан, начинаем настраивать!
+20:52 [Warning] [CultistTrader] ✔️ Настроили здоровье NPC!
+20:52 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at BaseAIBrain.SetOwningPlayer (BasePlayer owner) [0x0000d] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x00156] in <0a9281d4cc36438090ac88c9e5d78a40>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x0001a] in <0a9281d4cc36438090ac88c9e5d78a40>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00097] in <0a9281d4cc36438090ac88c9e5d78a40>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+20:52 [Warning] [CultistTrader] ❗ Удаляю старого Культиста перед созданием нового.
+20:52 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+20:52 [Warning] [CultistTrader] ✔️ Обычный NPC создан, начинаем настраивать!
+20:52 [Warning] [CultistTrader] ✔️ Настроили здоровье NPC!
+20:52 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at BaseAIBrain.SetOwningPlayer (BasePlayer owner) [0x0000d] in <15cb0c957ece47e082002c38554ba768>:0 
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x00156] in <0a9281d4cc36438090ac88c9e5d78a40>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x0001a] in <0a9281d4cc36438090ac88c9e5d78a40>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00097] in <0a9281d4cc36438090ac88c9e5d78a40>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+20:53 [Info] CultistTrader was compiled successfully in 1073ms
+20:53 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+20:53 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:53 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+20:53 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:53 [Warning] [CultistTrader] 📍 Спавним Культиста в Спутниковой станции (Координаты: (1200.00, 50.00, -600.00))
+20:53 [Error] [CultistTrader] ❌ Ошибка: GameManager не смог создать NPC!
+20:54 [Info] Shutting down compiler because idle shutdown
+20:54 [Info] Compiler shutdown completed
+20:55 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:55 [Error] Error while compiling CultistTrader: Cannot assign to 'StartHealth' because it is a 'method group' | Line: 115, Pos: 17
+20:56 [Info] Shutting down compiler because idle shutdown
+20:56 [Info] Compiler shutdown completed
+20:57 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:57 [Info] CultistTrader was compiled successfully in 1373ms
+20:57 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+20:57 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+20:57 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+20:57 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+20:57 [Warning] [CultistTrader] 📍 Спавним торговый автомат (невидимый) в Заправке
+20:57 [Warning] [CultistTrader] ✔️ Торговый автомат создан и скрыт!
+20:57 [Warning] [CultistTrader] ⚡ Спавним ученого...
+20:57 [Error] [CultistTrader] ❌ Ошибка: Не удалось создать NPC!
+20:58 [Info] Shutting down compiler because idle shutdown
+20:58 [Info] Compiler shutdown completed
+20:58 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:58 [Error] Error while compiling CultistTrader: 'NPCPlayer' does not contain a definition for 'Brain' and no accessible extension method 'Brain' accepting a first argument of type 'NPCPlayer' could be found (are you missing a using directive or an assembly reference?) | Line: 109, Pos: 21
+20:59 [Info] Shutting down compiler because idle shutdown
+20:59 [Info] Compiler shutdown completed
+20:59 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+20:59 [Error] Error while compiling CultistTrader: Argument 1: cannot convert from 'NPCPlayer' to 'IThinker' | Line: 111, Pos: 36
+21:00 [Info] Shutting down compiler because idle shutdown
+21:00 [Info] Compiler shutdown completed
+21:01 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:01 [Error] Error while compiling CultistTrader: The type or namespace name 'NPCPlayerApex' could not be found (are you missing a using directive or an assembly reference?) | Line: 105, Pos: 13
+21:01 [Info] CultistTrader was compiled successfully in 436ms
+21:01 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+21:01 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:01 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+21:02 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:02 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+21:02 [Error] [CultistTrader] ❌ Ошибка: GameManager не смог создать NPC!
+21:02 [Info] Shutting down compiler because idle shutdown
+21:02 [Info] Compiler shutdown completed
+21:04 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:04 [Info] CultistTrader was compiled successfully in 1394ms
+21:04 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+21:04 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:04 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+21:04 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:04 [Warning] [CultistTrader] 📍 Спавним бота-игрока в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+21:04 [Warning] [CultistTrader] ✔️ Бот создан как игрок!
+21:04 [Warning] [CultistTrader] ✔️ Бот теперь имеет оружие!
+21:05 [Info] Shutting down compiler because idle shutdown
+21:05 [Info] Compiler shutdown completed
+21:13 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:13 [Info] CultistTrader was compiled successfully in 1372ms
+21:13 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+21:13 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:13 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+21:13 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:13 [Warning] [CultistTrader] 📍 Спавним бота-игрока в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+21:13 [Warning] [CultistTrader] ✔️ Бот создан как игрок!
+21:13 [Warning] [CultistTrader] ✔️ Бот теперь имеет оружие!
+21:14 [Info] Shutting down compiler because idle shutdown
+21:14 [Info] Compiler shutdown completed
+21:15 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:15 [Error] Error while compiling CultistTrader: 'BaseEntity.Menu' does not contain a definition for 'VendingMachine' | Line: 75, Pos: 50
+21:16 [Error] Error while compiling CultistTrader: The type 'CultistTrader' already contains a definition for 'cultistShop' | Line: 55, Pos: 28
+21:16 [Error] Error while compiling CultistTrader: Type 'CultistTrader' already defines a member called 'CreateHiddenShop' with the same parameter types | Line: 100, Pos: 22
+21:17 [Error] Error while compiling CultistTrader: Type 'CultistTrader' already defines a member called 'CreateHiddenShop' with the same parameter types | Line: 96, Pos: 22
+21:18 [Info] CultistTrader was compiled successfully in 939ms
+21:18 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+21:18 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:18 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+21:18 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:18 [Warning] [CultistTrader] 📍 Спавним бота-игрока в Заправке (Координаты: (-800.00, 50.00, 700.00))
+21:18 [Warning] [CultistTrader] ✔️ Бот создан как игрок!
+21:18 [Warning] [CultistTrader] ✔️ Бот теперь имеет оружие!
+21:19 [Warning] [CultistTrader] ❗ Удаляю старого Культиста перед созданием нового.
+21:19 [Warning] [CultistTrader] 📍 Спавним бота-игрока в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+21:19 [Warning] [CultistTrader] ✔️ Бот создан как игрок!
+21:19 [Warning] [CultistTrader] ✔️ Бот теперь имеет оружие!
+21:19 [Info] Shutting down compiler because idle shutdown
+21:19 [Info] Compiler shutdown completed
+21:21 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:21 [Error] Error while compiling CultistTrader: Type 'CultistTrader' already defines a member called 'CreateHiddenShop' with the same parameter types | Line: 159, Pos: 22
+21:22 [Info] CultistTrader was compiled successfully in 604ms
+21:22 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+21:22 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:22 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+21:22 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:23 [Info] Shutting down compiler because idle shutdown
+21:23 [Info] Compiler shutdown completed
+21:23 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+21:23 [Error] [CultistTrader] ❌ Ошибка: Не удалось создать NPC!
+21:24 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:24 [Error] Error while compiling CultistTrader: The type 'CultistTrader' already contains a definition for 'cultistShop' | Line: 105, Pos: 28
+21:25 [Error] Error while compiling CultistTrader: Type 'CultistTrader' already defines a member called 'CmdTradeWithCultist' with the same parameter types | Line: 141, Pos: 22
+21:25 [Info] CultistTrader was compiled successfully in 233ms
+21:25 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+21:25 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:25 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+21:25 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:25 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+21:25 [Warning] [CultistTrader] 🛒 Культист (магазин) создан!
+21:25 [Warning] [CultistTrader] ❗ Удаляю старый магазин перед созданием нового.
+21:25 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+21:25 [Warning] [CultistTrader] 🛒 Культист (магазин) создан!
+21:26 [Info] Shutting down compiler because idle shutdown
+21:26 [Info] Compiler shutdown completed
+21:26 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:26 [Error] Error while compiling CultistTrader: Type 'CultistTrader' already defines a member called 'CreateHiddenShop' with the same parameter types | Line: 100, Pos: 22
+21:27 [Info] CultistTrader was compiled successfully in 591ms
+21:27 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+21:27 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:27 [Info] Loaded plugin CultistTrader v1.2.1 by Твой Ник
+21:27 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:27 [Warning] [CultistTrader] 📍 Спавним бота-игрока в Заправке (Координаты: (-800.00, 50.00, 700.00))
+21:27 [Warning] [CultistTrader] ✔️ Бот создан как игрок!
+21:27 [Warning] [CultistTrader] ✔️ Бот теперь имеет оружие!
+21:27 [Warning] [CultistTrader] 🛒 Культист получил торговлю!
+21:28 [Info] Shutting down compiler because idle shutdown
+21:28 [Info] Compiler shutdown completed
+21:30 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:30 [Info] CultistTrader was compiled successfully in 1422ms
+21:30 [Info] Unloaded plugin CultistTrader v1.2.1 by Твой Ник
+21:30 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:30 [Info] Loaded plugin CultistTrader v1.3.0 by Твой Ник
+21:31 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:31 [Info] Shutting down compiler because idle shutdown
+21:31 [Info] Compiler shutdown completed
+21:32 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:33 [Info] CultistTrader was compiled successfully in 1432ms
+21:33 [Info] Unloaded plugin CultistTrader v1.3.0 by Твой Ник
+21:33 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:33 [Info] Loaded plugin CultistTrader v1.3.1 by Твой Ник
+21:33 [Warning] [CultistTrader] 📍 Спавним бота-игрока в Заправке (Координаты: (-800.00, 50.00, 700.00))
+21:33 [Warning] [CultistTrader] ✔️ Бот теперь имеет оружие!
+21:33 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:33 [Info] Loading Oxide Core v2.0.4121...
+21:33 [Info] Loading extensions...
+21:33 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+21:33 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+21:33 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+21:33 [Info] Unity version: 2022.3.41f1
+21:33 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+21:33 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+21:34 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+21:34 [Info] [CSharp] Oxide.Compiler.exe is up to date
+21:34 [Info] Using Covalence provider for game 'Rust'
+21:34 [Info] Loading plugins...
+21:34 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+21:34 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+21:34 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:34 [Info] CultistTrader, NpcSpawn and WelcomeMessage were compiled successfully in 0ms
+21:34 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:34 [Info] Loaded plugin CultistTrader v1.3.1 by Твой Ник
+21:34 [Info] Loaded plugin NpcSpawn v2.8.0 by rustmods.ru
+21:34 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+21:34 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:35 [Info] Shutting down compiler because idle shutdown
+21:35 [Info] Compiler shutdown completed
+21:38 [Info] IP address from external API: 185.9.187.153
+21:38 [Info] [NpcSpawn] Loading custom navigation mesh files...
+21:38 [Info] [NpcSpawn] All custom navigation mesh files have loaded successfully!
+21:38 [Info] [NpcSpawn] List of biome positions: Arid = 1379, Temperate = 1764, Tundra = 661, Arctic = 722
+21:38 [Info] [NpcSpawn] List of road positions: ExtraWide = 1333, Standard = 1890, ExtraNarrow = 1522
+21:38 [Info] [NpcSpawn] 2595 railway positions found
+21:38 [Warning] Calling 'OnServerInitialized' on 'NpcSpawn v2.8.0' took 128ms
+21:41 [Warning] [CultistTrader] 📍 Спавним бота-игрока в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+21:41 [Warning] [CultistTrader] ✔️ Бот теперь имеет оружие!
+21:42 [Warning] [CultistTrader] 📍 Спавним бота-игрока в Спутниковой станции (Координаты: (1200.00, 50.00, -600.00))
+21:42 [Warning] [CultistTrader] ✔️ Бот теперь имеет оружие!
+21:44 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:44 [Info] CultistTrader was compiled successfully in 1410ms
+21:44 [Info] Unloaded plugin CultistTrader v1.3.1 by Твой Ник
+21:44 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:44 [Info] Loaded plugin CultistTrader v1.3.1 by Твой Ник
+21:44 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:44 [Warning] [CultistTrader] 📍 Спавним бота-игрока в Заправке (Координаты: (-800.00, 50.00, 700.00))
+21:44 [Warning] [CultistTrader] ✔️ Бот теперь имеет оружие!
+21:45 [Info] Shutting down compiler because idle shutdown
+21:45 [Info] Compiler shutdown completed
+21:47 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:47 [Info] CultistTrader was compiled successfully in 1441ms
+21:47 [Info] Unloaded plugin CultistTrader v1.3.1 by Твой Ник
+21:47 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:47 [Info] Loaded plugin CultistTrader v1.4.0 by Твой Ник
+21:48 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:48 [Info] Shutting down compiler because idle shutdown
+21:48 [Info] Compiler shutdown completed
+21:49 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+21:49 [Warning] [CultistTrader] ✔️ Культист теперь вооружён!
+21:53 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:53 [Error] Error while compiling CultistTrader: 'BaseEntity' does not contain a definition for 'inventory' and no accessible extension method 'inventory' accepting a first argument of type 'BaseEntity' could be found (are you missing a using directive or an assembly reference?) | Line: 151, Pos: 47
+21:54 [Info] Shutting down compiler because idle shutdown
+21:54 [Info] Compiler shutdown completed
+21:55 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:56 [Info] CultistTrader was compiled successfully in 1406ms
+21:56 [Info] Unloaded plugin CultistTrader v1.4.0 by Твой Ник
+21:56 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:56 [Info] Loaded plugin CultistTrader v1.5.1 by Твой Ник
+21:56 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:56 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+21:56 [Warning] [CultistTrader] ✔️ Культист теперь вооружён!
+21:57 [Info] Shutting down compiler because idle shutdown
+21:57 [Info] Compiler shutdown completed
+21:58 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+21:58 [Info] CultistTrader was compiled successfully in 1396ms
+21:58 [Info] Unloaded plugin CultistTrader v1.5.1 by Твой Ник
+21:58 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+21:58 [Info] Loaded plugin CultistTrader v1.5.2 by Твой Ник
+21:58 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+21:58 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+21:58 [Warning] [CultistTrader] ✔️ Культист теперь вооружён!
+21:59 [Info] Shutting down compiler because idle shutdown
+21:59 [Info] Compiler shutdown completed
+22:01 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:01 [Error] Error while compiling CultistTrader: 'VendingMachine' does not contain a definition for 'IsLootable' and no accessible extension method 'IsLootable' accepting a first argument of type 'VendingMachine' could be found (are you missing a using directive or an assembly reference?) | Line: 152, Pos: 25
+22:02 [Info] Shutting down compiler because idle shutdown
+22:02 [Info] Compiler shutdown completed
+22:03 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:03 [Info] CultistTrader was compiled successfully in 1441ms
+22:03 [Info] Unloaded plugin CultistTrader v1.5.2 by Твой Ник
+22:03 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+22:03 [Info] Loaded plugin CultistTrader v1.5.4 by Твой Ник
+22:03 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+22:03 [Warning] [CultistTrader] 📍 Спавним Культиста в Заправке (Координаты: (-800.00, 50.00, 700.00))
+22:03 [Warning] [CultistTrader] ✔️ Культист теперь вооружён!
+22:04 [Info] Shutting down compiler because idle shutdown
+22:04 [Info] Compiler shutdown completed
+22:06 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:06 [Info] CultistTrader was compiled successfully in 1448ms
+22:06 [Info] Unloaded plugin CultistTrader v1.5.4 by Твой Ник
+22:06 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+22:06 [Info] Loaded plugin CultistTrader v1.5.4 by Твой Ник
+22:06 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+22:06 [Error] Error while compiling CultistTrader: 'VendingMachine' does not contain a definition for 'UpdateCustomers' and no accessible extension method 'UpdateCustomers' accepting a first argument of type 'VendingMachine' could be found (are you missing a using directive or an assembly reference?) | Line: 159, Pos: 25
+22:07 [Info] Shutting down compiler because idle shutdown
+22:07 [Info] Compiler shutdown completed
+22:09 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:09 [Error] Error while compiling CultistTrader: The type name 'SellOrder' does not exist in the type 'VendingMachine' | Line: 173, Pos: 28
+22:10 [Info] Shutting down compiler because idle shutdown
+22:10 [Info] Compiler shutdown completed
+22:12 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:12 [Error] Error while compiling CultistTrader: 'VendingMachine' does not contain a definition for 'ClearSellOrders' and no accessible extension method 'ClearSellOrders' accepting a first argument of type 'VendingMachine' could be found (are you missing a using directive or an assembly reference?) | Line: 156, Pos: 25
+22:13 [Info] Shutting down compiler because idle shutdown
+22:13 [Info] Compiler shutdown completed
+22:14 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:14 [Error] Error while compiling CultistTrader: There is no argument given that corresponds to the required parameter 'bpState' of 'VendingMachine.AddSellOrder(int, int, int, int, byte)' | Line: 159, Pos: 25
+22:15 [Info] Shutting down compiler because idle shutdown
+22:15 [Info] Compiler shutdown completed
+22:17 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:17 [Info] CultistTrader was compiled successfully in 1393ms
+22:17 [Info] Unloaded plugin CultistTrader v1.5.4 by Твой Ник
+22:17 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+22:17 [Info] Loaded plugin CultistTrader v1.6.3 by Твой Ник
+22:17 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+22:17 [Warning] [CultistTrader] 📍 Спавним Культиста в Спутниковой станции (Координаты: (1200.00, 50.00, -600.00))
+22:17 [Warning] [CultistTrader] ✔️ Культист теперь вооружён!
+22:18 [Info] Shutting down compiler because idle shutdown
+22:18 [Info] Compiler shutdown completed
+22:20 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:20 [Info] CultistTrader was compiled successfully in 1439ms
+22:20 [Info] Unloaded plugin CultistTrader v1.6.3 by Твой Ник
+22:20 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+22:20 [Info] Loaded plugin CultistTrader v2.0.0 by Твой Ник
+22:20 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+22:20 [Warning] [CultistTrader] 📍 Спавним Культиста в Спутниковой станции (Координаты: (1200.00, 50.00, -600.00))
+22:20 [Warning] [CultistTrader] ✔️ Культист теперь вооружён!
+22:21 [Info] Shutting down compiler because idle shutdown
+22:21 [Info] Compiler shutdown completed
+22:24 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:24 [Error] Error while compiling CultistTrader: 'Dictionary<string, Vector3>' does not contain a definition for 'ElementAt' and no accessible extension method 'ElementAt' accepting a first argument of type 'Dictionary<string, Vector3>' could be found (are you missing a using directive or an assembly reference?) | Line: 99, Pos: 49
+22:25 [Info] Shutting down compiler because idle shutdown
+22:25 [Info] Compiler shutdown completed
+22:26 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:26 [Error] Error while compiling CultistTrader: 'Dictionary<string, Vector3>.KeyCollection' does not contain a definition for 'ToList' and no accessible extension method 'ToList' accepting a first argument of type 'Dictionary<string, Vector3>.KeyCollection' could be found (are you missing a using directive or an assembly reference?) | Line: 99, Pos: 49
+22:27 [Info] Shutting down compiler because idle shutdown
+22:27 [Info] Compiler shutdown completed
+22:28 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:28 [Error] Error while compiling CultistTrader: 'Dictionary<string, Vector3>.KeyCollection' does not contain a definition for 'ToList' and no accessible extension method 'ToList' accepting a first argument of type 'Dictionary<string, Vector3>.KeyCollection' could be found (are you missing a using directive or an assembly reference?) | Line: 99, Pos: 49
+22:29 [Info] Shutting down compiler because idle shutdown
+22:29 [Info] Compiler shutdown completed
+22:31 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:31 [Error] Error while compiling CultistTrader: The name 'CuiHelper' does not exist in the current context | Line: 163, Pos: 13
+22:32 [Info] CultistTrader was compiled successfully in 587ms
+22:32 [Info] Unloaded plugin CultistTrader v2.0.0 by Твой Ник
+22:32 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+22:32 [Info] Loaded plugin CultistTrader v2.2.0 by Твой Ник
+22:32 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+22:32 [Warning] [CultistTrader] 📍 Спавним Культиста в Супермаркете (Координаты: (500.00, 50.00, -200.00))
+22:33 [Info] Shutting down compiler because idle shutdown
+22:33 [Info] Compiler shutdown completed
+22:35 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:35 [Info] CultistTrader was compiled successfully in 1340ms
+22:35 [Info] Unloaded plugin CultistTrader v2.2.0 by Твой Ник
+22:35 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+22:35 [Info] Loaded plugin CultistTrader v2.4.0 by Твой Ник
+22:35 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+22:36 [Info] Shutting down compiler because idle shutdown
+22:36 [Info] Compiler shutdown completed
+22:40 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:40 [Info] CultistTrader was compiled successfully in 1421ms
+22:40 [Info] Unloaded plugin CultistTrader v2.4.0 by Твой Ник
+22:40 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+22:40 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+22:40 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+22:40 [Warning] [CultistTrader] 📍 Спавним Культиста в Спутниковой станции (Координаты: (1200.00, 50.00, -600.00))
+22:41 [Info] Shutting down compiler because idle shutdown
+22:41 [Info] Compiler shutdown completed
+22:47 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:47 [Info] CultistTrader was compiled successfully in 1419ms
+22:47 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+22:47 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+22:47 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+22:47 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+22:47 [Warning] [CultistTrader] 📍 Спавним Культиста на монументе (Координаты: (-161.25, 40.13, 26.25))
+22:48 [Warning] [CultistTrader] 📍 Спавним Культиста на монументе (Координаты: (218.39, 6.74, 1644.89))
+22:48 [Info] Shutting down compiler because idle shutdown
+22:48 [Info] Compiler shutdown completed
+22:48 [Warning] [CultistTrader] 📍 Спавним Культиста на монументе (Координаты: (-1243.40, 8.33, 833.73))
+22:50 [Warning] [CultistTrader] 📍 Спавним Культиста на монументе (Координаты: (465.58, 49.53, -655.76))
+22:50 [Warning] [CultistTrader] 📍 Спавним Культиста на монументе (Координаты: (-1102.97, 15.11, -1576.67))
+22:50 [Warning] [CultistTrader] 📍 Спавним Культиста на монументе (Координаты: (-1593.26, 4.49, 1877.15))
+22:53 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+22:53 [Error] Error while compiling CultistTrader: The modifier 'private' is not valid for this item | Line: 1, Pos: 1
+22:54 [Info] CultistTrader was compiled successfully in 416ms
+22:54 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+22:54 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+22:54 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+22:54 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+22:54 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (-1790.72, -2.66, 714.63))
+22:55 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (1226.25, 14.44, -1203.75))
+22:55 [Info] Shutting down compiler because idle shutdown
+22:55 [Info] Compiler shutdown completed
+22:55 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (-1706.25, 7.39, 723.75))
+22:56 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (568.86, 32.83, -995.96))
+22:56 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (1226.25, 14.44, -1203.75))
+22:56 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (-257.07, 16.52, 387.62))
+22:57 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (-1765.40, 4.94, 246.73))
+23:01 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+23:01 [Info] CultistTrader was compiled successfully in 1382ms
+23:01 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+23:01 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+23:01 [Info] Loaded plugin CultistTrader v2.6.0 by Твой Ник
+23:01 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+23:01 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (-1773.75, 5.40, 101.25))
+23:01 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (1241.25, 20.48, -708.75))
+23:02 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (56.25, 2.62, -1511.25))
+23:02 [Info] Shutting down compiler because idle shutdown
+23:02 [Info] Compiler shutdown completed
+23:08 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+23:08 [Info] CultistTrader was compiled successfully in 1373ms
+23:08 [Info] Unloaded plugin CultistTrader v2.6.0 by Твой Ник
+23:08 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+23:08 [Info] Loaded plugin CultistTrader v2.6.0 by Твой Ник
+23:08 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+23:08 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (226.55, 5.52, 1635.26))
+23:09 [Info] Shutting down compiler because idle shutdown
+23:09 [Info] Compiler shutdown completed
+23:13 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+23:13 [Error] Error while compiling CultistTrader: Top-level statements must precede namespace and type declarations. | Line: 178, Pos: 1
+23:14 [Info] Shutting down compiler because idle shutdown
+23:14 [Info] Compiler shutdown completed
+23:14 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+23:14 [Error] Error while compiling CultistTrader: Top-level statements must precede namespace and type declarations. | Line: 176, Pos: 1
+23:15 [Info] Shutting down compiler because idle shutdown
+23:15 [Info] Compiler shutdown completed
+23:16 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+23:16 [Info] CultistTrader was compiled successfully in 1413ms
+23:16 [Info] Unloaded plugin CultistTrader v2.6.0 by Твой Ник
+23:16 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+23:16 [Info] Loaded plugin CultistTrader v2.6.0 by Твой Ник
+23:16 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+23:17 [Info] Shutting down compiler because idle shutdown
+23:17 [Info] Compiler shutdown completed
+23:19 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (1083.77, 17.99, -1292.72))
+23:20 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (1147.90, 36.29, -589.86))
+23:26 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+23:26 [Info] CultistTrader was compiled successfully in 1421ms
+23:26 [Info] Unloaded plugin CultistTrader v2.6.0 by Твой Ник
+23:26 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+23:26 [Info] Loaded plugin CultistTrader v2.6.0 by Твой Ник
+23:26 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+23:26 [Warning] [CultistTrader] 📍 Спавним Культиста у неизвестного места (Координаты: (1291.96, 13.03, -1207.25))
+23:27 [Info] CultistTrader was compiled successfully in 1165ms
+23:27 [Info] Unloaded plugin CultistTrader v2.6.0 by Твой Ник
+23:27 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+23:27 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+23:27 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+23:28 [Info] Shutting down compiler because idle shutdown
+23:28 [Info] Compiler shutdown completed
+23:30 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+23:30 [Info] CultistTrader was compiled successfully in 1373ms
+23:30 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+23:30 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+23:30 [Info] Loaded plugin CultistTrader v2.6.0 by Твой Ник
+23:30 [Warning] [CultistTrader] 📍 Спавним Культиста у Электростанции (Координаты: (-1083.64, 24.95, -637.69))
+23:30 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+23:31 [Info] Shutting down compiler because idle shutdown
+23:31 [Info] Compiler shutdown completed
+23:32 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+23:32 [Info] CultistTrader was compiled successfully in 1471ms
+23:32 [Info] Unloaded plugin CultistTrader v2.6.0 by Твой Ник
+23:32 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+23:32 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+23:32 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+23:33 [Info] Shutting down compiler because idle shutdown
+23:33 [Info] Compiler shutdown completed
+23:35 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+23:35 [Info] CultistTrader was compiled successfully in 1440ms
+23:35 [Info] Unloaded plugin CultistTrader v2.5.0 by Твой Ник
+23:35 [Warning] [CultistTrader] ⏳ Ожидаем загрузки NpcSpawn...
+23:35 [Info] Loaded plugin CultistTrader v2.5.0 by Твой Ник
+23:35 [Warning] [CultistTrader] ✅ NpcSpawn загружен! Запускаем таймер на спавн.
+23:36 [Info] Shutting down compiler because idle shutdown
+23:36 [Info] Compiler shutdown completed

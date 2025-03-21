@@ -1,0 +1,129 @@
+14:27 [Info] Loading Oxide Core v2.0.4121...
+14:27 [Info] Loading extensions...
+14:27 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+14:27 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+14:27 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+14:27 [Info] Unity version: 2022.3.41f1
+14:27 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+14:27 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+14:27 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+14:27 [Info] [CSharp] Oxide.Compiler.exe is up to date
+14:27 [Info] Using Covalence provider for game 'Rust'
+14:27 [Info] Loading plugins...
+14:27 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+14:27 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+14:31 [Info] IP address from external API: 185.9.187.153
+14:32 [Info] No plugins are currently available
+14:33 [Info] Oxide.Rust Version: 2.0.6377
+Oxide.Rust Branch: master
+14:33 [Error] Could not load plugin 'PluginRust' (no plugin found with that file name)
+14:34 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:34 [Error] Error while compiling PluginRust: Identifier expected | Line: 1, Pos: 3
+14:35 [Info] Listing 1 plugins:
+  01 PluginRust - Failed to compile: Identifier expected | Line: 1, Pos: 3
+14:35 [Error] Error while compiling PluginRust: Identifier expected | Line: 1, Pos: 3
+14:36 [Info] Shutting down compiler because idle shutdown
+14:36 [Info] Compiler shutdown completed
+14:39 [Info] Loading Oxide Core v2.0.4121...
+14:39 [Info] Loading extensions...
+14:39 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+14:39 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+14:39 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+14:39 [Info] Unity version: 2022.3.41f1
+14:39 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+14:39 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+14:39 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+14:39 [Info] [CSharp] Oxide.Compiler.exe is up to date
+14:39 [Info] Using Covalence provider for game 'Rust'
+14:39 [Info] Loading plugins...
+14:39 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+14:39 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+14:39 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:39 [Error] Error while compiling PluginRust: Identifier expected | Line: 1, Pos: 3
+14:40 [Info] Shutting down compiler because idle shutdown
+14:40 [Info] Compiler shutdown completed
+14:41 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+14:41 [Info] WelcomeMessage was compiled successfully in 1566ms
+14:41 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+14:42 [Info] Shutting down compiler because idle shutdown
+14:42 [Info] Compiler shutdown completed
+14:42 [Info] IP address from external API: 185.9.187.153
+14:48 [Info] Listing 1 plugins:
+  01 "WelcomeMessage" (1.0.0) by Твой Ник (0.00s / 0 B) - WelcomeMessage.cs
+15:45 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+15:45 [Info] CultistTrader was compiled successfully in 1412ms
+15:45 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+15:46 [Info] Listing 2 plugins:
+  01 "WelcomeMessage" (1.0.0) by Твой Ник (0.10s / 12 KB) - WelcomeMessage.cs
+  02 "CultistTrader" (1.2.0) by Твой Ник (0.00s / 0 B) - CultistTrader.cs
+15:46 [Info] Shutting down compiler because idle shutdown
+15:46 [Info] Compiler shutdown completed
+15:59 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+15:59 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:02 [Info] Usage: oxide.show <groups|perms>
+16:02 [Info] Usage: oxide.show <group|user> <name>
+16:11 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+16:11 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:11 [Info] CultistTrader was compiled successfully in 1328ms
+16:11 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:12 [Info] Unloaded plugin CultistTrader v1.2.0 by Твой Ник
+16:12 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:12 [Info] Shutting down compiler because idle shutdown
+16:12 [Info] Compiler shutdown completed
+16:15 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x00029] in <3a8164e804b5421ab76c4a0e9b889d67>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x00009] in <3a8164e804b5421ab76c4a0e9b889d67>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00140] in <3a8164e804b5421ab76c4a0e9b889d67>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+16:15 [Warning] Calling 'CmdForceSpawn' on 'CultistTrader v1.2.0' took 193ms
+16:17 [Error] Failed to call hook 'CmdForceSpawn' on plugin 'CultistTrader v1.2.0' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.CultistTrader.SpawnCultist () [0x00029] in <3a8164e804b5421ab76c4a0e9b889d67>:0 
+  at Oxide.Plugins.CultistTrader.CmdForceSpawn (BasePlayer player) [0x00009] in <3a8164e804b5421ab76c4a0e9b889d67>:0 
+  at Oxide.Plugins.CultistTrader.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00140] in <3a8164e804b5421ab76c4a0e9b889d67>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9c80d821d00a44c9a24497c73ad2d20d>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000de] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d646191a355d43a6b3ab36b7ee14c740>:0 
+16:36 [Info] Loading Oxide Core v2.0.4121...
+16:36 [Info] Loading extensions...
+16:36 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+16:36 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+16:36 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+16:36 [Info] Unity version: 2022.3.41f1
+16:36 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+16:36 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+16:36 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+16:36 [Info] [CSharp] Oxide.Compiler.exe is up to date
+16:36 [Info] Using Covalence provider for game 'Rust'
+16:36 [Info] Loading plugins...
+16:36 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+16:36 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+16:36 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:37 [Info] CultistTrader and WelcomeMessage were compiled successfully in 0ms
+16:37 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:37 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+16:37 [Info] Shutting down compiler because idle shutdown
+16:37 [Info] Compiler shutdown completed
+16:41 [Info] IP address from external API: 185.9.187.153
+16:43 [Info] Loading Oxide Core v2.0.4121...
+16:43 [Info] Loading extensions...
+16:43 [Info] Loaded extension CSharp v2.0.4147 by Oxide Team and Contributors
+16:43 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+16:43 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+16:43 [Info] Unity version: 2022.3.41f1
+16:43 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+16:43 [Info] Loaded extension Rust v2.0.6377 by Oxide Team and Contributors
+16:43 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 6256bc14d4b2ff2fb06947dde31dd058 | Last modified: 2025-02-11 14:50:05
+16:43 [Info] [CSharp] Oxide.Compiler.exe is up to date
+16:43 [Info] Using Covalence provider for game 'Rust'
+16:43 [Info] Loading plugins...
+16:43 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+16:43 [Info] Loaded plugin Rust v2.0.6377 by Oxide Team and Contributors
+16:43 [Info] [CSharp] Started Oxide.Compiler v1.0.32.0 successfully
+16:43 [Info] CultistTrader and WelcomeMessage were compiled successfully in 0ms
+16:43 [Info] Loaded plugin CultistTrader v1.2.0 by Твой Ник
+16:43 [Info] Loaded plugin WelcomeMessage v1.0.0 by Твой Ник
+16:44 [Info] Shutting down compiler because idle shutdown
+16:44 [Info] Compiler shutdown completed
+16:48 [Info] IP address from external API: 185.9.187.153
